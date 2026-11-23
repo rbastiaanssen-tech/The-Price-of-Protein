@@ -1,0 +1,7707 @@
+{
+  "version": "v1.3-empirical",
+  "n_series": 89,
+  "series": [
+    {
+      "city": "Harare",
+      "country_iso3": "ZWE",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 124,
+      "seasonal_cv_pct": 93.4,
+      "peak_to_trough_swing_pct": 860.9,
+      "peak_month": 4,
+      "trough_month": 6,
+      "peak_labor_min": 183.3,
+      "trough_labor_min": 19.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 27,
+          "med_u_usd": 0.819,
+          "med_labor_min": 49.7
+        },
+        {
+          "month": 2,
+          "n_obs": 28,
+          "med_u_usd": 0.754,
+          "med_labor_min": 45.8
+        },
+        {
+          "month": 3,
+          "n_obs": 14,
+          "med_u_usd": 0.744,
+          "med_labor_min": 45.1
+        },
+        {
+          "month": 4,
+          "n_obs": 9,
+          "med_u_usd": 3.019,
+          "med_labor_min": 183.3
+        },
+        {
+          "month": 5,
+          "n_obs": 11,
+          "med_u_usd": 1.229,
+          "med_labor_min": 74.6
+        },
+        {
+          "month": 6,
+          "n_obs": 4,
+          "med_u_usd": 0.314,
+          "med_labor_min": 19.1
+        },
+        {
+          "month": 7,
+          "n_obs": 6,
+          "med_u_usd": 0.341,
+          "med_labor_min": 20.7
+        },
+        {
+          "month": 8,
+          "n_obs": 6,
+          "med_u_usd": 0.528,
+          "med_labor_min": 32.0
+        },
+        {
+          "month": 9,
+          "n_obs": 3,
+          "med_u_usd": 2.112,
+          "med_labor_min": 128.2
+        },
+        {
+          "month": 10,
+          "n_obs": 5,
+          "med_u_usd": 0.328,
+          "med_labor_min": 19.9
+        },
+        {
+          "month": 11,
+          "n_obs": 5,
+          "med_u_usd": 0.341,
+          "med_labor_min": 20.7
+        },
+        {
+          "month": 12,
+          "n_obs": 6,
+          "med_u_usd": 0.341,
+          "med_labor_min": 20.7
+        }
+      ]
+    },
+    {
+      "city": "Amsterdam",
+      "country_iso3": "NLD",
+      "region": "Europe & N. America",
+      "months_covered": 10,
+      "total_obs": 33,
+      "seasonal_cv_pct": 55.8,
+      "peak_to_trough_swing_pct": 1625.2,
+      "peak_month": 4,
+      "trough_month": 6,
+      "peak_labor_min": 13.0,
+      "trough_labor_min": 0.8,
+      "monthly_profile": [
+        {
+          "month": 2,
+          "n_obs": 2,
+          "med_u_usd": 1.63,
+          "med_labor_min": 3.6
+        },
+        {
+          "month": 3,
+          "n_obs": 1,
+          "med_u_usd": 3.767,
+          "med_labor_min": 8.3
+        },
+        {
+          "month": 4,
+          "n_obs": 2,
+          "med_u_usd": 5.904,
+          "med_labor_min": 13.0
+        },
+        {
+          "month": 6,
+          "n_obs": 14,
+          "med_u_usd": 0.342,
+          "med_labor_min": 0.8
+        },
+        {
+          "month": 7,
+          "n_obs": 2,
+          "med_u_usd": 3.789,
+          "med_labor_min": 8.4
+        },
+        {
+          "month": 8,
+          "n_obs": 6,
+          "med_u_usd": 3.046,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 9,
+          "n_obs": 1,
+          "med_u_usd": 1.645,
+          "med_labor_min": 3.6
+        },
+        {
+          "month": 10,
+          "n_obs": 1,
+          "med_u_usd": 1.609,
+          "med_labor_min": 3.5
+        },
+        {
+          "month": 11,
+          "n_obs": 3,
+          "med_u_usd": 2.978,
+          "med_labor_min": 6.6
+        },
+        {
+          "month": 12,
+          "n_obs": 1,
+          "med_u_usd": 3.465,
+          "med_labor_min": 7.6
+        }
+      ]
+    },
+    {
+      "city": "Madrid",
+      "country_iso3": "ESP",
+      "region": "Europe & N. America",
+      "months_covered": 9,
+      "total_obs": 38,
+      "seasonal_cv_pct": 43.9,
+      "peak_to_trough_swing_pct": 764.6,
+      "peak_month": 3,
+      "trough_month": 6,
+      "peak_labor_min": 17.8,
+      "trough_labor_min": 2.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1,
+          "med_u_usd": 1.866,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 2,
+          "n_obs": 4,
+          "med_u_usd": 3.337,
+          "med_labor_min": 11.9
+        },
+        {
+          "month": 3,
+          "n_obs": 1,
+          "med_u_usd": 4.988,
+          "med_labor_min": 17.8
+        },
+        {
+          "month": 5,
+          "n_obs": 2,
+          "med_u_usd": 4.461,
+          "med_labor_min": 15.9
+        },
+        {
+          "month": 6,
+          "n_obs": 21,
+          "med_u_usd": 0.576,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 7,
+          "n_obs": 3,
+          "med_u_usd": 2.283,
+          "med_labor_min": 8.2
+        },
+        {
+          "month": 8,
+          "n_obs": 2,
+          "med_u_usd": 4.14,
+          "med_labor_min": 14.8
+        },
+        {
+          "month": 10,
+          "n_obs": 2,
+          "med_u_usd": 3.553,
+          "med_labor_min": 12.7
+        },
+        {
+          "month": 11,
+          "n_obs": 2,
+          "med_u_usd": 3.163,
+          "med_labor_min": 11.3
+        }
+      ]
+    },
+    {
+      "city": "Barcelona",
+      "country_iso3": "ESP",
+      "region": "Europe & N. America",
+      "months_covered": 10,
+      "total_obs": 68,
+      "seasonal_cv_pct": 41.8,
+      "peak_to_trough_swing_pct": 265.7,
+      "peak_month": 9,
+      "trough_month": 5,
+      "peak_labor_min": 15.1,
+      "trough_labor_min": 4.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 21,
+          "med_u_usd": 3.129,
+          "med_labor_min": 11.2
+        },
+        {
+          "month": 2,
+          "n_obs": 2,
+          "med_u_usd": 2.009,
+          "med_labor_min": 7.2
+        },
+        {
+          "month": 3,
+          "n_obs": 2,
+          "med_u_usd": 2.042,
+          "med_labor_min": 7.3
+        },
+        {
+          "month": 5,
+          "n_obs": 3,
+          "med_u_usd": 1.159,
+          "med_labor_min": 4.1
+        },
+        {
+          "month": 6,
+          "n_obs": 9,
+          "med_u_usd": 1.627,
+          "med_labor_min": 5.8
+        },
+        {
+          "month": 7,
+          "n_obs": 2,
+          "med_u_usd": 2.776,
+          "med_labor_min": 9.9
+        },
+        {
+          "month": 9,
+          "n_obs": 1,
+          "med_u_usd": 4.239,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 10,
+          "n_obs": 1,
+          "med_u_usd": 1.361,
+          "med_labor_min": 4.9
+        },
+        {
+          "month": 11,
+          "n_obs": 2,
+          "med_u_usd": 2.277,
+          "med_labor_min": 8.1
+        },
+        {
+          "month": 12,
+          "n_obs": 25,
+          "med_u_usd": 1.677,
+          "med_labor_min": 6.0
+        }
+      ]
+    },
+    {
+      "city": "London",
+      "country_iso3": "GBR",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 114,
+      "seasonal_cv_pct": 39.0,
+      "peak_to_trough_swing_pct": 456.5,
+      "peak_month": 4,
+      "trough_month": 12,
+      "peak_labor_min": 9.0,
+      "trough_labor_min": 1.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 13,
+          "med_u_usd": 3.129,
+          "med_labor_min": 8.0
+        },
+        {
+          "month": 2,
+          "n_obs": 6,
+          "med_u_usd": 2.72,
+          "med_labor_min": 7.0
+        },
+        {
+          "month": 3,
+          "n_obs": 2,
+          "med_u_usd": 1.522,
+          "med_labor_min": 3.9
+        },
+        {
+          "month": 4,
+          "n_obs": 4,
+          "med_u_usd": 3.516,
+          "med_labor_min": 9.0
+        },
+        {
+          "month": 5,
+          "n_obs": 4,
+          "med_u_usd": 1.224,
+          "med_labor_min": 3.1
+        },
+        {
+          "month": 6,
+          "n_obs": 5,
+          "med_u_usd": 3.302,
+          "med_labor_min": 8.5
+        },
+        {
+          "month": 7,
+          "n_obs": 7,
+          "med_u_usd": 2.442,
+          "med_labor_min": 6.3
+        },
+        {
+          "month": 8,
+          "n_obs": 10,
+          "med_u_usd": 1.81,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 9,
+          "n_obs": 16,
+          "med_u_usd": 2.21,
+          "med_labor_min": 5.7
+        },
+        {
+          "month": 10,
+          "n_obs": 31,
+          "med_u_usd": 1.907,
+          "med_labor_min": 4.9
+        },
+        {
+          "month": 11,
+          "n_obs": 15,
+          "med_u_usd": 2.223,
+          "med_labor_min": 5.7
+        },
+        {
+          "month": 12,
+          "n_obs": 1,
+          "med_u_usd": 0.631,
+          "med_labor_min": 1.6
+        }
+      ]
+    },
+    {
+      "city": "Khartoum",
+      "country_iso3": "SDN",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 159,
+      "seasonal_cv_pct": 35.3,
+      "peak_to_trough_swing_pct": 158.7,
+      "peak_month": 12,
+      "trough_month": 6,
+      "peak_labor_min": 577.2,
+      "trough_labor_min": 223.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 13,
+          "med_u_usd": 1.623,
+          "med_labor_min": 243.7
+        },
+        {
+          "month": 2,
+          "n_obs": 11,
+          "med_u_usd": 1.812,
+          "med_labor_min": 272.0
+        },
+        {
+          "month": 3,
+          "n_obs": 11,
+          "med_u_usd": 1.812,
+          "med_labor_min": 272.0
+        },
+        {
+          "month": 4,
+          "n_obs": 14,
+          "med_u_usd": 1.924,
+          "med_labor_min": 288.9
+        },
+        {
+          "month": 5,
+          "n_obs": 21,
+          "med_u_usd": 2.264,
+          "med_labor_min": 340.0
+        },
+        {
+          "month": 6,
+          "n_obs": 16,
+          "med_u_usd": 1.486,
+          "med_labor_min": 223.1
+        },
+        {
+          "month": 7,
+          "n_obs": 10,
+          "med_u_usd": 1.925,
+          "med_labor_min": 289.0
+        },
+        {
+          "month": 8,
+          "n_obs": 10,
+          "med_u_usd": 1.498,
+          "med_labor_min": 224.9
+        },
+        {
+          "month": 9,
+          "n_obs": 15,
+          "med_u_usd": 3.63,
+          "med_labor_min": 545.1
+        },
+        {
+          "month": 10,
+          "n_obs": 15,
+          "med_u_usd": 2.885,
+          "med_labor_min": 433.2
+        },
+        {
+          "month": 11,
+          "n_obs": 12,
+          "med_u_usd": 2.546,
+          "med_labor_min": 382.3
+        },
+        {
+          "month": 12,
+          "n_obs": 11,
+          "med_u_usd": 3.844,
+          "med_labor_min": 577.2
+        }
+      ]
+    },
+    {
+      "city": "Antananarivo",
+      "country_iso3": "MDG",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 910,
+      "seasonal_cv_pct": 16.8,
+      "peak_to_trough_swing_pct": 56.2,
+      "peak_month": 1,
+      "trough_month": 7,
+      "peak_labor_min": 121.8,
+      "trough_labor_min": 78.0,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 20,
+          "med_u_usd": 0.988,
+          "med_labor_min": 121.8
+        },
+        {
+          "month": 2,
+          "n_obs": 49,
+          "med_u_usd": 0.752,
+          "med_labor_min": 92.7
+        },
+        {
+          "month": 3,
+          "n_obs": 77,
+          "med_u_usd": 0.636,
+          "med_labor_min": 78.4
+        },
+        {
+          "month": 4,
+          "n_obs": 89,
+          "med_u_usd": 0.644,
+          "med_labor_min": 79.4
+        },
+        {
+          "month": 5,
+          "n_obs": 113,
+          "med_u_usd": 0.644,
+          "med_labor_min": 79.4
+        },
+        {
+          "month": 6,
+          "n_obs": 161,
+          "med_u_usd": 0.656,
+          "med_labor_min": 80.9
+        },
+        {
+          "month": 7,
+          "n_obs": 156,
+          "med_u_usd": 0.632,
+          "med_labor_min": 78.0
+        },
+        {
+          "month": 8,
+          "n_obs": 163,
+          "med_u_usd": 0.655,
+          "med_labor_min": 80.8
+        },
+        {
+          "month": 9,
+          "n_obs": 20,
+          "med_u_usd": 0.937,
+          "med_labor_min": 115.5
+        },
+        {
+          "month": 10,
+          "n_obs": 26,
+          "med_u_usd": 0.853,
+          "med_labor_min": 105.1
+        },
+        {
+          "month": 11,
+          "n_obs": 18,
+          "med_u_usd": 0.734,
+          "med_labor_min": 90.5
+        },
+        {
+          "month": 12,
+          "n_obs": 18,
+          "med_u_usd": 0.715,
+          "med_labor_min": 88.1
+        }
+      ]
+    },
+    {
+      "city": "New York",
+      "country_iso3": "USA",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 568,
+      "seasonal_cv_pct": 15.2,
+      "peak_to_trough_swing_pct": 44.3,
+      "peak_month": 4,
+      "trough_month": 3,
+      "peak_labor_min": 3.0,
+      "trough_labor_min": 2.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 104,
+          "med_u_usd": 1.425,
+          "med_labor_min": 3.0
+        },
+        {
+          "month": 2,
+          "n_obs": 24,
+          "med_u_usd": 1.086,
+          "med_labor_min": 2.3
+        },
+        {
+          "month": 3,
+          "n_obs": 23,
+          "med_u_usd": 0.994,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 4,
+          "n_obs": 96,
+          "med_u_usd": 1.432,
+          "med_labor_min": 3.0
+        },
+        {
+          "month": 5,
+          "n_obs": 18,
+          "med_u_usd": 1.065,
+          "med_labor_min": 2.2
+        },
+        {
+          "month": 6,
+          "n_obs": 36,
+          "med_u_usd": 1.35,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 7,
+          "n_obs": 95,
+          "med_u_usd": 1.43,
+          "med_labor_min": 3.0
+        },
+        {
+          "month": 8,
+          "n_obs": 18,
+          "med_u_usd": 1.01,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 9,
+          "n_obs": 32,
+          "med_u_usd": 1.197,
+          "med_labor_min": 2.5
+        },
+        {
+          "month": 10,
+          "n_obs": 86,
+          "med_u_usd": 1.417,
+          "med_labor_min": 3.0
+        },
+        {
+          "month": 11,
+          "n_obs": 18,
+          "med_u_usd": 1.056,
+          "med_labor_min": 2.2
+        },
+        {
+          "month": 12,
+          "n_obs": 18,
+          "med_u_usd": 1.042,
+          "med_labor_min": 2.2
+        }
+      ]
+    },
+    {
+      "city": "Accra",
+      "country_iso3": "GHA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 2241,
+      "seasonal_cv_pct": 14.6,
+      "peak_to_trough_swing_pct": 48.5,
+      "peak_month": 4,
+      "trough_month": 1,
+      "peak_labor_min": 40.8,
+      "trough_labor_min": 27.5,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 214,
+          "med_u_usd": 0.595,
+          "med_labor_min": 27.5
+        },
+        {
+          "month": 2,
+          "n_obs": 185,
+          "med_u_usd": 0.738,
+          "med_labor_min": 34.0
+        },
+        {
+          "month": 3,
+          "n_obs": 181,
+          "med_u_usd": 0.67,
+          "med_labor_min": 30.9
+        },
+        {
+          "month": 4,
+          "n_obs": 207,
+          "med_u_usd": 0.883,
+          "med_labor_min": 40.8
+        },
+        {
+          "month": 5,
+          "n_obs": 212,
+          "med_u_usd": 0.861,
+          "med_labor_min": 39.7
+        },
+        {
+          "month": 6,
+          "n_obs": 156,
+          "med_u_usd": 0.698,
+          "med_labor_min": 32.2
+        },
+        {
+          "month": 7,
+          "n_obs": 183,
+          "med_u_usd": 0.81,
+          "med_labor_min": 37.4
+        },
+        {
+          "month": 8,
+          "n_obs": 184,
+          "med_u_usd": 0.83,
+          "med_labor_min": 38.3
+        },
+        {
+          "month": 9,
+          "n_obs": 177,
+          "med_u_usd": 0.808,
+          "med_labor_min": 37.3
+        },
+        {
+          "month": 10,
+          "n_obs": 175,
+          "med_u_usd": 0.63,
+          "med_labor_min": 29.1
+        },
+        {
+          "month": 11,
+          "n_obs": 188,
+          "med_u_usd": 0.615,
+          "med_labor_min": 28.4
+        },
+        {
+          "month": 12,
+          "n_obs": 179,
+          "med_u_usd": 0.606,
+          "med_labor_min": 28.0
+        }
+      ]
+    },
+    {
+      "city": "Berlin",
+      "country_iso3": "DEU",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 507,
+      "seasonal_cv_pct": 14.3,
+      "peak_to_trough_swing_pct": 63.9,
+      "peak_month": 3,
+      "trough_month": 11,
+      "peak_labor_min": 6.7,
+      "trough_labor_min": 4.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 15,
+          "med_u_usd": 2.812,
+          "med_labor_min": 6.4
+        },
+        {
+          "month": 2,
+          "n_obs": 18,
+          "med_u_usd": 2.844,
+          "med_labor_min": 6.5
+        },
+        {
+          "month": 3,
+          "n_obs": 39,
+          "med_u_usd": 2.937,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 4,
+          "n_obs": 53,
+          "med_u_usd": 2.071,
+          "med_labor_min": 4.7
+        },
+        {
+          "month": 5,
+          "n_obs": 46,
+          "med_u_usd": 2.621,
+          "med_labor_min": 6.0
+        },
+        {
+          "month": 6,
+          "n_obs": 79,
+          "med_u_usd": 2.44,
+          "med_labor_min": 5.5
+        },
+        {
+          "month": 7,
+          "n_obs": 74,
+          "med_u_usd": 2.638,
+          "med_labor_min": 6.0
+        },
+        {
+          "month": 8,
+          "n_obs": 82,
+          "med_u_usd": 2.408,
+          "med_labor_min": 5.5
+        },
+        {
+          "month": 9,
+          "n_obs": 23,
+          "med_u_usd": 2.177,
+          "med_labor_min": 5.0
+        },
+        {
+          "month": 10,
+          "n_obs": 23,
+          "med_u_usd": 2.178,
+          "med_labor_min": 5.0
+        },
+        {
+          "month": 11,
+          "n_obs": 38,
+          "med_u_usd": 1.794,
+          "med_labor_min": 4.1
+        },
+        {
+          "month": 12,
+          "n_obs": 17,
+          "med_u_usd": 2.286,
+          "med_labor_min": 5.2
+        }
+      ]
+    },
+    {
+      "city": "Addis Ababa",
+      "country_iso3": "ETH",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 556,
+      "seasonal_cv_pct": 13.7,
+      "peak_to_trough_swing_pct": 52.1,
+      "peak_month": 12,
+      "trough_month": 1,
+      "peak_labor_min": 116.6,
+      "trough_labor_min": 76.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 38,
+          "med_u_usd": 0.582,
+          "med_labor_min": 76.7
+        },
+        {
+          "month": 2,
+          "n_obs": 40,
+          "med_u_usd": 0.592,
+          "med_labor_min": 77.9
+        },
+        {
+          "month": 3,
+          "n_obs": 57,
+          "med_u_usd": 0.764,
+          "med_labor_min": 100.7
+        },
+        {
+          "month": 4,
+          "n_obs": 58,
+          "med_u_usd": 0.692,
+          "med_labor_min": 91.2
+        },
+        {
+          "month": 5,
+          "n_obs": 57,
+          "med_u_usd": 0.778,
+          "med_labor_min": 102.5
+        },
+        {
+          "month": 6,
+          "n_obs": 56,
+          "med_u_usd": 0.818,
+          "med_labor_min": 107.8
+        },
+        {
+          "month": 7,
+          "n_obs": 60,
+          "med_u_usd": 0.854,
+          "med_labor_min": 112.5
+        },
+        {
+          "month": 8,
+          "n_obs": 50,
+          "med_u_usd": 0.881,
+          "med_labor_min": 116.1
+        },
+        {
+          "month": 9,
+          "n_obs": 47,
+          "med_u_usd": 0.825,
+          "med_labor_min": 108.7
+        },
+        {
+          "month": 10,
+          "n_obs": 40,
+          "med_u_usd": 0.818,
+          "med_labor_min": 107.8
+        },
+        {
+          "month": 11,
+          "n_obs": 24,
+          "med_u_usd": 0.682,
+          "med_labor_min": 89.8
+        },
+        {
+          "month": 12,
+          "n_obs": 29,
+          "med_u_usd": 0.885,
+          "med_labor_min": 116.6
+        }
+      ]
+    },
+    {
+      "city": "Munich",
+      "country_iso3": "DEU",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 566,
+      "seasonal_cv_pct": 13.7,
+      "peak_to_trough_swing_pct": 57.7,
+      "peak_month": 3,
+      "trough_month": 12,
+      "peak_labor_min": 7.6,
+      "trough_labor_min": 4.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 58,
+          "med_u_usd": 2.133,
+          "med_labor_min": 4.8
+        },
+        {
+          "month": 2,
+          "n_obs": 52,
+          "med_u_usd": 2.436,
+          "med_labor_min": 5.5
+        },
+        {
+          "month": 3,
+          "n_obs": 44,
+          "med_u_usd": 3.325,
+          "med_labor_min": 7.6
+        },
+        {
+          "month": 4,
+          "n_obs": 37,
+          "med_u_usd": 2.675,
+          "med_labor_min": 6.1
+        },
+        {
+          "month": 5,
+          "n_obs": 40,
+          "med_u_usd": 2.629,
+          "med_labor_min": 6.0
+        },
+        {
+          "month": 6,
+          "n_obs": 50,
+          "med_u_usd": 2.712,
+          "med_labor_min": 6.2
+        },
+        {
+          "month": 7,
+          "n_obs": 37,
+          "med_u_usd": 2.184,
+          "med_labor_min": 5.0
+        },
+        {
+          "month": 8,
+          "n_obs": 32,
+          "med_u_usd": 2.691,
+          "med_labor_min": 6.1
+        },
+        {
+          "month": 9,
+          "n_obs": 45,
+          "med_u_usd": 2.351,
+          "med_labor_min": 5.3
+        },
+        {
+          "month": 10,
+          "n_obs": 72,
+          "med_u_usd": 2.568,
+          "med_labor_min": 5.8
+        },
+        {
+          "month": 11,
+          "n_obs": 38,
+          "med_u_usd": 2.228,
+          "med_labor_min": 5.1
+        },
+        {
+          "month": 12,
+          "n_obs": 61,
+          "med_u_usd": 2.107,
+          "med_labor_min": 4.8
+        }
+      ]
+    },
+    {
+      "city": "Paris",
+      "country_iso3": "FRA",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 5515,
+      "seasonal_cv_pct": 13.0,
+      "peak_to_trough_swing_pct": 47.5,
+      "peak_month": 12,
+      "trough_month": 7,
+      "peak_labor_min": 9.2,
+      "trough_labor_min": 6.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 592,
+          "med_u_usd": 2.871,
+          "med_labor_min": 7.5
+        },
+        {
+          "month": 2,
+          "n_obs": 1199,
+          "med_u_usd": 2.533,
+          "med_labor_min": 6.6
+        },
+        {
+          "month": 3,
+          "n_obs": 940,
+          "med_u_usd": 2.568,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 4,
+          "n_obs": 540,
+          "med_u_usd": 2.509,
+          "med_labor_min": 6.5
+        },
+        {
+          "month": 5,
+          "n_obs": 249,
+          "med_u_usd": 2.911,
+          "med_labor_min": 7.6
+        },
+        {
+          "month": 6,
+          "n_obs": 307,
+          "med_u_usd": 2.566,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 7,
+          "n_obs": 260,
+          "med_u_usd": 2.391,
+          "med_labor_min": 6.2
+        },
+        {
+          "month": 8,
+          "n_obs": 307,
+          "med_u_usd": 3.27,
+          "med_labor_min": 8.5
+        },
+        {
+          "month": 9,
+          "n_obs": 241,
+          "med_u_usd": 3.198,
+          "med_labor_min": 8.3
+        },
+        {
+          "month": 10,
+          "n_obs": 294,
+          "med_u_usd": 3.267,
+          "med_labor_min": 8.5
+        },
+        {
+          "month": 11,
+          "n_obs": 411,
+          "med_u_usd": 2.743,
+          "med_labor_min": 7.1
+        },
+        {
+          "month": 12,
+          "n_obs": 175,
+          "med_u_usd": 3.527,
+          "med_labor_min": 9.2
+        }
+      ]
+    },
+    {
+      "city": "Kumasi",
+      "country_iso3": "GHA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 1531,
+      "seasonal_cv_pct": 12.5,
+      "peak_to_trough_swing_pct": 43.8,
+      "peak_month": 5,
+      "trough_month": 1,
+      "peak_labor_min": 40.6,
+      "trough_labor_min": 28.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 156,
+          "med_u_usd": 0.612,
+          "med_labor_min": 28.2
+        },
+        {
+          "month": 2,
+          "n_obs": 138,
+          "med_u_usd": 0.84,
+          "med_labor_min": 38.8
+        },
+        {
+          "month": 3,
+          "n_obs": 148,
+          "med_u_usd": 0.733,
+          "med_labor_min": 33.8
+        },
+        {
+          "month": 4,
+          "n_obs": 155,
+          "med_u_usd": 0.875,
+          "med_labor_min": 40.4
+        },
+        {
+          "month": 5,
+          "n_obs": 130,
+          "med_u_usd": 0.88,
+          "med_labor_min": 40.6
+        },
+        {
+          "month": 6,
+          "n_obs": 86,
+          "med_u_usd": 0.642,
+          "med_labor_min": 29.6
+        },
+        {
+          "month": 7,
+          "n_obs": 114,
+          "med_u_usd": 0.852,
+          "med_labor_min": 39.3
+        },
+        {
+          "month": 8,
+          "n_obs": 107,
+          "med_u_usd": 0.764,
+          "med_labor_min": 35.2
+        },
+        {
+          "month": 9,
+          "n_obs": 103,
+          "med_u_usd": 0.783,
+          "med_labor_min": 36.1
+        },
+        {
+          "month": 10,
+          "n_obs": 114,
+          "med_u_usd": 0.763,
+          "med_labor_min": 35.2
+        },
+        {
+          "month": 11,
+          "n_obs": 140,
+          "med_u_usd": 0.631,
+          "med_labor_min": 29.1
+        },
+        {
+          "month": 12,
+          "n_obs": 140,
+          "med_u_usd": 0.706,
+          "med_labor_min": 32.6
+        }
+      ]
+    },
+    {
+      "city": "Mombasa",
+      "country_iso3": "KEN",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 2175,
+      "seasonal_cv_pct": 11.6,
+      "peak_to_trough_swing_pct": 41.6,
+      "peak_month": 4,
+      "trough_month": 5,
+      "peak_labor_min": 24.6,
+      "trough_labor_min": 17.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 179,
+          "med_u_usd": 0.476,
+          "med_labor_min": 18.4
+        },
+        {
+          "month": 2,
+          "n_obs": 138,
+          "med_u_usd": 0.451,
+          "med_labor_min": 17.5
+        },
+        {
+          "month": 3,
+          "n_obs": 272,
+          "med_u_usd": 0.556,
+          "med_labor_min": 21.5
+        },
+        {
+          "month": 4,
+          "n_obs": 265,
+          "med_u_usd": 0.635,
+          "med_labor_min": 24.6
+        },
+        {
+          "month": 5,
+          "n_obs": 130,
+          "med_u_usd": 0.448,
+          "med_labor_min": 17.4
+        },
+        {
+          "month": 6,
+          "n_obs": 154,
+          "med_u_usd": 0.476,
+          "med_labor_min": 18.4
+        },
+        {
+          "month": 7,
+          "n_obs": 158,
+          "med_u_usd": 0.484,
+          "med_labor_min": 18.7
+        },
+        {
+          "month": 8,
+          "n_obs": 214,
+          "med_u_usd": 0.593,
+          "med_labor_min": 22.9
+        },
+        {
+          "month": 9,
+          "n_obs": 189,
+          "med_u_usd": 0.486,
+          "med_labor_min": 18.8
+        },
+        {
+          "month": 10,
+          "n_obs": 187,
+          "med_u_usd": 0.529,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 11,
+          "n_obs": 166,
+          "med_u_usd": 0.582,
+          "med_labor_min": 22.5
+        },
+        {
+          "month": 12,
+          "n_obs": 123,
+          "med_u_usd": 0.52,
+          "med_labor_min": 20.1
+        }
+      ]
+    },
+    {
+      "city": "Bamako",
+      "country_iso3": "MLI",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 14379,
+      "seasonal_cv_pct": 11.5,
+      "peak_to_trough_swing_pct": 45.9,
+      "peak_month": 9,
+      "trough_month": 1,
+      "peak_labor_min": 76.8,
+      "trough_labor_min": 52.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1232,
+          "med_u_usd": 0.483,
+          "med_labor_min": 52.7
+        },
+        {
+          "month": 2,
+          "n_obs": 1184,
+          "med_u_usd": 0.517,
+          "med_labor_min": 56.4
+        },
+        {
+          "month": 3,
+          "n_obs": 1324,
+          "med_u_usd": 0.528,
+          "med_labor_min": 57.6
+        },
+        {
+          "month": 4,
+          "n_obs": 1296,
+          "med_u_usd": 0.562,
+          "med_labor_min": 61.4
+        },
+        {
+          "month": 5,
+          "n_obs": 1304,
+          "med_u_usd": 0.572,
+          "med_labor_min": 62.5
+        },
+        {
+          "month": 6,
+          "n_obs": 1315,
+          "med_u_usd": 0.603,
+          "med_labor_min": 65.9
+        },
+        {
+          "month": 7,
+          "n_obs": 1302,
+          "med_u_usd": 0.614,
+          "med_labor_min": 67.0
+        },
+        {
+          "month": 8,
+          "n_obs": 1203,
+          "med_u_usd": 0.663,
+          "med_labor_min": 72.4
+        },
+        {
+          "month": 9,
+          "n_obs": 1139,
+          "med_u_usd": 0.704,
+          "med_labor_min": 76.8
+        },
+        {
+          "month": 10,
+          "n_obs": 1192,
+          "med_u_usd": 0.58,
+          "med_labor_min": 63.4
+        },
+        {
+          "month": 11,
+          "n_obs": 949,
+          "med_u_usd": 0.522,
+          "med_labor_min": 57.0
+        },
+        {
+          "month": 12,
+          "n_obs": 939,
+          "med_u_usd": 0.515,
+          "med_labor_min": 56.2
+        }
+      ]
+    },
+    {
+      "city": "Kano",
+      "country_iso3": "NGA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 1031,
+      "seasonal_cv_pct": 10.2,
+      "peak_to_trough_swing_pct": 55.4,
+      "peak_month": 7,
+      "trough_month": 1,
+      "peak_labor_min": 44.1,
+      "trough_labor_min": 28.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 102,
+          "med_u_usd": 0.638,
+          "med_labor_min": 28.4
+        },
+        {
+          "month": 2,
+          "n_obs": 95,
+          "med_u_usd": 0.854,
+          "med_labor_min": 37.9
+        },
+        {
+          "month": 3,
+          "n_obs": 90,
+          "med_u_usd": 0.882,
+          "med_labor_min": 39.2
+        },
+        {
+          "month": 4,
+          "n_obs": 98,
+          "med_u_usd": 0.811,
+          "med_labor_min": 36.1
+        },
+        {
+          "month": 5,
+          "n_obs": 75,
+          "med_u_usd": 0.76,
+          "med_labor_min": 33.8
+        },
+        {
+          "month": 6,
+          "n_obs": 71,
+          "med_u_usd": 0.779,
+          "med_labor_min": 34.6
+        },
+        {
+          "month": 7,
+          "n_obs": 75,
+          "med_u_usd": 0.991,
+          "med_labor_min": 44.1
+        },
+        {
+          "month": 8,
+          "n_obs": 88,
+          "med_u_usd": 0.888,
+          "med_labor_min": 39.5
+        },
+        {
+          "month": 9,
+          "n_obs": 87,
+          "med_u_usd": 0.827,
+          "med_labor_min": 36.8
+        },
+        {
+          "month": 10,
+          "n_obs": 84,
+          "med_u_usd": 0.855,
+          "med_labor_min": 38.0
+        },
+        {
+          "month": 11,
+          "n_obs": 81,
+          "med_u_usd": 0.831,
+          "med_labor_min": 36.9
+        },
+        {
+          "month": 12,
+          "n_obs": 85,
+          "med_u_usd": 0.877,
+          "med_labor_min": 39.0
+        }
+      ]
+    },
+    {
+      "city": "Buenos Aires",
+      "country_iso3": "ARG",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 724,
+      "seasonal_cv_pct": 9.0,
+      "peak_to_trough_swing_pct": 36.9,
+      "peak_month": 12,
+      "trough_month": 6,
+      "peak_labor_min": 15.6,
+      "trough_labor_min": 11.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 70,
+          "med_u_usd": 0.872,
+          "med_labor_min": 12.5
+        },
+        {
+          "month": 2,
+          "n_obs": 70,
+          "med_u_usd": 0.927,
+          "med_labor_min": 13.2
+        },
+        {
+          "month": 3,
+          "n_obs": 67,
+          "med_u_usd": 0.907,
+          "med_labor_min": 13.0
+        },
+        {
+          "month": 4,
+          "n_obs": 68,
+          "med_u_usd": 0.929,
+          "med_labor_min": 13.3
+        },
+        {
+          "month": 5,
+          "n_obs": 67,
+          "med_u_usd": 1.009,
+          "med_labor_min": 14.4
+        },
+        {
+          "month": 6,
+          "n_obs": 69,
+          "med_u_usd": 0.833,
+          "med_labor_min": 11.4
+        },
+        {
+          "month": 7,
+          "n_obs": 54,
+          "med_u_usd": 0.941,
+          "med_labor_min": 13.4
+        },
+        {
+          "month": 8,
+          "n_obs": 52,
+          "med_u_usd": 1.004,
+          "med_labor_min": 14.3
+        },
+        {
+          "month": 9,
+          "n_obs": 52,
+          "med_u_usd": 1.013,
+          "med_labor_min": 14.5
+        },
+        {
+          "month": 10,
+          "n_obs": 51,
+          "med_u_usd": 1.039,
+          "med_labor_min": 14.8
+        },
+        {
+          "month": 11,
+          "n_obs": 52,
+          "med_u_usd": 1.076,
+          "med_labor_min": 15.4
+        },
+        {
+          "month": 12,
+          "n_obs": 52,
+          "med_u_usd": 1.091,
+          "med_labor_min": 15.6
+        }
+      ]
+    },
+    {
+      "city": "Lyon",
+      "country_iso3": "FRA",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 5719,
+      "seasonal_cv_pct": 8.2,
+      "peak_to_trough_swing_pct": 33.3,
+      "peak_month": 9,
+      "trough_month": 6,
+      "peak_labor_min": 8.9,
+      "trough_labor_min": 6.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1429,
+          "med_u_usd": 2.917,
+          "med_labor_min": 7.6
+        },
+        {
+          "month": 2,
+          "n_obs": 522,
+          "med_u_usd": 3.123,
+          "med_labor_min": 8.1
+        },
+        {
+          "month": 3,
+          "n_obs": 289,
+          "med_u_usd": 2.826,
+          "med_labor_min": 7.3
+        },
+        {
+          "month": 4,
+          "n_obs": 265,
+          "med_u_usd": 2.717,
+          "med_labor_min": 7.1
+        },
+        {
+          "month": 5,
+          "n_obs": 262,
+          "med_u_usd": 2.937,
+          "med_labor_min": 7.6
+        },
+        {
+          "month": 6,
+          "n_obs": 220,
+          "med_u_usd": 2.582,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 7,
+          "n_obs": 205,
+          "med_u_usd": 3.236,
+          "med_labor_min": 8.4
+        },
+        {
+          "month": 8,
+          "n_obs": 333,
+          "med_u_usd": 3.171,
+          "med_labor_min": 8.2
+        },
+        {
+          "month": 9,
+          "n_obs": 381,
+          "med_u_usd": 3.441,
+          "med_labor_min": 8.9
+        },
+        {
+          "month": 10,
+          "n_obs": 414,
+          "med_u_usd": 3.0,
+          "med_labor_min": 7.8
+        },
+        {
+          "month": 11,
+          "n_obs": 855,
+          "med_u_usd": 3.271,
+          "med_labor_min": 8.5
+        },
+        {
+          "month": 12,
+          "n_obs": 544,
+          "med_u_usd": 2.962,
+          "med_labor_min": 7.7
+        }
+      ]
+    },
+    {
+      "city": "Mexico City",
+      "country_iso3": "MEX",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 844,
+      "seasonal_cv_pct": 8.1,
+      "peak_to_trough_swing_pct": 31.2,
+      "peak_month": 6,
+      "trough_month": 1,
+      "peak_labor_min": 16.4,
+      "trough_labor_min": 12.5,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 64,
+          "med_u_usd": 0.958,
+          "med_labor_min": 12.5
+        },
+        {
+          "month": 2,
+          "n_obs": 80,
+          "med_u_usd": 1.031,
+          "med_labor_min": 13.4
+        },
+        {
+          "month": 3,
+          "n_obs": 79,
+          "med_u_usd": 1.055,
+          "med_labor_min": 13.8
+        },
+        {
+          "month": 4,
+          "n_obs": 79,
+          "med_u_usd": 1.061,
+          "med_labor_min": 13.8
+        },
+        {
+          "month": 5,
+          "n_obs": 79,
+          "med_u_usd": 1.154,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 6,
+          "n_obs": 78,
+          "med_u_usd": 1.256,
+          "med_labor_min": 16.4
+        },
+        {
+          "month": 7,
+          "n_obs": 65,
+          "med_u_usd": 0.986,
+          "med_labor_min": 12.9
+        },
+        {
+          "month": 8,
+          "n_obs": 64,
+          "med_u_usd": 0.984,
+          "med_labor_min": 12.8
+        },
+        {
+          "month": 9,
+          "n_obs": 64,
+          "med_u_usd": 0.974,
+          "med_labor_min": 12.7
+        },
+        {
+          "month": 10,
+          "n_obs": 64,
+          "med_u_usd": 1.084,
+          "med_labor_min": 14.1
+        },
+        {
+          "month": 11,
+          "n_obs": 64,
+          "med_u_usd": 1.105,
+          "med_labor_min": 14.4
+        },
+        {
+          "month": 12,
+          "n_obs": 64,
+          "med_u_usd": 1.08,
+          "med_labor_min": 14.1
+        }
+      ]
+    },
+    {
+      "city": "Port-au-Prince",
+      "country_iso3": "HTI",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 3084,
+      "seasonal_cv_pct": 7.6,
+      "peak_to_trough_swing_pct": 26.7,
+      "peak_month": 3,
+      "trough_month": 9,
+      "peak_labor_min": 148.6,
+      "trough_labor_min": 117.3,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 285,
+          "med_u_usd": 1.523,
+          "med_labor_min": 143.4
+        },
+        {
+          "month": 2,
+          "n_obs": 324,
+          "med_u_usd": 1.462,
+          "med_labor_min": 137.6
+        },
+        {
+          "month": 3,
+          "n_obs": 302,
+          "med_u_usd": 1.579,
+          "med_labor_min": 148.6
+        },
+        {
+          "month": 4,
+          "n_obs": 512,
+          "med_u_usd": 1.535,
+          "med_labor_min": 144.5
+        },
+        {
+          "month": 5,
+          "n_obs": 514,
+          "med_u_usd": 1.521,
+          "med_labor_min": 143.2
+        },
+        {
+          "month": 6,
+          "n_obs": 440,
+          "med_u_usd": 1.489,
+          "med_labor_min": 140.1
+        },
+        {
+          "month": 7,
+          "n_obs": 290,
+          "med_u_usd": 1.539,
+          "med_labor_min": 144.9
+        },
+        {
+          "month": 8,
+          "n_obs": 222,
+          "med_u_usd": 1.442,
+          "med_labor_min": 135.8
+        },
+        {
+          "month": 9,
+          "n_obs": 49,
+          "med_u_usd": 1.246,
+          "med_labor_min": 117.3
+        },
+        {
+          "month": 10,
+          "n_obs": 54,
+          "med_u_usd": 1.267,
+          "med_labor_min": 119.3
+        },
+        {
+          "month": 11,
+          "n_obs": 54,
+          "med_u_usd": 1.384,
+          "med_labor_min": 130.3
+        },
+        {
+          "month": 12,
+          "n_obs": 38,
+          "med_u_usd": 1.357,
+          "med_labor_min": 127.7
+        }
+      ]
+    },
+    {
+      "city": "Lilongwe",
+      "country_iso3": "MWI",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 10618,
+      "seasonal_cv_pct": 7.5,
+      "peak_to_trough_swing_pct": 29.4,
+      "peak_month": 8,
+      "trough_month": 10,
+      "peak_labor_min": 382.9,
+      "trough_labor_min": 295.9,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 938,
+          "med_u_usd": 0.773,
+          "med_labor_min": 320.2
+        },
+        {
+          "month": 2,
+          "n_obs": 906,
+          "med_u_usd": 0.798,
+          "med_labor_min": 330.5
+        },
+        {
+          "month": 3,
+          "n_obs": 842,
+          "med_u_usd": 0.91,
+          "med_labor_min": 376.9
+        },
+        {
+          "month": 4,
+          "n_obs": 777,
+          "med_u_usd": 0.753,
+          "med_labor_min": 311.9
+        },
+        {
+          "month": 5,
+          "n_obs": 912,
+          "med_u_usd": 0.799,
+          "med_labor_min": 331.2
+        },
+        {
+          "month": 6,
+          "n_obs": 956,
+          "med_u_usd": 0.835,
+          "med_labor_min": 346.2
+        },
+        {
+          "month": 7,
+          "n_obs": 965,
+          "med_u_usd": 0.837,
+          "med_labor_min": 346.9
+        },
+        {
+          "month": 8,
+          "n_obs": 909,
+          "med_u_usd": 0.924,
+          "med_labor_min": 382.9
+        },
+        {
+          "month": 9,
+          "n_obs": 1003,
+          "med_u_usd": 0.855,
+          "med_labor_min": 354.4
+        },
+        {
+          "month": 10,
+          "n_obs": 811,
+          "med_u_usd": 0.714,
+          "med_labor_min": 295.9
+        },
+        {
+          "month": 11,
+          "n_obs": 865,
+          "med_u_usd": 0.798,
+          "med_labor_min": 330.7
+        },
+        {
+          "month": 12,
+          "n_obs": 734,
+          "med_u_usd": 0.859,
+          "med_labor_min": 355.9
+        }
+      ]
+    },
+    {
+      "city": "Lagos",
+      "country_iso3": "NGA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 937,
+      "seasonal_cv_pct": 7.4,
+      "peak_to_trough_swing_pct": 31.0,
+      "peak_month": 7,
+      "trough_month": 1,
+      "peak_labor_min": 50.5,
+      "trough_labor_min": 38.5,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 90,
+          "med_u_usd": 0.867,
+          "med_labor_min": 38.5
+        },
+        {
+          "month": 2,
+          "n_obs": 84,
+          "med_u_usd": 0.964,
+          "med_labor_min": 42.8
+        },
+        {
+          "month": 3,
+          "n_obs": 82,
+          "med_u_usd": 1.029,
+          "med_labor_min": 45.7
+        },
+        {
+          "month": 4,
+          "n_obs": 86,
+          "med_u_usd": 1.111,
+          "med_labor_min": 49.4
+        },
+        {
+          "month": 5,
+          "n_obs": 70,
+          "med_u_usd": 1.042,
+          "med_labor_min": 46.3
+        },
+        {
+          "month": 6,
+          "n_obs": 67,
+          "med_u_usd": 1.092,
+          "med_labor_min": 48.5
+        },
+        {
+          "month": 7,
+          "n_obs": 73,
+          "med_u_usd": 1.136,
+          "med_labor_min": 50.5
+        },
+        {
+          "month": 8,
+          "n_obs": 82,
+          "med_u_usd": 1.108,
+          "med_labor_min": 49.2
+        },
+        {
+          "month": 9,
+          "n_obs": 82,
+          "med_u_usd": 1.086,
+          "med_labor_min": 48.2
+        },
+        {
+          "month": 10,
+          "n_obs": 76,
+          "med_u_usd": 1.075,
+          "med_labor_min": 47.8
+        },
+        {
+          "month": 11,
+          "n_obs": 70,
+          "med_u_usd": 1.135,
+          "med_labor_min": 50.5
+        },
+        {
+          "month": 12,
+          "n_obs": 75,
+          "med_u_usd": 1.105,
+          "med_labor_min": 49.1
+        }
+      ]
+    },
+    {
+      "city": "Lusaka",
+      "country_iso3": "ZMB",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 3514,
+      "seasonal_cv_pct": 7.3,
+      "peak_to_trough_swing_pct": 25.6,
+      "peak_month": 4,
+      "trough_month": 12,
+      "peak_labor_min": 208.3,
+      "trough_labor_min": 165.9,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 371,
+          "med_u_usd": 1.063,
+          "med_labor_min": 181.9
+        },
+        {
+          "month": 2,
+          "n_obs": 319,
+          "med_u_usd": 1.203,
+          "med_labor_min": 205.8
+        },
+        {
+          "month": 3,
+          "n_obs": 347,
+          "med_u_usd": 1.09,
+          "med_labor_min": 186.6
+        },
+        {
+          "month": 4,
+          "n_obs": 214,
+          "med_u_usd": 1.217,
+          "med_labor_min": 208.3
+        },
+        {
+          "month": 5,
+          "n_obs": 223,
+          "med_u_usd": 1.169,
+          "med_labor_min": 200.1
+        },
+        {
+          "month": 6,
+          "n_obs": 213,
+          "med_u_usd": 1.171,
+          "med_labor_min": 200.4
+        },
+        {
+          "month": 7,
+          "n_obs": 298,
+          "med_u_usd": 0.998,
+          "med_labor_min": 170.7
+        },
+        {
+          "month": 8,
+          "n_obs": 291,
+          "med_u_usd": 1.171,
+          "med_labor_min": 200.4
+        },
+        {
+          "month": 9,
+          "n_obs": 277,
+          "med_u_usd": 1.162,
+          "med_labor_min": 198.9
+        },
+        {
+          "month": 10,
+          "n_obs": 298,
+          "med_u_usd": 1.157,
+          "med_labor_min": 198.0
+        },
+        {
+          "month": 11,
+          "n_obs": 347,
+          "med_u_usd": 1.214,
+          "med_labor_min": 207.7
+        },
+        {
+          "month": 12,
+          "n_obs": 316,
+          "med_u_usd": 0.969,
+          "med_labor_min": 165.9
+        }
+      ]
+    },
+    {
+      "city": "Lima",
+      "country_iso3": "PER",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 1325,
+      "seasonal_cv_pct": 5.9,
+      "peak_to_trough_swing_pct": 21.1,
+      "peak_month": 8,
+      "trough_month": 4,
+      "peak_labor_min": 21.3,
+      "trough_labor_min": 17.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 125,
+          "med_u_usd": 1.079,
+          "med_labor_min": 19.6
+        },
+        {
+          "month": 2,
+          "n_obs": 125,
+          "med_u_usd": 1.079,
+          "med_labor_min": 19.6
+        },
+        {
+          "month": 3,
+          "n_obs": 127,
+          "med_u_usd": 1.073,
+          "med_labor_min": 19.5
+        },
+        {
+          "month": 4,
+          "n_obs": 119,
+          "med_u_usd": 0.967,
+          "med_labor_min": 17.6
+        },
+        {
+          "month": 5,
+          "n_obs": 119,
+          "med_u_usd": 0.967,
+          "med_labor_min": 17.6
+        },
+        {
+          "month": 6,
+          "n_obs": 125,
+          "med_u_usd": 0.984,
+          "med_labor_min": 17.9
+        },
+        {
+          "month": 7,
+          "n_obs": 90,
+          "med_u_usd": 1.079,
+          "med_labor_min": 19.6
+        },
+        {
+          "month": 8,
+          "n_obs": 98,
+          "med_u_usd": 1.17,
+          "med_labor_min": 21.3
+        },
+        {
+          "month": 9,
+          "n_obs": 98,
+          "med_u_usd": 1.137,
+          "med_labor_min": 20.7
+        },
+        {
+          "month": 10,
+          "n_obs": 107,
+          "med_u_usd": 1.092,
+          "med_labor_min": 19.9
+        },
+        {
+          "month": 11,
+          "n_obs": 96,
+          "med_u_usd": 1.076,
+          "med_labor_min": 19.6
+        },
+        {
+          "month": 12,
+          "n_obs": 96,
+          "med_u_usd": 1.085,
+          "med_labor_min": 19.7
+        }
+      ]
+    },
+    {
+      "city": "Managua",
+      "country_iso3": "NIC",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 423,
+      "seasonal_cv_pct": 5.9,
+      "peak_to_trough_swing_pct": 24.9,
+      "peak_month": 10,
+      "trough_month": 12,
+      "peak_labor_min": 52.2,
+      "trough_labor_min": 41.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 37,
+          "med_u_usd": 0.349,
+          "med_labor_min": 44.1
+        },
+        {
+          "month": 2,
+          "n_obs": 36,
+          "med_u_usd": 0.344,
+          "med_labor_min": 43.5
+        },
+        {
+          "month": 3,
+          "n_obs": 34,
+          "med_u_usd": 0.348,
+          "med_labor_min": 44.1
+        },
+        {
+          "month": 4,
+          "n_obs": 34,
+          "med_u_usd": 0.367,
+          "med_labor_min": 46.4
+        },
+        {
+          "month": 5,
+          "n_obs": 38,
+          "med_u_usd": 0.354,
+          "med_labor_min": 44.8
+        },
+        {
+          "month": 6,
+          "n_obs": 44,
+          "med_u_usd": 0.347,
+          "med_labor_min": 43.9
+        },
+        {
+          "month": 7,
+          "n_obs": 36,
+          "med_u_usd": 0.369,
+          "med_labor_min": 46.6
+        },
+        {
+          "month": 8,
+          "n_obs": 36,
+          "med_u_usd": 0.348,
+          "med_labor_min": 44.0
+        },
+        {
+          "month": 9,
+          "n_obs": 34,
+          "med_u_usd": 0.342,
+          "med_labor_min": 43.2
+        },
+        {
+          "month": 10,
+          "n_obs": 28,
+          "med_u_usd": 0.413,
+          "med_labor_min": 52.2
+        },
+        {
+          "month": 11,
+          "n_obs": 32,
+          "med_u_usd": 0.349,
+          "med_labor_min": 44.2
+        },
+        {
+          "month": 12,
+          "n_obs": 34,
+          "med_u_usd": 0.331,
+          "med_labor_min": 41.8
+        }
+      ]
+    },
+    {
+      "city": "N'Djamena",
+      "country_iso3": "TCD",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 5310,
+      "seasonal_cv_pct": 5.9,
+      "peak_to_trough_swing_pct": 17.5,
+      "peak_month": 6,
+      "trough_month": 2,
+      "peak_labor_min": 178.6,
+      "trough_labor_min": 152.0,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 441,
+          "med_u_usd": 0.723,
+          "med_labor_min": 154.5
+        },
+        {
+          "month": 2,
+          "n_obs": 454,
+          "med_u_usd": 0.711,
+          "med_labor_min": 152.0
+        },
+        {
+          "month": 3,
+          "n_obs": 469,
+          "med_u_usd": 0.774,
+          "med_labor_min": 165.5
+        },
+        {
+          "month": 4,
+          "n_obs": 460,
+          "med_u_usd": 0.779,
+          "med_labor_min": 166.6
+        },
+        {
+          "month": 5,
+          "n_obs": 468,
+          "med_u_usd": 0.823,
+          "med_labor_min": 176.0
+        },
+        {
+          "month": 6,
+          "n_obs": 460,
+          "med_u_usd": 0.835,
+          "med_labor_min": 178.6
+        },
+        {
+          "month": 7,
+          "n_obs": 455,
+          "med_u_usd": 0.826,
+          "med_labor_min": 176.5
+        },
+        {
+          "month": 8,
+          "n_obs": 461,
+          "med_u_usd": 0.833,
+          "med_labor_min": 178.2
+        },
+        {
+          "month": 9,
+          "n_obs": 482,
+          "med_u_usd": 0.83,
+          "med_labor_min": 177.4
+        },
+        {
+          "month": 10,
+          "n_obs": 383,
+          "med_u_usd": 0.753,
+          "med_labor_min": 160.9
+        },
+        {
+          "month": 11,
+          "n_obs": 391,
+          "med_u_usd": 0.749,
+          "med_labor_min": 160.1
+        },
+        {
+          "month": 12,
+          "n_obs": 386,
+          "med_u_usd": 0.746,
+          "med_labor_min": 159.5
+        }
+      ]
+    },
+    {
+      "city": "Istanbul",
+      "country_iso3": "TUR",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 1457,
+      "seasonal_cv_pct": 5.6,
+      "peak_to_trough_swing_pct": 17.4,
+      "peak_month": 5,
+      "trough_month": 2,
+      "peak_labor_min": 38.3,
+      "trough_labor_min": 32.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 144,
+          "med_u_usd": 2.949,
+          "med_labor_min": 32.8
+        },
+        {
+          "month": 2,
+          "n_obs": 143,
+          "med_u_usd": 2.936,
+          "med_labor_min": 32.6
+        },
+        {
+          "month": 3,
+          "n_obs": 143,
+          "med_u_usd": 3.126,
+          "med_labor_min": 34.7
+        },
+        {
+          "month": 4,
+          "n_obs": 143,
+          "med_u_usd": 2.938,
+          "med_labor_min": 32.6
+        },
+        {
+          "month": 5,
+          "n_obs": 121,
+          "med_u_usd": 3.445,
+          "med_labor_min": 38.3
+        },
+        {
+          "month": 6,
+          "n_obs": 119,
+          "med_u_usd": 3.343,
+          "med_labor_min": 37.1
+        },
+        {
+          "month": 7,
+          "n_obs": 111,
+          "med_u_usd": 3.211,
+          "med_labor_min": 35.7
+        },
+        {
+          "month": 8,
+          "n_obs": 109,
+          "med_u_usd": 3.005,
+          "med_labor_min": 33.4
+        },
+        {
+          "month": 9,
+          "n_obs": 110,
+          "med_u_usd": 2.958,
+          "med_labor_min": 32.9
+        },
+        {
+          "month": 10,
+          "n_obs": 105,
+          "med_u_usd": 2.971,
+          "med_labor_min": 33.0
+        },
+        {
+          "month": 11,
+          "n_obs": 107,
+          "med_u_usd": 3.226,
+          "med_labor_min": 35.8
+        },
+        {
+          "month": 12,
+          "n_obs": 102,
+          "med_u_usd": 3.1,
+          "med_labor_min": 34.4
+        }
+      ]
+    },
+    {
+      "city": "Ankara",
+      "country_iso3": "TUR",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 2752,
+      "seasonal_cv_pct": 5.3,
+      "peak_to_trough_swing_pct": 21.7,
+      "peak_month": 12,
+      "trough_month": 10,
+      "peak_labor_min": 21.9,
+      "trough_labor_min": 18.0,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 240,
+          "med_u_usd": 1.754,
+          "med_labor_min": 19.5
+        },
+        {
+          "month": 2,
+          "n_obs": 244,
+          "med_u_usd": 1.83,
+          "med_labor_min": 20.3
+        },
+        {
+          "month": 3,
+          "n_obs": 244,
+          "med_u_usd": 1.796,
+          "med_labor_min": 20.0
+        },
+        {
+          "month": 4,
+          "n_obs": 241,
+          "med_u_usd": 1.804,
+          "med_labor_min": 20.0
+        },
+        {
+          "month": 5,
+          "n_obs": 240,
+          "med_u_usd": 1.842,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 6,
+          "n_obs": 238,
+          "med_u_usd": 1.793,
+          "med_labor_min": 19.9
+        },
+        {
+          "month": 7,
+          "n_obs": 232,
+          "med_u_usd": 1.734,
+          "med_labor_min": 19.3
+        },
+        {
+          "month": 8,
+          "n_obs": 231,
+          "med_u_usd": 1.694,
+          "med_labor_min": 18.8
+        },
+        {
+          "month": 9,
+          "n_obs": 229,
+          "med_u_usd": 1.711,
+          "med_labor_min": 19.0
+        },
+        {
+          "month": 10,
+          "n_obs": 227,
+          "med_u_usd": 1.619,
+          "med_labor_min": 18.0
+        },
+        {
+          "month": 11,
+          "n_obs": 194,
+          "med_u_usd": 1.902,
+          "med_labor_min": 21.1
+        },
+        {
+          "month": 12,
+          "n_obs": 192,
+          "med_u_usd": 1.969,
+          "med_labor_min": 21.9
+        }
+      ]
+    },
+    {
+      "city": "Guadalajara",
+      "country_iso3": "MEX",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 561,
+      "seasonal_cv_pct": 4.8,
+      "peak_to_trough_swing_pct": 20.2,
+      "peak_month": 6,
+      "trough_month": 1,
+      "peak_labor_min": 11.5,
+      "trough_labor_min": 9.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 52,
+          "med_u_usd": 0.733,
+          "med_labor_min": 9.6
+        },
+        {
+          "month": 2,
+          "n_obs": 52,
+          "med_u_usd": 0.733,
+          "med_labor_min": 9.6
+        },
+        {
+          "month": 3,
+          "n_obs": 53,
+          "med_u_usd": 0.768,
+          "med_labor_min": 10.0
+        },
+        {
+          "month": 4,
+          "n_obs": 53,
+          "med_u_usd": 0.775,
+          "med_labor_min": 10.1
+        },
+        {
+          "month": 5,
+          "n_obs": 53,
+          "med_u_usd": 0.752,
+          "med_labor_min": 9.8
+        },
+        {
+          "month": 6,
+          "n_obs": 58,
+          "med_u_usd": 0.882,
+          "med_labor_min": 11.5
+        },
+        {
+          "month": 7,
+          "n_obs": 40,
+          "med_u_usd": 0.772,
+          "med_labor_min": 10.1
+        },
+        {
+          "month": 8,
+          "n_obs": 40,
+          "med_u_usd": 0.775,
+          "med_labor_min": 10.1
+        },
+        {
+          "month": 9,
+          "n_obs": 40,
+          "med_u_usd": 0.772,
+          "med_labor_min": 10.1
+        },
+        {
+          "month": 10,
+          "n_obs": 40,
+          "med_u_usd": 0.775,
+          "med_labor_min": 10.1
+        },
+        {
+          "month": 11,
+          "n_obs": 40,
+          "med_u_usd": 0.775,
+          "med_labor_min": 10.1
+        },
+        {
+          "month": 12,
+          "n_obs": 40,
+          "med_u_usd": 0.775,
+          "med_labor_min": 10.1
+        }
+      ]
+    },
+    {
+      "city": "Kampala",
+      "country_iso3": "UGA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 1047,
+      "seasonal_cv_pct": 4.7,
+      "peak_to_trough_swing_pct": 17.5,
+      "peak_month": 5,
+      "trough_month": 12,
+      "peak_labor_min": 114.7,
+      "trough_labor_min": 97.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 105,
+          "med_u_usd": 0.436,
+          "med_labor_min": 101.7
+        },
+        {
+          "month": 2,
+          "n_obs": 97,
+          "med_u_usd": 0.443,
+          "med_labor_min": 103.2
+        },
+        {
+          "month": 3,
+          "n_obs": 99,
+          "med_u_usd": 0.453,
+          "med_labor_min": 105.5
+        },
+        {
+          "month": 4,
+          "n_obs": 107,
+          "med_u_usd": 0.485,
+          "med_labor_min": 113.1
+        },
+        {
+          "month": 5,
+          "n_obs": 79,
+          "med_u_usd": 0.492,
+          "med_labor_min": 114.7
+        },
+        {
+          "month": 6,
+          "n_obs": 81,
+          "med_u_usd": 0.453,
+          "med_labor_min": 105.5
+        },
+        {
+          "month": 7,
+          "n_obs": 72,
+          "med_u_usd": 0.442,
+          "med_labor_min": 103.0
+        },
+        {
+          "month": 8,
+          "n_obs": 77,
+          "med_u_usd": 0.438,
+          "med_labor_min": 102.2
+        },
+        {
+          "month": 9,
+          "n_obs": 82,
+          "med_u_usd": 0.465,
+          "med_labor_min": 108.5
+        },
+        {
+          "month": 10,
+          "n_obs": 83,
+          "med_u_usd": 0.469,
+          "med_labor_min": 109.3
+        },
+        {
+          "month": 11,
+          "n_obs": 83,
+          "med_u_usd": 0.442,
+          "med_labor_min": 103.0
+        },
+        {
+          "month": 12,
+          "n_obs": 82,
+          "med_u_usd": 0.419,
+          "med_labor_min": 97.6
+        }
+      ]
+    },
+    {
+      "city": "Yangon",
+      "country_iso3": "MMR",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 1657,
+      "seasonal_cv_pct": 4.7,
+      "peak_to_trough_swing_pct": 20.3,
+      "peak_month": 5,
+      "trough_month": 1,
+      "peak_labor_min": 65.4,
+      "trough_labor_min": 54.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 128,
+          "med_u_usd": 0.69,
+          "med_labor_min": 54.4
+        },
+        {
+          "month": 2,
+          "n_obs": 148,
+          "med_u_usd": 0.744,
+          "med_labor_min": 58.6
+        },
+        {
+          "month": 3,
+          "n_obs": 136,
+          "med_u_usd": 0.771,
+          "med_labor_min": 60.8
+        },
+        {
+          "month": 4,
+          "n_obs": 149,
+          "med_u_usd": 0.739,
+          "med_labor_min": 58.3
+        },
+        {
+          "month": 5,
+          "n_obs": 122,
+          "med_u_usd": 0.829,
+          "med_labor_min": 65.4
+        },
+        {
+          "month": 6,
+          "n_obs": 140,
+          "med_u_usd": 0.762,
+          "med_labor_min": 60.1
+        },
+        {
+          "month": 7,
+          "n_obs": 154,
+          "med_u_usd": 0.726,
+          "med_labor_min": 57.2
+        },
+        {
+          "month": 8,
+          "n_obs": 124,
+          "med_u_usd": 0.767,
+          "med_labor_min": 60.5
+        },
+        {
+          "month": 9,
+          "n_obs": 153,
+          "med_u_usd": 0.766,
+          "med_labor_min": 60.4
+        },
+        {
+          "month": 10,
+          "n_obs": 142,
+          "med_u_usd": 0.762,
+          "med_labor_min": 60.1
+        },
+        {
+          "month": 11,
+          "n_obs": 126,
+          "med_u_usd": 0.723,
+          "med_labor_min": 57.0
+        },
+        {
+          "month": 12,
+          "n_obs": 135,
+          "med_u_usd": 0.722,
+          "med_labor_min": 57.0
+        }
+      ]
+    },
+    {
+      "city": "Chicago",
+      "country_iso3": "USA",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 42,
+      "seasonal_cv_pct": 4.6,
+      "peak_to_trough_swing_pct": 18.6,
+      "peak_month": 5,
+      "trough_month": 8,
+      "peak_labor_min": 3.1,
+      "trough_labor_min": 2.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 2,
+          "med_u_usd": 1.395,
+          "med_labor_min": 2.9
+        },
+        {
+          "month": 2,
+          "n_obs": 2,
+          "med_u_usd": 1.394,
+          "med_labor_min": 2.9
+        },
+        {
+          "month": 3,
+          "n_obs": 2,
+          "med_u_usd": 1.398,
+          "med_labor_min": 2.9
+        },
+        {
+          "month": 4,
+          "n_obs": 2,
+          "med_u_usd": 1.402,
+          "med_labor_min": 3.0
+        },
+        {
+          "month": 5,
+          "n_obs": 1,
+          "med_u_usd": 1.48,
+          "med_labor_min": 3.1
+        },
+        {
+          "month": 6,
+          "n_obs": 22,
+          "med_u_usd": 1.457,
+          "med_labor_min": 2.9
+        },
+        {
+          "month": 7,
+          "n_obs": 2,
+          "med_u_usd": 1.361,
+          "med_labor_min": 2.9
+        },
+        {
+          "month": 8,
+          "n_obs": 3,
+          "med_u_usd": 1.249,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 9,
+          "n_obs": 2,
+          "med_u_usd": 1.319,
+          "med_labor_min": 2.8
+        },
+        {
+          "month": 10,
+          "n_obs": 2,
+          "med_u_usd": 1.269,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 11,
+          "n_obs": 1,
+          "med_u_usd": 1.351,
+          "med_labor_min": 2.8
+        },
+        {
+          "month": 12,
+          "n_obs": 1,
+          "med_u_usd": 1.357,
+          "med_labor_min": 2.9
+        }
+      ]
+    },
+    {
+      "city": "Los Angeles",
+      "country_iso3": "USA",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 72,
+      "seasonal_cv_pct": 4.6,
+      "peak_to_trough_swing_pct": 17.3,
+      "peak_month": 6,
+      "trough_month": 3,
+      "peak_labor_min": 3.0,
+      "trough_labor_min": 2.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 5,
+          "med_u_usd": 1.24,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 2,
+          "n_obs": 7,
+          "med_u_usd": 1.321,
+          "med_labor_min": 2.8
+        },
+        {
+          "month": 3,
+          "n_obs": 5,
+          "med_u_usd": 1.215,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 4,
+          "n_obs": 4,
+          "med_u_usd": 1.321,
+          "med_labor_min": 2.8
+        },
+        {
+          "month": 5,
+          "n_obs": 4,
+          "med_u_usd": 1.339,
+          "med_labor_min": 2.8
+        },
+        {
+          "month": 6,
+          "n_obs": 23,
+          "med_u_usd": 1.56,
+          "med_labor_min": 3.0
+        },
+        {
+          "month": 7,
+          "n_obs": 4,
+          "med_u_usd": 1.269,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 8,
+          "n_obs": 4,
+          "med_u_usd": 1.271,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 9,
+          "n_obs": 4,
+          "med_u_usd": 1.303,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 10,
+          "n_obs": 5,
+          "med_u_usd": 1.252,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 11,
+          "n_obs": 3,
+          "med_u_usd": 1.228,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 12,
+          "n_obs": 4,
+          "med_u_usd": 1.251,
+          "med_labor_min": 2.6
+        }
+      ]
+    },
+    {
+      "city": "Ouagadougou",
+      "country_iso3": "BFA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 8180,
+      "seasonal_cv_pct": 4.6,
+      "peak_to_trough_swing_pct": 17.2,
+      "peak_month": 9,
+      "trough_month": 11,
+      "peak_labor_min": 83.8,
+      "trough_labor_min": 71.5,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 695,
+          "med_u_usd": 0.334,
+          "med_labor_min": 73.9
+        },
+        {
+          "month": 2,
+          "n_obs": 691,
+          "med_u_usd": 0.346,
+          "med_labor_min": 76.5
+        },
+        {
+          "month": 3,
+          "n_obs": 700,
+          "med_u_usd": 0.35,
+          "med_labor_min": 77.5
+        },
+        {
+          "month": 4,
+          "n_obs": 707,
+          "med_u_usd": 0.356,
+          "med_labor_min": 78.7
+        },
+        {
+          "month": 5,
+          "n_obs": 713,
+          "med_u_usd": 0.354,
+          "med_labor_min": 78.4
+        },
+        {
+          "month": 6,
+          "n_obs": 726,
+          "med_u_usd": 0.356,
+          "med_labor_min": 78.8
+        },
+        {
+          "month": 7,
+          "n_obs": 721,
+          "med_u_usd": 0.359,
+          "med_labor_min": 79.5
+        },
+        {
+          "month": 8,
+          "n_obs": 688,
+          "med_u_usd": 0.375,
+          "med_labor_min": 83.0
+        },
+        {
+          "month": 9,
+          "n_obs": 675,
+          "med_u_usd": 0.379,
+          "med_labor_min": 83.8
+        },
+        {
+          "month": 10,
+          "n_obs": 681,
+          "med_u_usd": 0.347,
+          "med_labor_min": 76.8
+        },
+        {
+          "month": 11,
+          "n_obs": 592,
+          "med_u_usd": 0.323,
+          "med_labor_min": 71.5
+        },
+        {
+          "month": 12,
+          "n_obs": 591,
+          "med_u_usd": 0.334,
+          "med_labor_min": 73.9
+        }
+      ]
+    },
+    {
+      "city": "Karachi",
+      "country_iso3": "PAK",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 2350,
+      "seasonal_cv_pct": 4.5,
+      "peak_to_trough_swing_pct": 14.8,
+      "peak_month": 12,
+      "trough_month": 3,
+      "peak_labor_min": 38.6,
+      "trough_labor_min": 33.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 205,
+          "med_u_usd": 0.703,
+          "med_labor_min": 35.1
+        },
+        {
+          "month": 2,
+          "n_obs": 205,
+          "med_u_usd": 0.678,
+          "med_labor_min": 33.9
+        },
+        {
+          "month": 3,
+          "n_obs": 205,
+          "med_u_usd": 0.672,
+          "med_labor_min": 33.6
+        },
+        {
+          "month": 4,
+          "n_obs": 205,
+          "med_u_usd": 0.681,
+          "med_labor_min": 34.0
+        },
+        {
+          "month": 5,
+          "n_obs": 204,
+          "med_u_usd": 0.704,
+          "med_labor_min": 35.2
+        },
+        {
+          "month": 6,
+          "n_obs": 205,
+          "med_u_usd": 0.691,
+          "med_labor_min": 34.5
+        },
+        {
+          "month": 7,
+          "n_obs": 205,
+          "med_u_usd": 0.691,
+          "med_labor_min": 34.5
+        },
+        {
+          "month": 8,
+          "n_obs": 195,
+          "med_u_usd": 0.68,
+          "med_labor_min": 34.0
+        },
+        {
+          "month": 9,
+          "n_obs": 195,
+          "med_u_usd": 0.692,
+          "med_labor_min": 34.6
+        },
+        {
+          "month": 10,
+          "n_obs": 195,
+          "med_u_usd": 0.716,
+          "med_labor_min": 35.8
+        },
+        {
+          "month": 11,
+          "n_obs": 166,
+          "med_u_usd": 0.761,
+          "med_labor_min": 38.1
+        },
+        {
+          "month": 12,
+          "n_obs": 165,
+          "med_u_usd": 0.772,
+          "med_labor_min": 38.6
+        }
+      ]
+    },
+    {
+      "city": "Jaipur",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 851,
+      "seasonal_cv_pct": 4.3,
+      "peak_to_trough_swing_pct": 14.3,
+      "peak_month": 12,
+      "trough_month": 7,
+      "peak_labor_min": 16.8,
+      "trough_labor_min": 14.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 68,
+          "med_u_usd": 0.495,
+          "med_labor_min": 15.2
+        },
+        {
+          "month": 2,
+          "n_obs": 69,
+          "med_u_usd": 0.491,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 3,
+          "n_obs": 69,
+          "med_u_usd": 0.497,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 4,
+          "n_obs": 69,
+          "med_u_usd": 0.498,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 5,
+          "n_obs": 69,
+          "med_u_usd": 0.489,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 6,
+          "n_obs": 69,
+          "med_u_usd": 0.484,
+          "med_labor_min": 14.9
+        },
+        {
+          "month": 7,
+          "n_obs": 69,
+          "med_u_usd": 0.478,
+          "med_labor_min": 14.7
+        },
+        {
+          "month": 8,
+          "n_obs": 87,
+          "med_u_usd": 0.496,
+          "med_labor_min": 15.2
+        },
+        {
+          "month": 9,
+          "n_obs": 87,
+          "med_u_usd": 0.504,
+          "med_labor_min": 15.5
+        },
+        {
+          "month": 10,
+          "n_obs": 87,
+          "med_u_usd": 0.51,
+          "med_labor_min": 15.7
+        },
+        {
+          "month": 11,
+          "n_obs": 54,
+          "med_u_usd": 0.543,
+          "med_labor_min": 16.7
+        },
+        {
+          "month": 12,
+          "n_obs": 54,
+          "med_u_usd": 0.547,
+          "med_labor_min": 16.8
+        }
+      ]
+    },
+    {
+      "city": "Mogadishu",
+      "country_iso3": "SOM",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 1973,
+      "seasonal_cv_pct": 4.3,
+      "peak_to_trough_swing_pct": 13.2,
+      "peak_month": 5,
+      "trough_month": 10,
+      "peak_labor_min": 323.5,
+      "trough_labor_min": 285.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 171,
+          "med_u_usd": 0.606,
+          "med_labor_min": 311.0
+        },
+        {
+          "month": 2,
+          "n_obs": 171,
+          "med_u_usd": 0.595,
+          "med_labor_min": 305.5
+        },
+        {
+          "month": 3,
+          "n_obs": 171,
+          "med_u_usd": 0.616,
+          "med_labor_min": 316.3
+        },
+        {
+          "month": 4,
+          "n_obs": 171,
+          "med_u_usd": 0.622,
+          "med_labor_min": 319.5
+        },
+        {
+          "month": 5,
+          "n_obs": 171,
+          "med_u_usd": 0.63,
+          "med_labor_min": 323.5
+        },
+        {
+          "month": 6,
+          "n_obs": 163,
+          "med_u_usd": 0.62,
+          "med_labor_min": 318.5
+        },
+        {
+          "month": 7,
+          "n_obs": 163,
+          "med_u_usd": 0.607,
+          "med_labor_min": 311.5
+        },
+        {
+          "month": 8,
+          "n_obs": 163,
+          "med_u_usd": 0.568,
+          "med_labor_min": 291.9
+        },
+        {
+          "month": 9,
+          "n_obs": 162,
+          "med_u_usd": 0.56,
+          "med_labor_min": 287.6
+        },
+        {
+          "month": 10,
+          "n_obs": 162,
+          "med_u_usd": 0.556,
+          "med_labor_min": 285.7
+        },
+        {
+          "month": 11,
+          "n_obs": 153,
+          "med_u_usd": 0.584,
+          "med_labor_min": 300.1
+        },
+        {
+          "month": 12,
+          "n_obs": 152,
+          "med_u_usd": 0.621,
+          "med_labor_min": 318.7
+        }
+      ]
+    },
+    {
+      "city": "Cairo",
+      "country_iso3": "EGY",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 1293,
+      "seasonal_cv_pct": 4.1,
+      "peak_to_trough_swing_pct": 13.8,
+      "peak_month": 10,
+      "trough_month": 8,
+      "peak_labor_min": 22.5,
+      "trough_labor_min": 19.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 117,
+          "med_u_usd": 0.614,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 2,
+          "n_obs": 120,
+          "med_u_usd": 0.655,
+          "med_labor_min": 21.8
+        },
+        {
+          "month": 3,
+          "n_obs": 121,
+          "med_u_usd": 0.631,
+          "med_labor_min": 21.0
+        },
+        {
+          "month": 4,
+          "n_obs": 95,
+          "med_u_usd": 0.656,
+          "med_labor_min": 21.9
+        },
+        {
+          "month": 5,
+          "n_obs": 115,
+          "med_u_usd": 0.636,
+          "med_labor_min": 21.2
+        },
+        {
+          "month": 6,
+          "n_obs": 115,
+          "med_u_usd": 0.625,
+          "med_labor_min": 20.8
+        },
+        {
+          "month": 7,
+          "n_obs": 116,
+          "med_u_usd": 0.609,
+          "med_labor_min": 20.3
+        },
+        {
+          "month": 8,
+          "n_obs": 115,
+          "med_u_usd": 0.592,
+          "med_labor_min": 19.7
+        },
+        {
+          "month": 9,
+          "n_obs": 115,
+          "med_u_usd": 0.614,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 10,
+          "n_obs": 88,
+          "med_u_usd": 0.674,
+          "med_labor_min": 22.5
+        },
+        {
+          "month": 11,
+          "n_obs": 88,
+          "med_u_usd": 0.668,
+          "med_labor_min": 22.3
+        },
+        {
+          "month": 12,
+          "n_obs": 88,
+          "med_u_usd": 0.659,
+          "med_labor_min": 22.0
+        }
+      ]
+    },
+    {
+      "city": "Lubumbashi",
+      "country_iso3": "COD",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 1087,
+      "seasonal_cv_pct": 4.1,
+      "peak_to_trough_swing_pct": 13.4,
+      "peak_month": 7,
+      "trough_month": 5,
+      "peak_labor_min": 289.2,
+      "trough_labor_min": 255.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 97,
+          "med_u_usd": 1.397,
+          "med_labor_min": 271.8
+        },
+        {
+          "month": 2,
+          "n_obs": 94,
+          "med_u_usd": 1.455,
+          "med_labor_min": 283.1
+        },
+        {
+          "month": 3,
+          "n_obs": 95,
+          "med_u_usd": 1.429,
+          "med_labor_min": 278.0
+        },
+        {
+          "month": 4,
+          "n_obs": 75,
+          "med_u_usd": 1.434,
+          "med_labor_min": 278.9
+        },
+        {
+          "month": 5,
+          "n_obs": 58,
+          "med_u_usd": 1.311,
+          "med_labor_min": 255.1
+        },
+        {
+          "month": 6,
+          "n_obs": 70,
+          "med_u_usd": 1.345,
+          "med_labor_min": 261.7
+        },
+        {
+          "month": 7,
+          "n_obs": 107,
+          "med_u_usd": 1.486,
+          "med_labor_min": 289.2
+        },
+        {
+          "month": 8,
+          "n_obs": 98,
+          "med_u_usd": 1.474,
+          "med_labor_min": 286.9
+        },
+        {
+          "month": 9,
+          "n_obs": 117,
+          "med_u_usd": 1.426,
+          "med_labor_min": 277.4
+        },
+        {
+          "month": 10,
+          "n_obs": 109,
+          "med_u_usd": 1.337,
+          "med_labor_min": 260.1
+        },
+        {
+          "month": 11,
+          "n_obs": 90,
+          "med_u_usd": 1.35,
+          "med_labor_min": 262.7
+        },
+        {
+          "month": 12,
+          "n_obs": 77,
+          "med_u_usd": 1.384,
+          "med_labor_min": 269.3
+        }
+      ]
+    },
+    {
+      "city": "Colombo",
+      "country_iso3": "LKA",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 7370,
+      "seasonal_cv_pct": 4.0,
+      "peak_to_trough_swing_pct": 15.0,
+      "peak_month": 7,
+      "trough_month": 11,
+      "peak_labor_min": 22.8,
+      "trough_labor_min": 19.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 573,
+          "med_u_usd": 1.01,
+          "med_labor_min": 22.2
+        },
+        {
+          "month": 2,
+          "n_obs": 574,
+          "med_u_usd": 0.971,
+          "med_labor_min": 21.3
+        },
+        {
+          "month": 3,
+          "n_obs": 600,
+          "med_u_usd": 0.972,
+          "med_labor_min": 21.4
+        },
+        {
+          "month": 4,
+          "n_obs": 551,
+          "med_u_usd": 0.989,
+          "med_labor_min": 21.7
+        },
+        {
+          "month": 5,
+          "n_obs": 533,
+          "med_u_usd": 0.984,
+          "med_labor_min": 21.6
+        },
+        {
+          "month": 6,
+          "n_obs": 723,
+          "med_u_usd": 1.038,
+          "med_labor_min": 22.8
+        },
+        {
+          "month": 7,
+          "n_obs": 761,
+          "med_u_usd": 1.038,
+          "med_labor_min": 22.8
+        },
+        {
+          "month": 8,
+          "n_obs": 741,
+          "med_u_usd": 1.005,
+          "med_labor_min": 22.1
+        },
+        {
+          "month": 9,
+          "n_obs": 794,
+          "med_u_usd": 0.965,
+          "med_labor_min": 21.2
+        },
+        {
+          "month": 10,
+          "n_obs": 572,
+          "med_u_usd": 0.942,
+          "med_labor_min": 20.7
+        },
+        {
+          "month": 11,
+          "n_obs": 473,
+          "med_u_usd": 0.903,
+          "med_labor_min": 19.8
+        },
+        {
+          "month": 12,
+          "n_obs": 475,
+          "med_u_usd": 0.946,
+          "med_labor_min": 20.8
+        }
+      ]
+    },
+    {
+      "city": "Maputo",
+      "country_iso3": "MOZ",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 2696,
+      "seasonal_cv_pct": 4.0,
+      "peak_to_trough_swing_pct": 14.1,
+      "peak_month": 4,
+      "trough_month": 9,
+      "peak_labor_min": 186.8,
+      "trough_labor_min": 163.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 252,
+          "med_u_usd": 0.845,
+          "med_labor_min": 176.2
+        },
+        {
+          "month": 2,
+          "n_obs": 206,
+          "med_u_usd": 0.847,
+          "med_labor_min": 176.5
+        },
+        {
+          "month": 3,
+          "n_obs": 303,
+          "med_u_usd": 0.88,
+          "med_labor_min": 183.4
+        },
+        {
+          "month": 4,
+          "n_obs": 343,
+          "med_u_usd": 0.896,
+          "med_labor_min": 186.8
+        },
+        {
+          "month": 5,
+          "n_obs": 284,
+          "med_u_usd": 0.877,
+          "med_labor_min": 182.8
+        },
+        {
+          "month": 6,
+          "n_obs": 264,
+          "med_u_usd": 0.867,
+          "med_labor_min": 180.7
+        },
+        {
+          "month": 7,
+          "n_obs": 229,
+          "med_u_usd": 0.83,
+          "med_labor_min": 172.9
+        },
+        {
+          "month": 8,
+          "n_obs": 179,
+          "med_u_usd": 0.825,
+          "med_labor_min": 171.9
+        },
+        {
+          "month": 9,
+          "n_obs": 173,
+          "med_u_usd": 0.785,
+          "med_labor_min": 163.7
+        },
+        {
+          "month": 10,
+          "n_obs": 156,
+          "med_u_usd": 0.802,
+          "med_labor_min": 167.2
+        },
+        {
+          "month": 11,
+          "n_obs": 164,
+          "med_u_usd": 0.809,
+          "med_labor_min": 168.6
+        },
+        {
+          "month": 12,
+          "n_obs": 143,
+          "med_u_usd": 0.831,
+          "med_labor_min": 173.3
+        }
+      ]
+    },
+    {
+      "city": "Rio de Janeiro",
+      "country_iso3": "BRA",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 457,
+      "seasonal_cv_pct": 4.0,
+      "peak_to_trough_swing_pct": 14.0,
+      "peak_month": 4,
+      "trough_month": 8,
+      "peak_labor_min": 34.5,
+      "trough_labor_min": 30.3,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 40,
+          "med_u_usd": 2.337,
+          "med_labor_min": 31.9
+        },
+        {
+          "month": 2,
+          "n_obs": 40,
+          "med_u_usd": 2.352,
+          "med_labor_min": 32.1
+        },
+        {
+          "month": 3,
+          "n_obs": 40,
+          "med_u_usd": 2.41,
+          "med_labor_min": 32.9
+        },
+        {
+          "month": 4,
+          "n_obs": 40,
+          "med_u_usd": 2.53,
+          "med_labor_min": 34.5
+        },
+        {
+          "month": 5,
+          "n_obs": 40,
+          "med_u_usd": 2.496,
+          "med_labor_min": 34.0
+        },
+        {
+          "month": 6,
+          "n_obs": 47,
+          "med_u_usd": 2.314,
+          "med_labor_min": 30.7
+        },
+        {
+          "month": 7,
+          "n_obs": 35,
+          "med_u_usd": 2.275,
+          "med_labor_min": 31.0
+        },
+        {
+          "month": 8,
+          "n_obs": 35,
+          "med_u_usd": 2.221,
+          "med_labor_min": 30.3
+        },
+        {
+          "month": 9,
+          "n_obs": 35,
+          "med_u_usd": 2.271,
+          "med_labor_min": 31.0
+        },
+        {
+          "month": 10,
+          "n_obs": 35,
+          "med_u_usd": 2.34,
+          "med_labor_min": 31.9
+        },
+        {
+          "month": 11,
+          "n_obs": 35,
+          "med_u_usd": 2.347,
+          "med_labor_min": 32.0
+        },
+        {
+          "month": 12,
+          "n_obs": 35,
+          "med_u_usd": 2.348,
+          "med_labor_min": 32.0
+        }
+      ]
+    },
+    {
+      "city": "Salvador",
+      "country_iso3": "BRA",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 457,
+      "seasonal_cv_pct": 3.9,
+      "peak_to_trough_swing_pct": 13.9,
+      "peak_month": 4,
+      "trough_month": 8,
+      "peak_labor_min": 28.1,
+      "trough_labor_min": 24.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 40,
+          "med_u_usd": 1.906,
+          "med_labor_min": 26.0
+        },
+        {
+          "month": 2,
+          "n_obs": 40,
+          "med_u_usd": 1.918,
+          "med_labor_min": 26.1
+        },
+        {
+          "month": 3,
+          "n_obs": 40,
+          "med_u_usd": 1.966,
+          "med_labor_min": 26.8
+        },
+        {
+          "month": 4,
+          "n_obs": 40,
+          "med_u_usd": 2.063,
+          "med_labor_min": 28.1
+        },
+        {
+          "month": 5,
+          "n_obs": 40,
+          "med_u_usd": 2.035,
+          "med_labor_min": 27.8
+        },
+        {
+          "month": 6,
+          "n_obs": 47,
+          "med_u_usd": 1.887,
+          "med_labor_min": 27.1
+        },
+        {
+          "month": 7,
+          "n_obs": 35,
+          "med_u_usd": 1.855,
+          "med_labor_min": 25.3
+        },
+        {
+          "month": 8,
+          "n_obs": 35,
+          "med_u_usd": 1.811,
+          "med_labor_min": 24.7
+        },
+        {
+          "month": 9,
+          "n_obs": 35,
+          "med_u_usd": 1.852,
+          "med_labor_min": 25.3
+        },
+        {
+          "month": 10,
+          "n_obs": 35,
+          "med_u_usd": 1.908,
+          "med_labor_min": 26.0
+        },
+        {
+          "month": 11,
+          "n_obs": 35,
+          "med_u_usd": 1.914,
+          "med_labor_min": 26.1
+        },
+        {
+          "month": 12,
+          "n_obs": 35,
+          "med_u_usd": 1.914,
+          "med_labor_min": 26.1
+        }
+      ]
+    },
+    {
+      "city": "Sao Paulo",
+      "country_iso3": "BRA",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 462,
+      "seasonal_cv_pct": 3.9,
+      "peak_to_trough_swing_pct": 13.9,
+      "peak_month": 4,
+      "trough_month": 8,
+      "peak_labor_min": 34.8,
+      "trough_labor_min": 30.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 40,
+          "med_u_usd": 2.36,
+          "med_labor_min": 32.2
+        },
+        {
+          "month": 2,
+          "n_obs": 40,
+          "med_u_usd": 2.375,
+          "med_labor_min": 32.4
+        },
+        {
+          "month": 3,
+          "n_obs": 40,
+          "med_u_usd": 2.434,
+          "med_labor_min": 33.2
+        },
+        {
+          "month": 4,
+          "n_obs": 40,
+          "med_u_usd": 2.555,
+          "med_labor_min": 34.8
+        },
+        {
+          "month": 5,
+          "n_obs": 40,
+          "med_u_usd": 2.52,
+          "med_labor_min": 34.4
+        },
+        {
+          "month": 6,
+          "n_obs": 52,
+          "med_u_usd": 2.326,
+          "med_labor_min": 31.3
+        },
+        {
+          "month": 7,
+          "n_obs": 35,
+          "med_u_usd": 2.297,
+          "med_labor_min": 31.3
+        },
+        {
+          "month": 8,
+          "n_obs": 35,
+          "med_u_usd": 2.242,
+          "med_labor_min": 30.6
+        },
+        {
+          "month": 9,
+          "n_obs": 35,
+          "med_u_usd": 2.293,
+          "med_labor_min": 31.3
+        },
+        {
+          "month": 10,
+          "n_obs": 35,
+          "med_u_usd": 2.363,
+          "med_labor_min": 32.2
+        },
+        {
+          "month": 11,
+          "n_obs": 35,
+          "med_u_usd": 2.37,
+          "med_labor_min": 32.3
+        },
+        {
+          "month": 12,
+          "n_obs": 35,
+          "med_u_usd": 2.37,
+          "med_labor_min": 32.3
+        }
+      ]
+    },
+    {
+      "city": "Johannesburg",
+      "country_iso3": "ZAF",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 190,
+      "seasonal_cv_pct": 3.8,
+      "peak_to_trough_swing_pct": 12.5,
+      "peak_month": 11,
+      "trough_month": 7,
+      "peak_labor_min": 6.1,
+      "trough_labor_min": 5.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 18,
+          "med_u_usd": 0.378,
+          "med_labor_min": 5.5
+        },
+        {
+          "month": 2,
+          "n_obs": 18,
+          "med_u_usd": 0.382,
+          "med_labor_min": 5.6
+        },
+        {
+          "month": 3,
+          "n_obs": 17,
+          "med_u_usd": 0.376,
+          "med_labor_min": 5.5
+        },
+        {
+          "month": 4,
+          "n_obs": 18,
+          "med_u_usd": 0.39,
+          "med_labor_min": 5.7
+        },
+        {
+          "month": 5,
+          "n_obs": 16,
+          "med_u_usd": 0.401,
+          "med_labor_min": 5.9
+        },
+        {
+          "month": 6,
+          "n_obs": 16,
+          "med_u_usd": 0.4,
+          "med_labor_min": 5.8
+        },
+        {
+          "month": 7,
+          "n_obs": 14,
+          "med_u_usd": 0.371,
+          "med_labor_min": 5.4
+        },
+        {
+          "month": 8,
+          "n_obs": 14,
+          "med_u_usd": 0.388,
+          "med_labor_min": 5.7
+        },
+        {
+          "month": 9,
+          "n_obs": 14,
+          "med_u_usd": 0.388,
+          "med_labor_min": 5.7
+        },
+        {
+          "month": 10,
+          "n_obs": 14,
+          "med_u_usd": 0.389,
+          "med_labor_min": 5.7
+        },
+        {
+          "month": 11,
+          "n_obs": 15,
+          "med_u_usd": 0.418,
+          "med_labor_min": 6.1
+        },
+        {
+          "month": 12,
+          "n_obs": 16,
+          "med_u_usd": 0.416,
+          "med_labor_min": 6.1
+        }
+      ]
+    },
+    {
+      "city": "Kyiv",
+      "country_iso3": "UKR",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 4073,
+      "seasonal_cv_pct": 3.8,
+      "peak_to_trough_swing_pct": 12.9,
+      "peak_month": 10,
+      "trough_month": 1,
+      "peak_labor_min": 64.1,
+      "trough_labor_min": 56.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 312,
+          "med_u_usd": 1.313,
+          "med_labor_min": 56.8
+        },
+        {
+          "month": 2,
+          "n_obs": 356,
+          "med_u_usd": 1.359,
+          "med_labor_min": 58.8
+        },
+        {
+          "month": 3,
+          "n_obs": 357,
+          "med_u_usd": 1.344,
+          "med_labor_min": 58.1
+        },
+        {
+          "month": 4,
+          "n_obs": 355,
+          "med_u_usd": 1.417,
+          "med_labor_min": 61.3
+        },
+        {
+          "month": 5,
+          "n_obs": 354,
+          "med_u_usd": 1.433,
+          "med_labor_min": 62.0
+        },
+        {
+          "month": 6,
+          "n_obs": 353,
+          "med_u_usd": 1.437,
+          "med_labor_min": 62.2
+        },
+        {
+          "month": 7,
+          "n_obs": 352,
+          "med_u_usd": 1.454,
+          "med_labor_min": 62.9
+        },
+        {
+          "month": 8,
+          "n_obs": 353,
+          "med_u_usd": 1.459,
+          "med_labor_min": 63.1
+        },
+        {
+          "month": 9,
+          "n_obs": 351,
+          "med_u_usd": 1.477,
+          "med_labor_min": 63.9
+        },
+        {
+          "month": 10,
+          "n_obs": 350,
+          "med_u_usd": 1.482,
+          "med_labor_min": 64.1
+        },
+        {
+          "month": 11,
+          "n_obs": 292,
+          "med_u_usd": 1.435,
+          "med_labor_min": 62.1
+        },
+        {
+          "month": 12,
+          "n_obs": 288,
+          "med_u_usd": 1.409,
+          "med_labor_min": 61.0
+        }
+      ]
+    },
+    {
+      "city": "Montreal",
+      "country_iso3": "CAN",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 1074,
+      "seasonal_cv_pct": 3.7,
+      "peak_to_trough_swing_pct": 11.7,
+      "peak_month": 12,
+      "trough_month": 3,
+      "peak_labor_min": 5.1,
+      "trough_labor_min": 4.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 90,
+          "med_u_usd": 1.896,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 2,
+          "n_obs": 90,
+          "med_u_usd": 1.907,
+          "med_labor_min": 4.7
+        },
+        {
+          "month": 3,
+          "n_obs": 90,
+          "med_u_usd": 1.875,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 4,
+          "n_obs": 90,
+          "med_u_usd": 1.927,
+          "med_labor_min": 4.7
+        },
+        {
+          "month": 5,
+          "n_obs": 90,
+          "med_u_usd": 2.081,
+          "med_labor_min": 5.1
+        },
+        {
+          "month": 6,
+          "n_obs": 106,
+          "med_u_usd": 1.876,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 7,
+          "n_obs": 90,
+          "med_u_usd": 1.919,
+          "med_labor_min": 4.7
+        },
+        {
+          "month": 8,
+          "n_obs": 91,
+          "med_u_usd": 1.947,
+          "med_labor_min": 4.8
+        },
+        {
+          "month": 9,
+          "n_obs": 92,
+          "med_u_usd": 1.934,
+          "med_labor_min": 4.7
+        },
+        {
+          "month": 10,
+          "n_obs": 83,
+          "med_u_usd": 1.946,
+          "med_labor_min": 4.8
+        },
+        {
+          "month": 11,
+          "n_obs": 81,
+          "med_u_usd": 1.921,
+          "med_labor_min": 4.7
+        },
+        {
+          "month": 12,
+          "n_obs": 81,
+          "med_u_usd": 2.095,
+          "med_labor_min": 5.1
+        }
+      ]
+    },
+    {
+      "city": "Dar es Salaam",
+      "country_iso3": "TZA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 4162,
+      "seasonal_cv_pct": 3.4,
+      "peak_to_trough_swing_pct": 9.2,
+      "peak_month": 1,
+      "trough_month": 6,
+      "peak_labor_min": 108.3,
+      "trough_labor_min": 99.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 362,
+          "med_u_usd": 0.75,
+          "med_labor_min": 108.3
+        },
+        {
+          "month": 2,
+          "n_obs": 354,
+          "med_u_usd": 0.729,
+          "med_labor_min": 105.3
+        },
+        {
+          "month": 3,
+          "n_obs": 367,
+          "med_u_usd": 0.75,
+          "med_labor_min": 108.3
+        },
+        {
+          "month": 4,
+          "n_obs": 379,
+          "med_u_usd": 0.699,
+          "med_labor_min": 101.0
+        },
+        {
+          "month": 5,
+          "n_obs": 356,
+          "med_u_usd": 0.694,
+          "med_labor_min": 100.3
+        },
+        {
+          "month": 6,
+          "n_obs": 357,
+          "med_u_usd": 0.686,
+          "med_labor_min": 99.1
+        },
+        {
+          "month": 7,
+          "n_obs": 347,
+          "med_u_usd": 0.702,
+          "med_labor_min": 101.3
+        },
+        {
+          "month": 8,
+          "n_obs": 346,
+          "med_u_usd": 0.694,
+          "med_labor_min": 100.2
+        },
+        {
+          "month": 9,
+          "n_obs": 359,
+          "med_u_usd": 0.695,
+          "med_labor_min": 100.4
+        },
+        {
+          "month": 10,
+          "n_obs": 314,
+          "med_u_usd": 0.703,
+          "med_labor_min": 101.6
+        },
+        {
+          "month": 11,
+          "n_obs": 306,
+          "med_u_usd": 0.742,
+          "med_labor_min": 107.2
+        },
+        {
+          "month": 12,
+          "n_obs": 315,
+          "med_u_usd": 0.733,
+          "med_labor_min": 105.9
+        }
+      ]
+    },
+    {
+      "city": "Lahore",
+      "country_iso3": "PAK",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 2348,
+      "seasonal_cv_pct": 3.2,
+      "peak_to_trough_swing_pct": 11.3,
+      "peak_month": 12,
+      "trough_month": 3,
+      "peak_labor_min": 34.2,
+      "trough_labor_min": 30.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 205,
+          "med_u_usd": 0.641,
+          "med_labor_min": 32.1
+        },
+        {
+          "month": 2,
+          "n_obs": 205,
+          "med_u_usd": 0.618,
+          "med_labor_min": 30.9
+        },
+        {
+          "month": 3,
+          "n_obs": 205,
+          "med_u_usd": 0.615,
+          "med_labor_min": 30.8
+        },
+        {
+          "month": 4,
+          "n_obs": 205,
+          "med_u_usd": 0.646,
+          "med_labor_min": 32.3
+        },
+        {
+          "month": 5,
+          "n_obs": 205,
+          "med_u_usd": 0.656,
+          "med_labor_min": 32.8
+        },
+        {
+          "month": 6,
+          "n_obs": 205,
+          "med_u_usd": 0.652,
+          "med_labor_min": 32.6
+        },
+        {
+          "month": 7,
+          "n_obs": 205,
+          "med_u_usd": 0.646,
+          "med_labor_min": 32.3
+        },
+        {
+          "month": 8,
+          "n_obs": 194,
+          "med_u_usd": 0.639,
+          "med_labor_min": 31.9
+        },
+        {
+          "month": 9,
+          "n_obs": 195,
+          "med_u_usd": 0.646,
+          "med_labor_min": 32.3
+        },
+        {
+          "month": 10,
+          "n_obs": 194,
+          "med_u_usd": 0.653,
+          "med_labor_min": 32.6
+        },
+        {
+          "month": 11,
+          "n_obs": 165,
+          "med_u_usd": 0.683,
+          "med_labor_min": 34.2
+        },
+        {
+          "month": 12,
+          "n_obs": 165,
+          "med_u_usd": 0.685,
+          "med_labor_min": 34.2
+        }
+      ]
+    },
+    {
+      "city": "Bengaluru",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 4002,
+      "seasonal_cv_pct": 3.1,
+      "peak_to_trough_swing_pct": 10.6,
+      "peak_month": 11,
+      "trough_month": 4,
+      "peak_labor_min": 20.7,
+      "trough_labor_min": 18.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 319,
+          "med_u_usd": 0.643,
+          "med_labor_min": 19.8
+        },
+        {
+          "month": 2,
+          "n_obs": 295,
+          "med_u_usd": 0.631,
+          "med_labor_min": 19.4
+        },
+        {
+          "month": 3,
+          "n_obs": 374,
+          "med_u_usd": 0.612,
+          "med_labor_min": 18.8
+        },
+        {
+          "month": 4,
+          "n_obs": 376,
+          "med_u_usd": 0.609,
+          "med_labor_min": 18.7
+        },
+        {
+          "month": 5,
+          "n_obs": 373,
+          "med_u_usd": 0.632,
+          "med_labor_min": 19.5
+        },
+        {
+          "month": 6,
+          "n_obs": 398,
+          "med_u_usd": 0.621,
+          "med_labor_min": 19.1
+        },
+        {
+          "month": 7,
+          "n_obs": 402,
+          "med_u_usd": 0.621,
+          "med_labor_min": 19.1
+        },
+        {
+          "month": 8,
+          "n_obs": 311,
+          "med_u_usd": 0.629,
+          "med_labor_min": 19.4
+        },
+        {
+          "month": 9,
+          "n_obs": 314,
+          "med_u_usd": 0.637,
+          "med_labor_min": 19.6
+        },
+        {
+          "month": 10,
+          "n_obs": 314,
+          "med_u_usd": 0.646,
+          "med_labor_min": 19.9
+        },
+        {
+          "month": 11,
+          "n_obs": 276,
+          "med_u_usd": 0.674,
+          "med_labor_min": 20.7
+        },
+        {
+          "month": 12,
+          "n_obs": 250,
+          "med_u_usd": 0.666,
+          "med_labor_min": 20.5
+        }
+      ]
+    },
+    {
+      "city": "Guatemala City",
+      "country_iso3": "GTM",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 3338,
+      "seasonal_cv_pct": 3.1,
+      "peak_to_trough_swing_pct": 10.8,
+      "peak_month": 9,
+      "trough_month": 10,
+      "peak_labor_min": 21.9,
+      "trough_labor_min": 19.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 224,
+          "med_u_usd": 0.347,
+          "med_labor_min": 20.4
+        },
+        {
+          "month": 2,
+          "n_obs": 298,
+          "med_u_usd": 0.351,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 3,
+          "n_obs": 324,
+          "med_u_usd": 0.347,
+          "med_labor_min": 20.4
+        },
+        {
+          "month": 4,
+          "n_obs": 326,
+          "med_u_usd": 0.351,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 5,
+          "n_obs": 314,
+          "med_u_usd": 0.35,
+          "med_labor_min": 20.5
+        },
+        {
+          "month": 6,
+          "n_obs": 274,
+          "med_u_usd": 0.356,
+          "med_labor_min": 20.9
+        },
+        {
+          "month": 7,
+          "n_obs": 250,
+          "med_u_usd": 0.373,
+          "med_labor_min": 21.8
+        },
+        {
+          "month": 8,
+          "n_obs": 301,
+          "med_u_usd": 0.351,
+          "med_labor_min": 20.6
+        },
+        {
+          "month": 9,
+          "n_obs": 258,
+          "med_u_usd": 0.374,
+          "med_labor_min": 21.9
+        },
+        {
+          "month": 10,
+          "n_obs": 259,
+          "med_u_usd": 0.337,
+          "med_labor_min": 19.8
+        },
+        {
+          "month": 11,
+          "n_obs": 270,
+          "med_u_usd": 0.344,
+          "med_labor_min": 20.2
+        },
+        {
+          "month": 12,
+          "n_obs": 240,
+          "med_u_usd": 0.363,
+          "med_labor_min": 21.3
+        }
+      ]
+    },
+    {
+      "city": "La Paz",
+      "country_iso3": "BOL",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 1469,
+      "seasonal_cv_pct": 3.1,
+      "peak_to_trough_swing_pct": 9.1,
+      "peak_month": 6,
+      "trough_month": 9,
+      "peak_labor_min": 46.0,
+      "trough_labor_min": 42.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 128,
+          "med_u_usd": 1.0,
+          "med_labor_min": 42.3
+        },
+        {
+          "month": 2,
+          "n_obs": 129,
+          "med_u_usd": 0.997,
+          "med_labor_min": 42.1
+        },
+        {
+          "month": 3,
+          "n_obs": 130,
+          "med_u_usd": 1.026,
+          "med_labor_min": 43.4
+        },
+        {
+          "month": 4,
+          "n_obs": 132,
+          "med_u_usd": 1.034,
+          "med_labor_min": 43.7
+        },
+        {
+          "month": 5,
+          "n_obs": 130,
+          "med_u_usd": 1.087,
+          "med_labor_min": 45.9
+        },
+        {
+          "month": 6,
+          "n_obs": 132,
+          "med_u_usd": 1.087,
+          "med_labor_min": 46.0
+        },
+        {
+          "month": 7,
+          "n_obs": 122,
+          "med_u_usd": 1.002,
+          "med_labor_min": 42.4
+        },
+        {
+          "month": 8,
+          "n_obs": 123,
+          "med_u_usd": 1.01,
+          "med_labor_min": 42.7
+        },
+        {
+          "month": 9,
+          "n_obs": 118,
+          "med_u_usd": 0.997,
+          "med_labor_min": 42.1
+        },
+        {
+          "month": 10,
+          "n_obs": 121,
+          "med_u_usd": 1.01,
+          "med_labor_min": 42.7
+        },
+        {
+          "month": 11,
+          "n_obs": 100,
+          "med_u_usd": 1.018,
+          "med_labor_min": 43.0
+        },
+        {
+          "month": 12,
+          "n_obs": 104,
+          "med_u_usd": 1.004,
+          "med_labor_min": 42.4
+        }
+      ]
+    },
+    {
+      "city": "Mumbai",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 2429,
+      "seasonal_cv_pct": 3.1,
+      "peak_to_trough_swing_pct": 10.3,
+      "peak_month": 12,
+      "trough_month": 2,
+      "peak_labor_min": 19.5,
+      "trough_labor_min": 17.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 223,
+          "med_u_usd": 0.594,
+          "med_labor_min": 18.3
+        },
+        {
+          "month": 2,
+          "n_obs": 207,
+          "med_u_usd": 0.574,
+          "med_labor_min": 17.7
+        },
+        {
+          "month": 3,
+          "n_obs": 209,
+          "med_u_usd": 0.583,
+          "med_labor_min": 17.9
+        },
+        {
+          "month": 4,
+          "n_obs": 206,
+          "med_u_usd": 0.592,
+          "med_labor_min": 18.2
+        },
+        {
+          "month": 5,
+          "n_obs": 206,
+          "med_u_usd": 0.585,
+          "med_labor_min": 18.0
+        },
+        {
+          "month": 6,
+          "n_obs": 208,
+          "med_u_usd": 0.6,
+          "med_labor_min": 18.4
+        },
+        {
+          "month": 7,
+          "n_obs": 209,
+          "med_u_usd": 0.609,
+          "med_labor_min": 18.7
+        },
+        {
+          "month": 8,
+          "n_obs": 205,
+          "med_u_usd": 0.585,
+          "med_labor_min": 18.0
+        },
+        {
+          "month": 9,
+          "n_obs": 205,
+          "med_u_usd": 0.585,
+          "med_labor_min": 18.0
+        },
+        {
+          "month": 10,
+          "n_obs": 216,
+          "med_u_usd": 0.599,
+          "med_labor_min": 18.4
+        },
+        {
+          "month": 11,
+          "n_obs": 176,
+          "med_u_usd": 0.631,
+          "med_labor_min": 19.4
+        },
+        {
+          "month": 12,
+          "n_obs": 159,
+          "med_u_usd": 0.633,
+          "med_labor_min": 19.5
+        }
+      ]
+    },
+    {
+      "city": "Beirut",
+      "country_iso3": "LBN",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 6594,
+      "seasonal_cv_pct": 3.0,
+      "peak_to_trough_swing_pct": 9.4,
+      "peak_month": 2,
+      "trough_month": 7,
+      "peak_labor_min": 45.2,
+      "trough_labor_min": 41.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 578,
+          "med_u_usd": 1.352,
+          "med_labor_min": 42.2
+        },
+        {
+          "month": 2,
+          "n_obs": 628,
+          "med_u_usd": 1.45,
+          "med_labor_min": 45.2
+        },
+        {
+          "month": 3,
+          "n_obs": 691,
+          "med_u_usd": 1.43,
+          "med_labor_min": 44.6
+        },
+        {
+          "month": 4,
+          "n_obs": 673,
+          "med_u_usd": 1.445,
+          "med_labor_min": 45.1
+        },
+        {
+          "month": 5,
+          "n_obs": 630,
+          "med_u_usd": 1.392,
+          "med_labor_min": 43.4
+        },
+        {
+          "month": 6,
+          "n_obs": 590,
+          "med_u_usd": 1.349,
+          "med_labor_min": 42.1
+        },
+        {
+          "month": 7,
+          "n_obs": 549,
+          "med_u_usd": 1.326,
+          "med_labor_min": 41.4
+        },
+        {
+          "month": 8,
+          "n_obs": 540,
+          "med_u_usd": 1.363,
+          "med_labor_min": 42.5
+        },
+        {
+          "month": 9,
+          "n_obs": 428,
+          "med_u_usd": 1.431,
+          "med_labor_min": 44.6
+        },
+        {
+          "month": 10,
+          "n_obs": 435,
+          "med_u_usd": 1.416,
+          "med_labor_min": 44.2
+        },
+        {
+          "month": 11,
+          "n_obs": 427,
+          "med_u_usd": 1.419,
+          "med_labor_min": 44.3
+        },
+        {
+          "month": 12,
+          "n_obs": 425,
+          "med_u_usd": 1.419,
+          "med_labor_min": 44.3
+        }
+      ]
+    },
+    {
+      "city": "Medellin",
+      "country_iso3": "COL",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 4966,
+      "seasonal_cv_pct": 3.0,
+      "peak_to_trough_swing_pct": 11.0,
+      "peak_month": 6,
+      "trough_month": 1,
+      "peak_labor_min": 18.2,
+      "trough_labor_min": 16.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 456,
+          "med_u_usd": 0.927,
+          "med_labor_min": 16.4
+        },
+        {
+          "month": 2,
+          "n_obs": 455,
+          "med_u_usd": 0.943,
+          "med_labor_min": 16.6
+        },
+        {
+          "month": 3,
+          "n_obs": 453,
+          "med_u_usd": 0.951,
+          "med_labor_min": 16.8
+        },
+        {
+          "month": 4,
+          "n_obs": 480,
+          "med_u_usd": 0.973,
+          "med_labor_min": 17.2
+        },
+        {
+          "month": 5,
+          "n_obs": 446,
+          "med_u_usd": 0.999,
+          "med_labor_min": 17.6
+        },
+        {
+          "month": 6,
+          "n_obs": 425,
+          "med_u_usd": 1.029,
+          "med_labor_min": 18.2
+        },
+        {
+          "month": 7,
+          "n_obs": 389,
+          "med_u_usd": 0.976,
+          "med_labor_min": 17.2
+        },
+        {
+          "month": 8,
+          "n_obs": 393,
+          "med_u_usd": 0.946,
+          "med_labor_min": 16.7
+        },
+        {
+          "month": 9,
+          "n_obs": 376,
+          "med_u_usd": 0.94,
+          "med_labor_min": 16.6
+        },
+        {
+          "month": 10,
+          "n_obs": 376,
+          "med_u_usd": 0.948,
+          "med_labor_min": 16.7
+        },
+        {
+          "month": 11,
+          "n_obs": 341,
+          "med_u_usd": 0.968,
+          "med_labor_min": 17.1
+        },
+        {
+          "month": 12,
+          "n_obs": 376,
+          "med_u_usd": 0.984,
+          "med_labor_min": 17.4
+        }
+      ]
+    },
+    {
+      "city": "Nairobi",
+      "country_iso3": "KEN",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 5488,
+      "seasonal_cv_pct": 3.0,
+      "peak_to_trough_swing_pct": 11.2,
+      "peak_month": 12,
+      "trough_month": 9,
+      "peak_labor_min": 21.1,
+      "trough_labor_min": 18.9,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 565,
+          "med_u_usd": 0.5,
+          "med_labor_min": 19.4
+        },
+        {
+          "month": 2,
+          "n_obs": 556,
+          "med_u_usd": 0.503,
+          "med_labor_min": 19.5
+        },
+        {
+          "month": 3,
+          "n_obs": 517,
+          "med_u_usd": 0.49,
+          "med_labor_min": 19.0
+        },
+        {
+          "month": 4,
+          "n_obs": 510,
+          "med_u_usd": 0.52,
+          "med_labor_min": 20.1
+        },
+        {
+          "month": 5,
+          "n_obs": 498,
+          "med_u_usd": 0.519,
+          "med_labor_min": 20.1
+        },
+        {
+          "month": 6,
+          "n_obs": 487,
+          "med_u_usd": 0.511,
+          "med_labor_min": 19.8
+        },
+        {
+          "month": 7,
+          "n_obs": 503,
+          "med_u_usd": 0.504,
+          "med_labor_min": 19.5
+        },
+        {
+          "month": 8,
+          "n_obs": 439,
+          "med_u_usd": 0.496,
+          "med_labor_min": 19.2
+        },
+        {
+          "month": 9,
+          "n_obs": 403,
+          "med_u_usd": 0.489,
+          "med_labor_min": 18.9
+        },
+        {
+          "month": 10,
+          "n_obs": 386,
+          "med_u_usd": 0.511,
+          "med_labor_min": 19.8
+        },
+        {
+          "month": 11,
+          "n_obs": 315,
+          "med_u_usd": 0.519,
+          "med_labor_min": 20.1
+        },
+        {
+          "month": 12,
+          "n_obs": 309,
+          "med_u_usd": 0.544,
+          "med_labor_min": 21.1
+        }
+      ]
+    },
+    {
+      "city": "Sanaa",
+      "country_iso3": "YEM",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 8660,
+      "seasonal_cv_pct": 3.0,
+      "peak_to_trough_swing_pct": 8.9,
+      "peak_month": 11,
+      "trough_month": 6,
+      "peak_labor_min": 236.9,
+      "trough_labor_min": 217.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 802,
+          "med_u_usd": 1.356,
+          "med_labor_min": 217.7
+        },
+        {
+          "month": 2,
+          "n_obs": 805,
+          "med_u_usd": 1.368,
+          "med_labor_min": 219.6
+        },
+        {
+          "month": 3,
+          "n_obs": 798,
+          "med_u_usd": 1.401,
+          "med_labor_min": 224.9
+        },
+        {
+          "month": 4,
+          "n_obs": 810,
+          "med_u_usd": 1.401,
+          "med_labor_min": 224.9
+        },
+        {
+          "month": 5,
+          "n_obs": 769,
+          "med_u_usd": 1.368,
+          "med_labor_min": 219.6
+        },
+        {
+          "month": 6,
+          "n_obs": 701,
+          "med_u_usd": 1.355,
+          "med_labor_min": 217.6
+        },
+        {
+          "month": 7,
+          "n_obs": 675,
+          "med_u_usd": 1.375,
+          "med_labor_min": 220.7
+        },
+        {
+          "month": 8,
+          "n_obs": 677,
+          "med_u_usd": 1.41,
+          "med_labor_min": 226.4
+        },
+        {
+          "month": 9,
+          "n_obs": 664,
+          "med_u_usd": 1.422,
+          "med_labor_min": 228.4
+        },
+        {
+          "month": 10,
+          "n_obs": 655,
+          "med_u_usd": 1.455,
+          "med_labor_min": 233.6
+        },
+        {
+          "month": 11,
+          "n_obs": 656,
+          "med_u_usd": 1.475,
+          "med_labor_min": 236.9
+        },
+        {
+          "month": 12,
+          "n_obs": 648,
+          "med_u_usd": 1.462,
+          "med_labor_min": 234.7
+        }
+      ]
+    },
+    {
+      "city": "Lucknow",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 3016,
+      "seasonal_cv_pct": 2.9,
+      "peak_to_trough_swing_pct": 11.0,
+      "peak_month": 12,
+      "trough_month": 1,
+      "peak_labor_min": 16.8,
+      "trough_labor_min": 15.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 294,
+          "med_u_usd": 0.493,
+          "med_labor_min": 15.2
+        },
+        {
+          "month": 2,
+          "n_obs": 240,
+          "med_u_usd": 0.501,
+          "med_labor_min": 15.4
+        },
+        {
+          "month": 3,
+          "n_obs": 236,
+          "med_u_usd": 0.503,
+          "med_labor_min": 15.5
+        },
+        {
+          "month": 4,
+          "n_obs": 238,
+          "med_u_usd": 0.508,
+          "med_labor_min": 15.6
+        },
+        {
+          "month": 5,
+          "n_obs": 236,
+          "med_u_usd": 0.517,
+          "med_labor_min": 15.9
+        },
+        {
+          "month": 6,
+          "n_obs": 343,
+          "med_u_usd": 0.525,
+          "med_labor_min": 16.2
+        },
+        {
+          "month": 7,
+          "n_obs": 293,
+          "med_u_usd": 0.534,
+          "med_labor_min": 16.4
+        },
+        {
+          "month": 8,
+          "n_obs": 239,
+          "med_u_usd": 0.522,
+          "med_labor_min": 16.1
+        },
+        {
+          "month": 9,
+          "n_obs": 238,
+          "med_u_usd": 0.518,
+          "med_labor_min": 15.9
+        },
+        {
+          "month": 10,
+          "n_obs": 239,
+          "med_u_usd": 0.522,
+          "med_labor_min": 16.1
+        },
+        {
+          "month": 11,
+          "n_obs": 238,
+          "med_u_usd": 0.528,
+          "med_labor_min": 16.2
+        },
+        {
+          "month": 12,
+          "n_obs": 182,
+          "med_u_usd": 0.547,
+          "med_labor_min": 16.8
+        }
+      ]
+    },
+    {
+      "city": "Bogota",
+      "country_iso3": "COL",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 6863,
+      "seasonal_cv_pct": 2.8,
+      "peak_to_trough_swing_pct": 10.8,
+      "peak_month": 6,
+      "trough_month": 1,
+      "peak_labor_min": 16.1,
+      "trough_labor_min": 14.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 611,
+          "med_u_usd": 0.826,
+          "med_labor_min": 14.6
+        },
+        {
+          "month": 2,
+          "n_obs": 621,
+          "med_u_usd": 0.843,
+          "med_labor_min": 14.9
+        },
+        {
+          "month": 3,
+          "n_obs": 616,
+          "med_u_usd": 0.852,
+          "med_labor_min": 15.0
+        },
+        {
+          "month": 4,
+          "n_obs": 686,
+          "med_u_usd": 0.875,
+          "med_labor_min": 15.4
+        },
+        {
+          "month": 5,
+          "n_obs": 615,
+          "med_u_usd": 0.888,
+          "med_labor_min": 15.7
+        },
+        {
+          "month": 6,
+          "n_obs": 606,
+          "med_u_usd": 0.915,
+          "med_labor_min": 16.1
+        },
+        {
+          "month": 7,
+          "n_obs": 539,
+          "med_u_usd": 0.882,
+          "med_labor_min": 15.6
+        },
+        {
+          "month": 8,
+          "n_obs": 541,
+          "med_u_usd": 0.866,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 9,
+          "n_obs": 521,
+          "med_u_usd": 0.851,
+          "med_labor_min": 15.0
+        },
+        {
+          "month": 10,
+          "n_obs": 516,
+          "med_u_usd": 0.865,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 11,
+          "n_obs": 479,
+          "med_u_usd": 0.893,
+          "med_labor_min": 15.8
+        },
+        {
+          "month": 12,
+          "n_obs": 512,
+          "med_u_usd": 0.879,
+          "med_labor_min": 15.5
+        }
+      ]
+    },
+    {
+      "city": "Douala",
+      "country_iso3": "CMR",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 6492,
+      "seasonal_cv_pct": 2.8,
+      "peak_to_trough_swing_pct": 10.1,
+      "peak_month": 12,
+      "trough_month": 3,
+      "peak_labor_min": 138.9,
+      "trough_labor_min": 126.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 402,
+          "med_u_usd": 0.991,
+          "med_labor_min": 127.5
+        },
+        {
+          "month": 2,
+          "n_obs": 478,
+          "med_u_usd": 0.991,
+          "med_labor_min": 127.5
+        },
+        {
+          "month": 3,
+          "n_obs": 500,
+          "med_u_usd": 0.981,
+          "med_labor_min": 126.2
+        },
+        {
+          "month": 4,
+          "n_obs": 487,
+          "med_u_usd": 1.003,
+          "med_labor_min": 129.0
+        },
+        {
+          "month": 5,
+          "n_obs": 569,
+          "med_u_usd": 1.031,
+          "med_labor_min": 132.7
+        },
+        {
+          "month": 6,
+          "n_obs": 593,
+          "med_u_usd": 0.991,
+          "med_labor_min": 127.5
+        },
+        {
+          "month": 7,
+          "n_obs": 571,
+          "med_u_usd": 1.014,
+          "med_labor_min": 130.5
+        },
+        {
+          "month": 8,
+          "n_obs": 611,
+          "med_u_usd": 1.024,
+          "med_labor_min": 131.7
+        },
+        {
+          "month": 9,
+          "n_obs": 634,
+          "med_u_usd": 1.033,
+          "med_labor_min": 133.0
+        },
+        {
+          "month": 10,
+          "n_obs": 582,
+          "med_u_usd": 1.035,
+          "med_labor_min": 133.2
+        },
+        {
+          "month": 11,
+          "n_obs": 567,
+          "med_u_usd": 1.041,
+          "med_labor_min": 134.0
+        },
+        {
+          "month": 12,
+          "n_obs": 498,
+          "med_u_usd": 1.08,
+          "med_labor_min": 138.9
+        }
+      ]
+    },
+    {
+      "city": "USA National Benchmark (IMF_GLOBAL)",
+      "country_iso3": "USA",
+      "region": "High-Income Benchmark",
+      "months_covered": 12,
+      "total_obs": 270,
+      "seasonal_cv_pct": 2.8,
+      "peak_to_trough_swing_pct": 8.6,
+      "peak_month": 5,
+      "trough_month": 10,
+      "peak_labor_min": 2.1,
+      "trough_labor_min": 2.0,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 23,
+          "med_u_usd": 0.954,
+          "med_labor_min": 2.0
+        },
+        {
+          "month": 2,
+          "n_obs": 23,
+          "med_u_usd": 0.953,
+          "med_labor_min": 2.0
+        },
+        {
+          "month": 3,
+          "n_obs": 23,
+          "med_u_usd": 0.981,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 4,
+          "n_obs": 23,
+          "med_u_usd": 0.996,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 5,
+          "n_obs": 23,
+          "med_u_usd": 1.021,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 6,
+          "n_obs": 23,
+          "med_u_usd": 1.0,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 7,
+          "n_obs": 23,
+          "med_u_usd": 0.996,
+          "med_labor_min": 2.1
+        },
+        {
+          "month": 8,
+          "n_obs": 23,
+          "med_u_usd": 0.969,
+          "med_labor_min": 2.0
+        },
+        {
+          "month": 9,
+          "n_obs": 23,
+          "med_u_usd": 0.967,
+          "med_labor_min": 2.0
+        },
+        {
+          "month": 10,
+          "n_obs": 21,
+          "med_u_usd": 0.941,
+          "med_labor_min": 2.0
+        },
+        {
+          "month": 11,
+          "n_obs": 21,
+          "med_u_usd": 0.939,
+          "med_labor_min": 2.0
+        },
+        {
+          "month": 12,
+          "n_obs": 21,
+          "med_u_usd": 0.945,
+          "med_labor_min": 2.0
+        }
+      ]
+    },
+    {
+      "city": "Dakar",
+      "country_iso3": "SEN",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 4229,
+      "seasonal_cv_pct": 2.7,
+      "peak_to_trough_swing_pct": 7.6,
+      "peak_month": 9,
+      "trough_month": 4,
+      "peak_labor_min": 68.2,
+      "trough_labor_min": 63.3,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 364,
+          "med_u_usd": 0.631,
+          "med_labor_min": 63.4
+        },
+        {
+          "month": 2,
+          "n_obs": 372,
+          "med_u_usd": 0.644,
+          "med_labor_min": 64.7
+        },
+        {
+          "month": 3,
+          "n_obs": 350,
+          "med_u_usd": 0.631,
+          "med_labor_min": 63.4
+        },
+        {
+          "month": 4,
+          "n_obs": 341,
+          "med_u_usd": 0.631,
+          "med_labor_min": 63.3
+        },
+        {
+          "month": 5,
+          "n_obs": 372,
+          "med_u_usd": 0.638,
+          "med_labor_min": 64.0
+        },
+        {
+          "month": 6,
+          "n_obs": 366,
+          "med_u_usd": 0.632,
+          "med_labor_min": 63.5
+        },
+        {
+          "month": 7,
+          "n_obs": 392,
+          "med_u_usd": 0.649,
+          "med_labor_min": 65.2
+        },
+        {
+          "month": 8,
+          "n_obs": 379,
+          "med_u_usd": 0.67,
+          "med_labor_min": 67.2
+        },
+        {
+          "month": 9,
+          "n_obs": 379,
+          "med_u_usd": 0.679,
+          "med_labor_min": 68.2
+        },
+        {
+          "month": 10,
+          "n_obs": 344,
+          "med_u_usd": 0.668,
+          "med_labor_min": 67.1
+        },
+        {
+          "month": 11,
+          "n_obs": 276,
+          "med_u_usd": 0.657,
+          "med_labor_min": 66.0
+        },
+        {
+          "month": 12,
+          "n_obs": 294,
+          "med_u_usd": 0.634,
+          "med_labor_min": 63.7
+        }
+      ]
+    },
+    {
+      "city": "Patna",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 5166,
+      "seasonal_cv_pct": 2.7,
+      "peak_to_trough_swing_pct": 8.4,
+      "peak_month": 11,
+      "trough_month": 2,
+      "peak_labor_min": 16.5,
+      "trough_labor_min": 15.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 430,
+          "med_u_usd": 0.508,
+          "med_labor_min": 15.6
+        },
+        {
+          "month": 2,
+          "n_obs": 416,
+          "med_u_usd": 0.495,
+          "med_labor_min": 15.2
+        },
+        {
+          "month": 3,
+          "n_obs": 416,
+          "med_u_usd": 0.501,
+          "med_labor_min": 15.4
+        },
+        {
+          "month": 4,
+          "n_obs": 501,
+          "med_u_usd": 0.509,
+          "med_labor_min": 15.7
+        },
+        {
+          "month": 5,
+          "n_obs": 479,
+          "med_u_usd": 0.512,
+          "med_labor_min": 15.8
+        },
+        {
+          "month": 6,
+          "n_obs": 560,
+          "med_u_usd": 0.522,
+          "med_labor_min": 16.1
+        },
+        {
+          "month": 7,
+          "n_obs": 507,
+          "med_u_usd": 0.515,
+          "med_labor_min": 15.9
+        },
+        {
+          "month": 8,
+          "n_obs": 331,
+          "med_u_usd": 0.525,
+          "med_labor_min": 16.2
+        },
+        {
+          "month": 9,
+          "n_obs": 332,
+          "med_u_usd": 0.535,
+          "med_labor_min": 16.5
+        },
+        {
+          "month": 10,
+          "n_obs": 404,
+          "med_u_usd": 0.531,
+          "med_labor_min": 16.4
+        },
+        {
+          "month": 11,
+          "n_obs": 402,
+          "med_u_usd": 0.536,
+          "med_labor_min": 16.5
+        },
+        {
+          "month": 12,
+          "n_obs": 388,
+          "med_u_usd": 0.532,
+          "med_labor_min": 16.4
+        }
+      ]
+    },
+    {
+      "city": "Abidjan",
+      "country_iso3": "CIV",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 589,
+      "seasonal_cv_pct": 2.6,
+      "peak_to_trough_swing_pct": 8.9,
+      "peak_month": 12,
+      "trough_month": 8,
+      "peak_labor_min": 94.8,
+      "trough_labor_min": 87.0,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 53,
+          "med_u_usd": 1.036,
+          "med_labor_min": 91.6
+        },
+        {
+          "month": 2,
+          "n_obs": 53,
+          "med_u_usd": 1.045,
+          "med_labor_min": 92.4
+        },
+        {
+          "month": 3,
+          "n_obs": 53,
+          "med_u_usd": 1.063,
+          "med_labor_min": 94.0
+        },
+        {
+          "month": 4,
+          "n_obs": 58,
+          "med_u_usd": 1.03,
+          "med_labor_min": 91.1
+        },
+        {
+          "month": 5,
+          "n_obs": 62,
+          "med_u_usd": 1.008,
+          "med_labor_min": 89.2
+        },
+        {
+          "month": 6,
+          "n_obs": 47,
+          "med_u_usd": 1.036,
+          "med_labor_min": 91.6
+        },
+        {
+          "month": 7,
+          "n_obs": 47,
+          "med_u_usd": 0.988,
+          "med_labor_min": 87.4
+        },
+        {
+          "month": 8,
+          "n_obs": 46,
+          "med_u_usd": 0.984,
+          "med_labor_min": 87.0
+        },
+        {
+          "month": 9,
+          "n_obs": 47,
+          "med_u_usd": 1.046,
+          "med_labor_min": 92.6
+        },
+        {
+          "month": 10,
+          "n_obs": 41,
+          "med_u_usd": 1.039,
+          "med_labor_min": 91.9
+        },
+        {
+          "month": 11,
+          "n_obs": 41,
+          "med_u_usd": 1.034,
+          "med_labor_min": 91.5
+        },
+        {
+          "month": 12,
+          "n_obs": 41,
+          "med_u_usd": 1.072,
+          "med_labor_min": 94.8
+        }
+      ]
+    },
+    {
+      "city": "Chennai",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 1494,
+      "seasonal_cv_pct": 2.5,
+      "peak_to_trough_swing_pct": 9.1,
+      "peak_month": 12,
+      "trough_month": 9,
+      "peak_labor_min": 22.0,
+      "trough_labor_min": 20.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 140,
+          "med_u_usd": 0.671,
+          "med_labor_min": 20.6
+        },
+        {
+          "month": 2,
+          "n_obs": 128,
+          "med_u_usd": 0.682,
+          "med_labor_min": 21.0
+        },
+        {
+          "month": 3,
+          "n_obs": 128,
+          "med_u_usd": 0.659,
+          "med_labor_min": 20.3
+        },
+        {
+          "month": 4,
+          "n_obs": 128,
+          "med_u_usd": 0.678,
+          "med_labor_min": 20.9
+        },
+        {
+          "month": 5,
+          "n_obs": 131,
+          "med_u_usd": 0.688,
+          "med_labor_min": 21.2
+        },
+        {
+          "month": 6,
+          "n_obs": 135,
+          "med_u_usd": 0.685,
+          "med_labor_min": 21.1
+        },
+        {
+          "month": 7,
+          "n_obs": 136,
+          "med_u_usd": 0.697,
+          "med_labor_min": 21.5
+        },
+        {
+          "month": 8,
+          "n_obs": 119,
+          "med_u_usd": 0.669,
+          "med_labor_min": 20.6
+        },
+        {
+          "month": 9,
+          "n_obs": 120,
+          "med_u_usd": 0.656,
+          "med_labor_min": 20.2
+        },
+        {
+          "month": 10,
+          "n_obs": 118,
+          "med_u_usd": 0.684,
+          "med_labor_min": 21.0
+        },
+        {
+          "month": 11,
+          "n_obs": 111,
+          "med_u_usd": 0.7,
+          "med_labor_min": 21.5
+        },
+        {
+          "month": 12,
+          "n_obs": 100,
+          "med_u_usd": 0.716,
+          "med_labor_min": 22.0
+        }
+      ]
+    },
+    {
+      "city": "Kabul",
+      "country_iso3": "AFG",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 4958,
+      "seasonal_cv_pct": 2.5,
+      "peak_to_trough_swing_pct": 9.3,
+      "peak_month": 12,
+      "trough_month": 1,
+      "peak_labor_min": 66.8,
+      "trough_labor_min": 61.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 382,
+          "med_u_usd": 0.542,
+          "med_labor_min": 61.2
+        },
+        {
+          "month": 2,
+          "n_obs": 384,
+          "med_u_usd": 0.555,
+          "med_labor_min": 62.5
+        },
+        {
+          "month": 3,
+          "n_obs": 383,
+          "med_u_usd": 0.544,
+          "med_labor_min": 61.4
+        },
+        {
+          "month": 4,
+          "n_obs": 384,
+          "med_u_usd": 0.558,
+          "med_labor_min": 62.9
+        },
+        {
+          "month": 5,
+          "n_obs": 466,
+          "med_u_usd": 0.562,
+          "med_labor_min": 63.4
+        },
+        {
+          "month": 6,
+          "n_obs": 469,
+          "med_u_usd": 0.571,
+          "med_labor_min": 64.4
+        },
+        {
+          "month": 7,
+          "n_obs": 468,
+          "med_u_usd": 0.552,
+          "med_labor_min": 62.2
+        },
+        {
+          "month": 8,
+          "n_obs": 424,
+          "med_u_usd": 0.558,
+          "med_labor_min": 62.9
+        },
+        {
+          "month": 9,
+          "n_obs": 425,
+          "med_u_usd": 0.55,
+          "med_labor_min": 62.0
+        },
+        {
+          "month": 10,
+          "n_obs": 422,
+          "med_u_usd": 0.571,
+          "med_labor_min": 64.4
+        },
+        {
+          "month": 11,
+          "n_obs": 420,
+          "med_u_usd": 0.572,
+          "med_labor_min": 64.5
+        },
+        {
+          "month": 12,
+          "n_obs": 331,
+          "med_u_usd": 0.593,
+          "med_labor_min": 66.8
+        }
+      ]
+    },
+    {
+      "city": "Kigali",
+      "country_iso3": "RWA",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 27588,
+      "seasonal_cv_pct": 2.5,
+      "peak_to_trough_swing_pct": 7.7,
+      "peak_month": 8,
+      "trough_month": 1,
+      "peak_labor_min": 98.8,
+      "trough_labor_min": 91.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 2551,
+          "med_u_usd": 0.821,
+          "med_labor_min": 91.8
+        },
+        {
+          "month": 2,
+          "n_obs": 2549,
+          "med_u_usd": 0.828,
+          "med_labor_min": 92.6
+        },
+        {
+          "month": 3,
+          "n_obs": 2406,
+          "med_u_usd": 0.841,
+          "med_labor_min": 94.0
+        },
+        {
+          "month": 4,
+          "n_obs": 2428,
+          "med_u_usd": 0.861,
+          "med_labor_min": 96.3
+        },
+        {
+          "month": 5,
+          "n_obs": 2540,
+          "med_u_usd": 0.84,
+          "med_labor_min": 94.0
+        },
+        {
+          "month": 6,
+          "n_obs": 2447,
+          "med_u_usd": 0.869,
+          "med_labor_min": 97.3
+        },
+        {
+          "month": 7,
+          "n_obs": 2424,
+          "med_u_usd": 0.869,
+          "med_labor_min": 97.2
+        },
+        {
+          "month": 8,
+          "n_obs": 2273,
+          "med_u_usd": 0.883,
+          "med_labor_min": 98.8
+        },
+        {
+          "month": 9,
+          "n_obs": 1961,
+          "med_u_usd": 0.883,
+          "med_labor_min": 98.8
+        },
+        {
+          "month": 10,
+          "n_obs": 2101,
+          "med_u_usd": 0.877,
+          "med_labor_min": 98.2
+        },
+        {
+          "month": 11,
+          "n_obs": 2079,
+          "med_u_usd": 0.871,
+          "med_labor_min": 97.5
+        },
+        {
+          "month": 12,
+          "n_obs": 1829,
+          "med_u_usd": 0.865,
+          "med_labor_min": 96.8
+        }
+      ]
+    },
+    {
+      "city": "New Delhi",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 3773,
+      "seasonal_cv_pct": 2.5,
+      "peak_to_trough_swing_pct": 8.1,
+      "peak_month": 6,
+      "trough_month": 3,
+      "peak_labor_min": 17.8,
+      "trough_labor_min": 16.5,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 343,
+          "med_u_usd": 0.54,
+          "med_labor_min": 16.6
+        },
+        {
+          "month": 2,
+          "n_obs": 306,
+          "med_u_usd": 0.536,
+          "med_labor_min": 16.5
+        },
+        {
+          "month": 3,
+          "n_obs": 317,
+          "med_u_usd": 0.536,
+          "med_labor_min": 16.5
+        },
+        {
+          "month": 4,
+          "n_obs": 317,
+          "med_u_usd": 0.549,
+          "med_labor_min": 16.9
+        },
+        {
+          "month": 5,
+          "n_obs": 316,
+          "med_u_usd": 0.563,
+          "med_labor_min": 17.3
+        },
+        {
+          "month": 6,
+          "n_obs": 409,
+          "med_u_usd": 0.58,
+          "med_labor_min": 17.8
+        },
+        {
+          "month": 7,
+          "n_obs": 331,
+          "med_u_usd": 0.561,
+          "med_labor_min": 17.3
+        },
+        {
+          "month": 8,
+          "n_obs": 282,
+          "med_u_usd": 0.565,
+          "med_labor_min": 17.4
+        },
+        {
+          "month": 9,
+          "n_obs": 282,
+          "med_u_usd": 0.564,
+          "med_labor_min": 17.4
+        },
+        {
+          "month": 10,
+          "n_obs": 309,
+          "med_u_usd": 0.561,
+          "med_labor_min": 17.3
+        },
+        {
+          "month": 11,
+          "n_obs": 302,
+          "med_u_usd": 0.57,
+          "med_labor_min": 17.5
+        },
+        {
+          "month": 12,
+          "n_obs": 259,
+          "med_u_usd": 0.568,
+          "med_labor_min": 17.5
+        }
+      ]
+    },
+    {
+      "city": "Ahmedabad",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 1521,
+      "seasonal_cv_pct": 2.4,
+      "peak_to_trough_swing_pct": 8.0,
+      "peak_month": 12,
+      "trough_month": 4,
+      "peak_labor_min": 16.2,
+      "trough_labor_min": 15.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 148,
+          "med_u_usd": 0.51,
+          "med_labor_min": 15.7
+        },
+        {
+          "month": 2,
+          "n_obs": 123,
+          "med_u_usd": 0.489,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 3,
+          "n_obs": 123,
+          "med_u_usd": 0.489,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 4,
+          "n_obs": 121,
+          "med_u_usd": 0.489,
+          "med_labor_min": 15.1
+        },
+        {
+          "month": 5,
+          "n_obs": 124,
+          "med_u_usd": 0.497,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 6,
+          "n_obs": 149,
+          "med_u_usd": 0.497,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 7,
+          "n_obs": 150,
+          "med_u_usd": 0.515,
+          "med_labor_min": 15.8
+        },
+        {
+          "month": 8,
+          "n_obs": 122,
+          "med_u_usd": 0.515,
+          "med_labor_min": 15.8
+        },
+        {
+          "month": 9,
+          "n_obs": 122,
+          "med_u_usd": 0.508,
+          "med_labor_min": 15.6
+        },
+        {
+          "month": 10,
+          "n_obs": 122,
+          "med_u_usd": 0.509,
+          "med_labor_min": 15.6
+        },
+        {
+          "month": 11,
+          "n_obs": 121,
+          "med_u_usd": 0.498,
+          "med_labor_min": 15.3
+        },
+        {
+          "month": 12,
+          "n_obs": 96,
+          "med_u_usd": 0.528,
+          "med_labor_min": 16.2
+        }
+      ]
+    },
+    {
+      "city": "Phnom Penh",
+      "country_iso3": "KHM",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 19888,
+      "seasonal_cv_pct": 2.3,
+      "peak_to_trough_swing_pct": 7.1,
+      "peak_month": 7,
+      "trough_month": 1,
+      "peak_labor_min": 39.5,
+      "trough_labor_min": 36.9,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1417,
+          "med_u_usd": 0.639,
+          "med_labor_min": 36.9
+        },
+        {
+          "month": 2,
+          "n_obs": 1365,
+          "med_u_usd": 0.644,
+          "med_labor_min": 37.2
+        },
+        {
+          "month": 3,
+          "n_obs": 1989,
+          "med_u_usd": 0.653,
+          "med_labor_min": 37.7
+        },
+        {
+          "month": 4,
+          "n_obs": 1466,
+          "med_u_usd": 0.663,
+          "med_labor_min": 38.3
+        },
+        {
+          "month": 5,
+          "n_obs": 1581,
+          "med_u_usd": 0.664,
+          "med_labor_min": 38.3
+        },
+        {
+          "month": 6,
+          "n_obs": 1943,
+          "med_u_usd": 0.672,
+          "med_labor_min": 38.8
+        },
+        {
+          "month": 7,
+          "n_obs": 1618,
+          "med_u_usd": 0.685,
+          "med_labor_min": 39.5
+        },
+        {
+          "month": 8,
+          "n_obs": 1702,
+          "med_u_usd": 0.685,
+          "med_labor_min": 39.5
+        },
+        {
+          "month": 9,
+          "n_obs": 1978,
+          "med_u_usd": 0.677,
+          "med_labor_min": 39.1
+        },
+        {
+          "month": 10,
+          "n_obs": 1650,
+          "med_u_usd": 0.667,
+          "med_labor_min": 38.5
+        },
+        {
+          "month": 11,
+          "n_obs": 1683,
+          "med_u_usd": 0.682,
+          "med_labor_min": 39.4
+        },
+        {
+          "month": 12,
+          "n_obs": 1496,
+          "med_u_usd": 0.674,
+          "med_labor_min": 38.9
+        }
+      ]
+    },
+    {
+      "city": "Yaounde",
+      "country_iso3": "CMR",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 2613,
+      "seasonal_cv_pct": 2.3,
+      "peak_to_trough_swing_pct": 7.4,
+      "peak_month": 9,
+      "trough_month": 3,
+      "peak_labor_min": 134.4,
+      "trough_labor_min": 125.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 228,
+          "med_u_usd": 0.991,
+          "med_labor_min": 127.5
+        },
+        {
+          "month": 2,
+          "n_obs": 240,
+          "med_u_usd": 0.986,
+          "med_labor_min": 126.9
+        },
+        {
+          "month": 3,
+          "n_obs": 231,
+          "med_u_usd": 0.972,
+          "med_labor_min": 125.1
+        },
+        {
+          "month": 4,
+          "n_obs": 218,
+          "med_u_usd": 1.0,
+          "med_labor_min": 128.6
+        },
+        {
+          "month": 5,
+          "n_obs": 240,
+          "med_u_usd": 1.039,
+          "med_labor_min": 133.7
+        },
+        {
+          "month": 6,
+          "n_obs": 232,
+          "med_u_usd": 1.027,
+          "med_labor_min": 132.1
+        },
+        {
+          "month": 7,
+          "n_obs": 228,
+          "med_u_usd": 1.03,
+          "med_labor_min": 132.5
+        },
+        {
+          "month": 8,
+          "n_obs": 228,
+          "med_u_usd": 1.029,
+          "med_labor_min": 132.4
+        },
+        {
+          "month": 9,
+          "n_obs": 228,
+          "med_u_usd": 1.044,
+          "med_labor_min": 134.4
+        },
+        {
+          "month": 10,
+          "n_obs": 189,
+          "med_u_usd": 1.016,
+          "med_labor_min": 130.8
+        },
+        {
+          "month": 11,
+          "n_obs": 189,
+          "med_u_usd": 1.03,
+          "med_labor_min": 132.6
+        },
+        {
+          "month": 12,
+          "n_obs": 162,
+          "med_u_usd": 1.027,
+          "med_labor_min": 132.2
+        }
+      ]
+    },
+    {
+      "city": "Chattogram",
+      "country_iso3": "BGD",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 3319,
+      "seasonal_cv_pct": 2.1,
+      "peak_to_trough_swing_pct": 7.0,
+      "peak_month": 12,
+      "trough_month": 7,
+      "peak_labor_min": 24.8,
+      "trough_labor_min": 23.1,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 224,
+          "med_u_usd": 0.505,
+          "med_labor_min": 24.2
+        },
+        {
+          "month": 2,
+          "n_obs": 287,
+          "med_u_usd": 0.506,
+          "med_labor_min": 24.3
+        },
+        {
+          "month": 3,
+          "n_obs": 254,
+          "med_u_usd": 0.5,
+          "med_labor_min": 24.0
+        },
+        {
+          "month": 4,
+          "n_obs": 269,
+          "med_u_usd": 0.501,
+          "med_labor_min": 24.1
+        },
+        {
+          "month": 5,
+          "n_obs": 341,
+          "med_u_usd": 0.489,
+          "med_labor_min": 23.5
+        },
+        {
+          "month": 6,
+          "n_obs": 287,
+          "med_u_usd": 0.506,
+          "med_labor_min": 24.3
+        },
+        {
+          "month": 7,
+          "n_obs": 331,
+          "med_u_usd": 0.482,
+          "med_labor_min": 23.1
+        },
+        {
+          "month": 8,
+          "n_obs": 267,
+          "med_u_usd": 0.485,
+          "med_labor_min": 23.3
+        },
+        {
+          "month": 9,
+          "n_obs": 262,
+          "med_u_usd": 0.489,
+          "med_labor_min": 23.5
+        },
+        {
+          "month": 10,
+          "n_obs": 285,
+          "med_u_usd": 0.489,
+          "med_labor_min": 23.5
+        },
+        {
+          "month": 11,
+          "n_obs": 258,
+          "med_u_usd": 0.507,
+          "med_labor_min": 24.3
+        },
+        {
+          "month": 12,
+          "n_obs": 254,
+          "med_u_usd": 0.516,
+          "med_labor_min": 24.8
+        }
+      ]
+    },
+    {
+      "city": "Manila",
+      "country_iso3": "PHL",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 22834,
+      "seasonal_cv_pct": 2.1,
+      "peak_to_trough_swing_pct": 7.6,
+      "peak_month": 12,
+      "trough_month": 5,
+      "peak_labor_min": 31.6,
+      "trough_labor_min": 29.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1791,
+          "med_u_usd": 1.184,
+          "med_labor_min": 30.9
+        },
+        {
+          "month": 2,
+          "n_obs": 1775,
+          "med_u_usd": 1.157,
+          "med_labor_min": 30.2
+        },
+        {
+          "month": 3,
+          "n_obs": 1697,
+          "med_u_usd": 1.16,
+          "med_labor_min": 30.3
+        },
+        {
+          "month": 4,
+          "n_obs": 1692,
+          "med_u_usd": 1.157,
+          "med_labor_min": 30.2
+        },
+        {
+          "month": 5,
+          "n_obs": 2189,
+          "med_u_usd": 1.128,
+          "med_labor_min": 29.4
+        },
+        {
+          "month": 6,
+          "n_obs": 2173,
+          "med_u_usd": 1.135,
+          "med_labor_min": 29.6
+        },
+        {
+          "month": 7,
+          "n_obs": 2063,
+          "med_u_usd": 1.143,
+          "med_labor_min": 29.8
+        },
+        {
+          "month": 8,
+          "n_obs": 2049,
+          "med_u_usd": 1.148,
+          "med_labor_min": 29.9
+        },
+        {
+          "month": 9,
+          "n_obs": 2037,
+          "med_u_usd": 1.164,
+          "med_labor_min": 30.4
+        },
+        {
+          "month": 10,
+          "n_obs": 2050,
+          "med_u_usd": 1.167,
+          "med_labor_min": 30.5
+        },
+        {
+          "month": 11,
+          "n_obs": 1663,
+          "med_u_usd": 1.191,
+          "med_labor_min": 31.1
+        },
+        {
+          "month": 12,
+          "n_obs": 1655,
+          "med_u_usd": 1.213,
+          "med_labor_min": 31.6
+        }
+      ]
+    },
+    {
+      "city": "Surabaya",
+      "country_iso3": "IDN",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 6421,
+      "seasonal_cv_pct": 2.1,
+      "peak_to_trough_swing_pct": 6.2,
+      "peak_month": 12,
+      "trough_month": 3,
+      "peak_labor_min": 23.7,
+      "trough_labor_min": 22.3,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 502,
+          "med_u_usd": 0.975,
+          "med_labor_min": 22.5
+        },
+        {
+          "month": 2,
+          "n_obs": 534,
+          "med_u_usd": 0.967,
+          "med_labor_min": 22.3
+        },
+        {
+          "month": 3,
+          "n_obs": 534,
+          "med_u_usd": 0.966,
+          "med_labor_min": 22.3
+        },
+        {
+          "month": 4,
+          "n_obs": 526,
+          "med_u_usd": 0.974,
+          "med_labor_min": 22.5
+        },
+        {
+          "month": 5,
+          "n_obs": 527,
+          "med_u_usd": 0.973,
+          "med_labor_min": 22.4
+        },
+        {
+          "month": 6,
+          "n_obs": 580,
+          "med_u_usd": 0.97,
+          "med_labor_min": 22.4
+        },
+        {
+          "month": 7,
+          "n_obs": 568,
+          "med_u_usd": 0.966,
+          "med_labor_min": 22.3
+        },
+        {
+          "month": 8,
+          "n_obs": 568,
+          "med_u_usd": 0.976,
+          "med_labor_min": 22.5
+        },
+        {
+          "month": 9,
+          "n_obs": 568,
+          "med_u_usd": 1.009,
+          "med_labor_min": 23.3
+        },
+        {
+          "month": 10,
+          "n_obs": 577,
+          "med_u_usd": 0.992,
+          "med_labor_min": 22.9
+        },
+        {
+          "month": 11,
+          "n_obs": 512,
+          "med_u_usd": 1.014,
+          "med_labor_min": 23.4
+        },
+        {
+          "month": 12,
+          "n_obs": 425,
+          "med_u_usd": 1.026,
+          "med_labor_min": 23.7
+        }
+      ]
+    },
+    {
+      "city": "Quito",
+      "country_iso3": "ECU",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 1798,
+      "seasonal_cv_pct": 2.0,
+      "peak_to_trough_swing_pct": 7.8,
+      "peak_month": 8,
+      "trough_month": 2,
+      "peak_labor_min": 34.0,
+      "trough_labor_min": 31.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 147,
+          "med_u_usd": 1.0,
+          "med_labor_min": 32.1
+        },
+        {
+          "month": 2,
+          "n_obs": 125,
+          "med_u_usd": 0.984,
+          "med_labor_min": 31.6
+        },
+        {
+          "month": 3,
+          "n_obs": 131,
+          "med_u_usd": 1.026,
+          "med_labor_min": 32.9
+        },
+        {
+          "month": 4,
+          "n_obs": 147,
+          "med_u_usd": 1.0,
+          "med_labor_min": 32.1
+        },
+        {
+          "month": 5,
+          "n_obs": 162,
+          "med_u_usd": 1.008,
+          "med_labor_min": 32.3
+        },
+        {
+          "month": 6,
+          "n_obs": 197,
+          "med_u_usd": 1.021,
+          "med_labor_min": 32.8
+        },
+        {
+          "month": 7,
+          "n_obs": 186,
+          "med_u_usd": 1.034,
+          "med_labor_min": 33.2
+        },
+        {
+          "month": 8,
+          "n_obs": 178,
+          "med_u_usd": 1.061,
+          "med_labor_min": 34.0
+        },
+        {
+          "month": 9,
+          "n_obs": 140,
+          "med_u_usd": 1.03,
+          "med_labor_min": 33.0
+        },
+        {
+          "month": 10,
+          "n_obs": 129,
+          "med_u_usd": 1.023,
+          "med_labor_min": 32.8
+        },
+        {
+          "month": 11,
+          "n_obs": 128,
+          "med_u_usd": 1.006,
+          "med_labor_min": 32.3
+        },
+        {
+          "month": 12,
+          "n_obs": 128,
+          "med_u_usd": 1.012,
+          "med_labor_min": 32.5
+        }
+      ]
+    },
+    {
+      "city": "Toronto",
+      "country_iso3": "CAN",
+      "region": "Europe & N. America",
+      "months_covered": 12,
+      "total_obs": 1065,
+      "seasonal_cv_pct": 2.0,
+      "peak_to_trough_swing_pct": 7.8,
+      "peak_month": 4,
+      "trough_month": 2,
+      "peak_labor_min": 4.6,
+      "trough_labor_min": 4.3,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 90,
+          "med_u_usd": 1.878,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 2,
+          "n_obs": 89,
+          "med_u_usd": 1.76,
+          "med_labor_min": 4.3
+        },
+        {
+          "month": 3,
+          "n_obs": 90,
+          "med_u_usd": 1.838,
+          "med_labor_min": 4.5
+        },
+        {
+          "month": 4,
+          "n_obs": 90,
+          "med_u_usd": 1.897,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 5,
+          "n_obs": 90,
+          "med_u_usd": 1.85,
+          "med_labor_min": 4.5
+        },
+        {
+          "month": 6,
+          "n_obs": 106,
+          "med_u_usd": 1.845,
+          "med_labor_min": 4.5
+        },
+        {
+          "month": 7,
+          "n_obs": 90,
+          "med_u_usd": 1.877,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 8,
+          "n_obs": 90,
+          "med_u_usd": 1.855,
+          "med_labor_min": 4.5
+        },
+        {
+          "month": 9,
+          "n_obs": 90,
+          "med_u_usd": 1.871,
+          "med_labor_min": 4.6
+        },
+        {
+          "month": 10,
+          "n_obs": 80,
+          "med_u_usd": 1.834,
+          "med_labor_min": 4.5
+        },
+        {
+          "month": 11,
+          "n_obs": 80,
+          "med_u_usd": 1.811,
+          "med_labor_min": 4.4
+        },
+        {
+          "month": 12,
+          "n_obs": 80,
+          "med_u_usd": 1.887,
+          "med_labor_min": 4.6
+        }
+      ]
+    },
+    {
+      "city": "Bangkok",
+      "country_iso3": "THA",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 214,
+      "seasonal_cv_pct": 1.9,
+      "peak_to_trough_swing_pct": 5.8,
+      "peak_month": 4,
+      "trough_month": 2,
+      "peak_labor_min": 7.0,
+      "trough_labor_min": 6.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 24,
+          "med_u_usd": 0.453,
+          "med_labor_min": 7.0
+        },
+        {
+          "month": 2,
+          "n_obs": 23,
+          "med_u_usd": 0.431,
+          "med_labor_min": 6.6
+        },
+        {
+          "month": 3,
+          "n_obs": 23,
+          "med_u_usd": 0.431,
+          "med_labor_min": 6.6
+        },
+        {
+          "month": 4,
+          "n_obs": 16,
+          "med_u_usd": 0.457,
+          "med_labor_min": 7.0
+        },
+        {
+          "month": 5,
+          "n_obs": 16,
+          "med_u_usd": 0.454,
+          "med_labor_min": 7.0
+        },
+        {
+          "month": 6,
+          "n_obs": 16,
+          "med_u_usd": 0.441,
+          "med_labor_min": 6.8
+        },
+        {
+          "month": 7,
+          "n_obs": 16,
+          "med_u_usd": 0.439,
+          "med_labor_min": 6.8
+        },
+        {
+          "month": 8,
+          "n_obs": 16,
+          "med_u_usd": 0.451,
+          "med_labor_min": 6.9
+        },
+        {
+          "month": 9,
+          "n_obs": 16,
+          "med_u_usd": 0.446,
+          "med_labor_min": 6.9
+        },
+        {
+          "month": 10,
+          "n_obs": 16,
+          "med_u_usd": 0.443,
+          "med_labor_min": 6.8
+        },
+        {
+          "month": 11,
+          "n_obs": 16,
+          "med_u_usd": 0.438,
+          "med_labor_min": 6.7
+        },
+        {
+          "month": 12,
+          "n_obs": 16,
+          "med_u_usd": 0.448,
+          "med_labor_min": 6.9
+        }
+      ]
+    },
+    {
+      "city": "Niamey",
+      "country_iso3": "NER",
+      "region": "Sub-Saharan Africa",
+      "months_covered": 12,
+      "total_obs": 4129,
+      "seasonal_cv_pct": 1.8,
+      "peak_to_trough_swing_pct": 6.6,
+      "peak_month": 9,
+      "trough_month": 10,
+      "peak_labor_min": 428.7,
+      "trough_labor_min": 402.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 351,
+          "med_u_usd": 0.989,
+          "med_labor_min": 411.5
+        },
+        {
+          "month": 2,
+          "n_obs": 358,
+          "med_u_usd": 0.997,
+          "med_labor_min": 414.9
+        },
+        {
+          "month": 3,
+          "n_obs": 342,
+          "med_u_usd": 0.979,
+          "med_labor_min": 407.1
+        },
+        {
+          "month": 4,
+          "n_obs": 338,
+          "med_u_usd": 0.999,
+          "med_labor_min": 415.8
+        },
+        {
+          "month": 5,
+          "n_obs": 362,
+          "med_u_usd": 0.991,
+          "med_labor_min": 412.1
+        },
+        {
+          "month": 6,
+          "n_obs": 363,
+          "med_u_usd": 0.971,
+          "med_labor_min": 404.0
+        },
+        {
+          "month": 7,
+          "n_obs": 364,
+          "med_u_usd": 1.002,
+          "med_labor_min": 417.1
+        },
+        {
+          "month": 8,
+          "n_obs": 360,
+          "med_u_usd": 1.0,
+          "med_labor_min": 416.0
+        },
+        {
+          "month": 9,
+          "n_obs": 357,
+          "med_u_usd": 1.03,
+          "med_labor_min": 428.7
+        },
+        {
+          "month": 10,
+          "n_obs": 360,
+          "med_u_usd": 0.967,
+          "med_labor_min": 402.2
+        },
+        {
+          "month": 11,
+          "n_obs": 296,
+          "med_u_usd": 0.975,
+          "med_labor_min": 405.8
+        },
+        {
+          "month": 12,
+          "n_obs": 278,
+          "med_u_usd": 1.012,
+          "med_labor_min": 421.1
+        }
+      ]
+    },
+    {
+      "city": "Tegucigalpa",
+      "country_iso3": "HND",
+      "region": "Latin America",
+      "months_covered": 12,
+      "total_obs": 906,
+      "seasonal_cv_pct": 1.8,
+      "peak_to_trough_swing_pct": 5.5,
+      "peak_month": 11,
+      "trough_month": 2,
+      "peak_labor_min": 76.3,
+      "trough_labor_min": 72.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 80,
+          "med_u_usd": 0.822,
+          "med_labor_min": 73.2
+        },
+        {
+          "month": 2,
+          "n_obs": 79,
+          "med_u_usd": 0.814,
+          "med_labor_min": 72.4
+        },
+        {
+          "month": 3,
+          "n_obs": 78,
+          "med_u_usd": 0.82,
+          "med_labor_min": 72.9
+        },
+        {
+          "month": 4,
+          "n_obs": 75,
+          "med_u_usd": 0.83,
+          "med_labor_min": 73.8
+        },
+        {
+          "month": 5,
+          "n_obs": 75,
+          "med_u_usd": 0.844,
+          "med_labor_min": 75.1
+        },
+        {
+          "month": 6,
+          "n_obs": 78,
+          "med_u_usd": 0.848,
+          "med_labor_min": 75.5
+        },
+        {
+          "month": 7,
+          "n_obs": 72,
+          "med_u_usd": 0.849,
+          "med_labor_min": 75.5
+        },
+        {
+          "month": 8,
+          "n_obs": 76,
+          "med_u_usd": 0.833,
+          "med_labor_min": 74.1
+        },
+        {
+          "month": 9,
+          "n_obs": 75,
+          "med_u_usd": 0.849,
+          "med_labor_min": 75.6
+        },
+        {
+          "month": 10,
+          "n_obs": 74,
+          "med_u_usd": 0.853,
+          "med_labor_min": 75.9
+        },
+        {
+          "month": 11,
+          "n_obs": 72,
+          "med_u_usd": 0.858,
+          "med_labor_min": 76.3
+        },
+        {
+          "month": 12,
+          "n_obs": 72,
+          "med_u_usd": 0.852,
+          "med_labor_min": 75.8
+        }
+      ]
+    },
+    {
+      "city": "Hyderabad",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 2212,
+      "seasonal_cv_pct": 1.6,
+      "peak_to_trough_swing_pct": 4.9,
+      "peak_month": 2,
+      "trough_month": 7,
+      "peak_labor_min": 19.6,
+      "trough_labor_min": 18.7,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 207,
+          "med_u_usd": 0.623,
+          "med_labor_min": 19.2
+        },
+        {
+          "month": 2,
+          "n_obs": 182,
+          "med_u_usd": 0.637,
+          "med_labor_min": 19.6
+        },
+        {
+          "month": 3,
+          "n_obs": 182,
+          "med_u_usd": 0.616,
+          "med_labor_min": 19.0
+        },
+        {
+          "month": 4,
+          "n_obs": 178,
+          "med_u_usd": 0.613,
+          "med_labor_min": 18.9
+        },
+        {
+          "month": 5,
+          "n_obs": 177,
+          "med_u_usd": 0.613,
+          "med_labor_min": 18.9
+        },
+        {
+          "month": 6,
+          "n_obs": 260,
+          "med_u_usd": 0.608,
+          "med_labor_min": 18.7
+        },
+        {
+          "month": 7,
+          "n_obs": 207,
+          "med_u_usd": 0.607,
+          "med_labor_min": 18.7
+        },
+        {
+          "month": 8,
+          "n_obs": 155,
+          "med_u_usd": 0.617,
+          "med_labor_min": 19.0
+        },
+        {
+          "month": 9,
+          "n_obs": 153,
+          "med_u_usd": 0.629,
+          "med_labor_min": 19.4
+        },
+        {
+          "month": 10,
+          "n_obs": 179,
+          "med_u_usd": 0.619,
+          "med_labor_min": 19.1
+        },
+        {
+          "month": 11,
+          "n_obs": 179,
+          "med_u_usd": 0.623,
+          "med_labor_min": 19.2
+        },
+        {
+          "month": 12,
+          "n_obs": 153,
+          "med_u_usd": 0.635,
+          "med_labor_min": 19.6
+        }
+      ]
+    },
+    {
+      "city": "Cebu City",
+      "country_iso3": "PHL",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 5101,
+      "seasonal_cv_pct": 1.3,
+      "peak_to_trough_swing_pct": 4.7,
+      "peak_month": 12,
+      "trough_month": 3,
+      "peak_labor_min": 30.1,
+      "trough_labor_min": 28.8,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 419,
+          "med_u_usd": 1.113,
+          "med_labor_min": 29.0
+        },
+        {
+          "month": 2,
+          "n_obs": 398,
+          "med_u_usd": 1.122,
+          "med_labor_min": 29.3
+        },
+        {
+          "month": 3,
+          "n_obs": 371,
+          "med_u_usd": 1.103,
+          "med_labor_min": 28.8
+        },
+        {
+          "month": 4,
+          "n_obs": 374,
+          "med_u_usd": 1.106,
+          "med_labor_min": 28.9
+        },
+        {
+          "month": 5,
+          "n_obs": 495,
+          "med_u_usd": 1.12,
+          "med_labor_min": 29.2
+        },
+        {
+          "month": 6,
+          "n_obs": 462,
+          "med_u_usd": 1.118,
+          "med_labor_min": 29.2
+        },
+        {
+          "month": 7,
+          "n_obs": 457,
+          "med_u_usd": 1.117,
+          "med_labor_min": 29.1
+        },
+        {
+          "month": 8,
+          "n_obs": 457,
+          "med_u_usd": 1.13,
+          "med_labor_min": 29.5
+        },
+        {
+          "month": 9,
+          "n_obs": 461,
+          "med_u_usd": 1.14,
+          "med_labor_min": 29.7
+        },
+        {
+          "month": 10,
+          "n_obs": 461,
+          "med_u_usd": 1.126,
+          "med_labor_min": 29.4
+        },
+        {
+          "month": 11,
+          "n_obs": 373,
+          "med_u_usd": 1.126,
+          "med_labor_min": 29.4
+        },
+        {
+          "month": 12,
+          "n_obs": 373,
+          "med_u_usd": 1.156,
+          "med_labor_min": 30.1
+        }
+      ]
+    },
+    {
+      "city": "Dhaka",
+      "country_iso3": "BGD",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 7014,
+      "seasonal_cv_pct": 1.3,
+      "peak_to_trough_swing_pct": 4.5,
+      "peak_month": 12,
+      "trough_month": 7,
+      "peak_labor_min": 24.5,
+      "trough_labor_min": 23.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 385,
+          "med_u_usd": 0.497,
+          "med_labor_min": 23.9
+        },
+        {
+          "month": 2,
+          "n_obs": 527,
+          "med_u_usd": 0.502,
+          "med_labor_min": 24.1
+        },
+        {
+          "month": 3,
+          "n_obs": 538,
+          "med_u_usd": 0.501,
+          "med_labor_min": 24.1
+        },
+        {
+          "month": 4,
+          "n_obs": 543,
+          "med_u_usd": 0.489,
+          "med_labor_min": 23.5
+        },
+        {
+          "month": 5,
+          "n_obs": 741,
+          "med_u_usd": 0.496,
+          "med_labor_min": 23.8
+        },
+        {
+          "month": 6,
+          "n_obs": 679,
+          "med_u_usd": 0.496,
+          "med_labor_min": 23.8
+        },
+        {
+          "month": 7,
+          "n_obs": 790,
+          "med_u_usd": 0.488,
+          "med_labor_min": 23.4
+        },
+        {
+          "month": 8,
+          "n_obs": 596,
+          "med_u_usd": 0.5,
+          "med_labor_min": 24.0
+        },
+        {
+          "month": 9,
+          "n_obs": 610,
+          "med_u_usd": 0.499,
+          "med_labor_min": 24.0
+        },
+        {
+          "month": 10,
+          "n_obs": 599,
+          "med_u_usd": 0.496,
+          "med_labor_min": 23.8
+        },
+        {
+          "month": 11,
+          "n_obs": 499,
+          "med_u_usd": 0.507,
+          "med_labor_min": 24.4
+        },
+        {
+          "month": 12,
+          "n_obs": 507,
+          "med_u_usd": 0.51,
+          "med_labor_min": 24.5
+        }
+      ]
+    },
+    {
+      "city": "Jakarta",
+      "country_iso3": "IDN",
+      "region": "East & SE Asia",
+      "months_covered": 12,
+      "total_obs": 18834,
+      "seasonal_cv_pct": 1.1,
+      "peak_to_trough_swing_pct": 3.5,
+      "peak_month": 12,
+      "trough_month": 7,
+      "peak_labor_min": 24.2,
+      "trough_labor_min": 23.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1511,
+          "med_u_usd": 1.026,
+          "med_labor_min": 23.7
+        },
+        {
+          "month": 2,
+          "n_obs": 1579,
+          "med_u_usd": 1.024,
+          "med_labor_min": 23.6
+        },
+        {
+          "month": 3,
+          "n_obs": 1570,
+          "med_u_usd": 1.023,
+          "med_labor_min": 23.6
+        },
+        {
+          "month": 4,
+          "n_obs": 1559,
+          "med_u_usd": 1.026,
+          "med_labor_min": 23.7
+        },
+        {
+          "month": 5,
+          "n_obs": 1559,
+          "med_u_usd": 1.019,
+          "med_labor_min": 23.5
+        },
+        {
+          "month": 6,
+          "n_obs": 1661,
+          "med_u_usd": 1.014,
+          "med_labor_min": 23.4
+        },
+        {
+          "month": 7,
+          "n_obs": 1662,
+          "med_u_usd": 1.014,
+          "med_labor_min": 23.4
+        },
+        {
+          "month": 8,
+          "n_obs": 1664,
+          "med_u_usd": 1.019,
+          "med_labor_min": 23.5
+        },
+        {
+          "month": 9,
+          "n_obs": 1660,
+          "med_u_usd": 1.035,
+          "med_labor_min": 23.9
+        },
+        {
+          "month": 10,
+          "n_obs": 1693,
+          "med_u_usd": 1.027,
+          "med_labor_min": 23.7
+        },
+        {
+          "month": 11,
+          "n_obs": 1472,
+          "med_u_usd": 1.042,
+          "med_labor_min": 24.0
+        },
+        {
+          "month": 12,
+          "n_obs": 1244,
+          "med_u_usd": 1.05,
+          "med_labor_min": 24.2
+        }
+      ]
+    },
+    {
+      "city": "Kolkata",
+      "country_iso3": "IND",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 1413,
+      "seasonal_cv_pct": 1.1,
+      "peak_to_trough_swing_pct": 3.8,
+      "peak_month": 3,
+      "trough_month": 8,
+      "peak_labor_min": 18.1,
+      "trough_labor_min": 17.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 137,
+          "med_u_usd": 0.583,
+          "med_labor_min": 17.9
+        },
+        {
+          "month": 2,
+          "n_obs": 111,
+          "med_u_usd": 0.582,
+          "med_labor_min": 17.9
+        },
+        {
+          "month": 3,
+          "n_obs": 110,
+          "med_u_usd": 0.588,
+          "med_labor_min": 18.1
+        },
+        {
+          "month": 4,
+          "n_obs": 108,
+          "med_u_usd": 0.584,
+          "med_labor_min": 18.0
+        },
+        {
+          "month": 5,
+          "n_obs": 106,
+          "med_u_usd": 0.587,
+          "med_labor_min": 18.1
+        },
+        {
+          "month": 6,
+          "n_obs": 187,
+          "med_u_usd": 0.586,
+          "med_labor_min": 18.0
+        },
+        {
+          "month": 7,
+          "n_obs": 134,
+          "med_u_usd": 0.576,
+          "med_labor_min": 17.7
+        },
+        {
+          "month": 8,
+          "n_obs": 110,
+          "med_u_usd": 0.567,
+          "med_labor_min": 17.4
+        },
+        {
+          "month": 9,
+          "n_obs": 109,
+          "med_u_usd": 0.573,
+          "med_labor_min": 17.6
+        },
+        {
+          "month": 10,
+          "n_obs": 109,
+          "med_u_usd": 0.578,
+          "med_labor_min": 17.8
+        },
+        {
+          "month": 11,
+          "n_obs": 109,
+          "med_u_usd": 0.588,
+          "med_labor_min": 18.1
+        },
+        {
+          "month": 12,
+          "n_obs": 83,
+          "med_u_usd": 0.584,
+          "med_labor_min": 18.0
+        }
+      ]
+    },
+    {
+      "city": "Baghdad",
+      "country_iso3": "IRQ",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 13654,
+      "seasonal_cv_pct": 1.0,
+      "peak_to_trough_swing_pct": 3.5,
+      "peak_month": 4,
+      "trough_month": 3,
+      "peak_labor_min": 42.7,
+      "trough_labor_min": 41.2,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 1189,
+          "med_u_usd": 1.074,
+          "med_labor_min": 41.8
+        },
+        {
+          "month": 2,
+          "n_obs": 1187,
+          "med_u_usd": 1.077,
+          "med_labor_min": 41.9
+        },
+        {
+          "month": 3,
+          "n_obs": 1194,
+          "med_u_usd": 1.059,
+          "med_labor_min": 41.2
+        },
+        {
+          "month": 4,
+          "n_obs": 1205,
+          "med_u_usd": 1.097,
+          "med_labor_min": 42.7
+        },
+        {
+          "month": 5,
+          "n_obs": 1199,
+          "med_u_usd": 1.09,
+          "med_labor_min": 42.4
+        },
+        {
+          "month": 6,
+          "n_obs": 1190,
+          "med_u_usd": 1.092,
+          "med_labor_min": 42.5
+        },
+        {
+          "month": 7,
+          "n_obs": 1192,
+          "med_u_usd": 1.09,
+          "med_labor_min": 42.4
+        },
+        {
+          "month": 8,
+          "n_obs": 1119,
+          "med_u_usd": 1.091,
+          "med_labor_min": 42.5
+        },
+        {
+          "month": 9,
+          "n_obs": 1145,
+          "med_u_usd": 1.091,
+          "med_labor_min": 42.5
+        },
+        {
+          "month": 10,
+          "n_obs": 1134,
+          "med_u_usd": 1.079,
+          "med_labor_min": 42.0
+        },
+        {
+          "month": 11,
+          "n_obs": 1031,
+          "med_u_usd": 1.077,
+          "med_labor_min": 41.9
+        },
+        {
+          "month": 12,
+          "n_obs": 869,
+          "med_u_usd": 1.077,
+          "med_labor_min": 41.9
+        }
+      ]
+    },
+    {
+      "city": "Kathmandu",
+      "country_iso3": "NPL",
+      "region": "South Asia",
+      "months_covered": 12,
+      "total_obs": 9848,
+      "seasonal_cv_pct": 1.0,
+      "peak_to_trough_swing_pct": 3.5,
+      "peak_month": 8,
+      "trough_month": 6,
+      "peak_labor_min": 73.1,
+      "trough_labor_min": 70.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 757,
+          "med_u_usd": 0.656,
+          "med_labor_min": 71.4
+        },
+        {
+          "month": 2,
+          "n_obs": 827,
+          "med_u_usd": 0.665,
+          "med_labor_min": 72.3
+        },
+        {
+          "month": 3,
+          "n_obs": 741,
+          "med_u_usd": 0.664,
+          "med_labor_min": 72.2
+        },
+        {
+          "month": 4,
+          "n_obs": 913,
+          "med_u_usd": 0.664,
+          "med_labor_min": 72.2
+        },
+        {
+          "month": 5,
+          "n_obs": 901,
+          "med_u_usd": 0.669,
+          "med_labor_min": 72.8
+        },
+        {
+          "month": 6,
+          "n_obs": 911,
+          "med_u_usd": 0.649,
+          "med_labor_min": 70.6
+        },
+        {
+          "month": 7,
+          "n_obs": 817,
+          "med_u_usd": 0.657,
+          "med_labor_min": 71.5
+        },
+        {
+          "month": 8,
+          "n_obs": 836,
+          "med_u_usd": 0.672,
+          "med_labor_min": 73.1
+        },
+        {
+          "month": 9,
+          "n_obs": 857,
+          "med_u_usd": 0.662,
+          "med_labor_min": 72.0
+        },
+        {
+          "month": 10,
+          "n_obs": 891,
+          "med_u_usd": 0.67,
+          "med_labor_min": 72.9
+        },
+        {
+          "month": 11,
+          "n_obs": 736,
+          "med_u_usd": 0.659,
+          "med_labor_min": 71.7
+        },
+        {
+          "month": 12,
+          "n_obs": 661,
+          "med_u_usd": 0.665,
+          "med_labor_min": 72.3
+        }
+      ]
+    },
+    {
+      "city": "USA National Benchmark (BLS_RETAIL)",
+      "country_iso3": "USA",
+      "region": "High-Income Benchmark",
+      "months_covered": 12,
+      "total_obs": 687,
+      "seasonal_cv_pct": 1.0,
+      "peak_to_trough_swing_pct": 3.1,
+      "peak_month": 4,
+      "trough_month": 8,
+      "peak_labor_min": 2.7,
+      "trough_labor_min": 2.6,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 58,
+          "med_u_usd": 1.258,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 2,
+          "n_obs": 58,
+          "med_u_usd": 1.24,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 3,
+          "n_obs": 59,
+          "med_u_usd": 1.262,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 4,
+          "n_obs": 58,
+          "med_u_usd": 1.268,
+          "med_labor_min": 2.7
+        },
+        {
+          "month": 5,
+          "n_obs": 57,
+          "med_u_usd": 1.26,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 6,
+          "n_obs": 59,
+          "med_u_usd": 1.248,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 7,
+          "n_obs": 59,
+          "med_u_usd": 1.251,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 8,
+          "n_obs": 59,
+          "med_u_usd": 1.231,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 9,
+          "n_obs": 59,
+          "med_u_usd": 1.254,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 10,
+          "n_obs": 55,
+          "med_u_usd": 1.229,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 11,
+          "n_obs": 53,
+          "med_u_usd": 1.239,
+          "med_labor_min": 2.6
+        },
+        {
+          "month": 12,
+          "n_obs": 53,
+          "med_u_usd": 1.238,
+          "med_labor_min": 2.6
+        }
+      ]
+    },
+    {
+      "city": "Amman",
+      "country_iso3": "JOR",
+      "region": "MENA",
+      "months_covered": 12,
+      "total_obs": 26989,
+      "seasonal_cv_pct": 0.9,
+      "peak_to_trough_swing_pct": 2.8,
+      "peak_month": 12,
+      "trough_month": 6,
+      "peak_labor_min": 73.4,
+      "trough_labor_min": 71.4,
+      "monthly_profile": [
+        {
+          "month": 1,
+          "n_obs": 2356,
+          "med_u_usd": 1.531,
+          "med_labor_min": 72.7
+        },
+        {
+          "month": 2,
+          "n_obs": 2379,
+          "med_u_usd": 1.516,
+          "med_labor_min": 72.0
+        },
+        {
+          "month": 3,
+          "n_obs": 2376,
+          "med_u_usd": 1.524,
+          "med_labor_min": 72.3
+        },
+        {
+          "month": 4,
+          "n_obs": 2381,
+          "med_u_usd": 1.518,
+          "med_labor_min": 72.0
+        },
+        {
+          "month": 5,
+          "n_obs": 2383,
+          "med_u_usd": 1.516,
+          "med_labor_min": 72.0
+        },
+        {
+          "month": 6,
+          "n_obs": 2388,
+          "med_u_usd": 1.505,
+          "med_labor_min": 71.4
+        },
+        {
+          "month": 7,
+          "n_obs": 2393,
+          "med_u_usd": 1.518,
+          "med_labor_min": 72.0
+        },
+        {
+          "month": 8,
+          "n_obs": 2265,
+          "med_u_usd": 1.531,
+          "med_labor_min": 72.7
+        },
+        {
+          "month": 9,
+          "n_obs": 2262,
+          "med_u_usd": 1.531,
+          "med_labor_min": 72.7
+        },
+        {
+          "month": 10,
+          "n_obs": 1936,
+          "med_u_usd": 1.545,
+          "med_labor_min": 73.3
+        },
+        {
+          "month": 11,
+          "n_obs": 1936,
+          "med_u_usd": 1.543,
+          "med_labor_min": 73.3
+        },
+        {
+          "month": 12,
+          "n_obs": 1934,
+          "med_u_usd": 1.547,
+          "med_labor_min": 73.4
+        }
+      ]
+    }
+  ]
+}

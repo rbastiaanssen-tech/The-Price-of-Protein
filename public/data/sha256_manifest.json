@@ -1,4 +1,12 @@
 {
+  "public/data/commodity_substitution_frontier.json": {
+    "sha256": "63fea9bbbd901c2d665bd046c3cf64476a5c5b7ccde037225e994e3fdb46fd89",
+    "bytes": 254215
+  },
+  "public/data/empirical_perishability_spread.json": {
+    "sha256": "30bf5be71203a0e4a5749a82f9f8935e259ec10b504a3547458b4264699e805b",
+    "bytes": 33971
+  },
   "public/data/gvk_density_and_frontiers.json": {
     "sha256": "281aba73812417555d10577dbfa6db5b4ee4c8d9be960cfc741f484849167a92",
     "bytes": 940971
@@ -12,12 +20,16 @@
     "bytes": 11294
   },
   "public/data/metro_case_studies.json": {
-    "sha256": "9f4b8755a39ea8fadaa6218c420c1db872c911cfbe3e97588d349f21251efa31",
-    "bytes": 444135
+    "sha256": "003a3738fe87f5c93bcdff8f63460bbe018a8bd35c8e9b52513dfbcfe28e3ba9",
+    "bytes": 337885
+  },
+  "public/data/seasonality_volatility_contrast.json": {
+    "sha256": "3bef970a2c977096bc0e3b022b8c1852805fb0faade69ce699bd5980d1fc5164",
+    "bytes": 169612
   },
   "public/data/sha256_manifest.json": {
-    "sha256": "9f730512234edfa581dadb66be5bbe921b0d73473306bff2f8eb0256969bb5eb",
-    "bytes": 1797
+    "sha256": "723a9e2167f177b668a8a498ee0405fb31e8bc6f9723551cc284ea270e59d853",
+    "bytes": 1942
   },
   "public/data/spatiotemporal_markets.json": {
     "sha256": "76ab5b5b71a3fb71bdf59a638b83171d8dd1ecd807b054b4a17bbd4c5e448190",
