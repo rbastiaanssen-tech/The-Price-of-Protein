@@ -21,3 +21,9 @@ docs/*.toc
 *.duckdb.wal
 *.b64*
 gpih_headers_audit.txt
+
+# Local DuckDB staging databases & base64 scratch files
+*.duckdb
+*.duckdb.wal
+*.b64*
+gpih_headers_audit.txt
