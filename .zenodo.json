@@ -1,0 +1,20 @@
+{
+  "title": "The Price of Protein: Global Bioavailable Protein Affordability, Spatial Market Tiers, and Empirical Substitution Frontiers (v1.3)",
+  "upload_type": "dataset",
+  "description": "Harmonized global empirical dataset (3,992,448 observed market price records across 137 countries and 95 metropolitan hubs) measuring DIAAS-adjusted bioavailable protein cost (u_USD per 50 g digestible protein) and P20 labor-minute affordability, including metropolitan commodity substitution frontiers, intra-annual seasonality volatility contrasts, and fresh-vs-shelf-stable perishability spreads.",
+  "creators": [
+    {
+      "name": "Bastiaanssen, Rolf",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "protein affordability",
+    "DIAAS",
+    "food security",
+    "spatial food prices",
+    "nutrition economics",
+    "supply chains"
+  ]
+}
