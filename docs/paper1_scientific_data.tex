@@ -18,7 +18,7 @@ Rolf Bastiaanssen$^{1,*}$ \\
 \small $^{*}$Corresponding author: \texttt{rolf@priceofprotein.org}
 }
 
-\date{Release Version \texttt{v1.0-2026} --- November 2026}
+\date{Release Version \texttt{v1.3 (commit 0b2a217)} --- November 2026}
 
 \begin{document}
 \maketitle
@@ -44,7 +44,7 @@ Empirical food-price data currently sits across a sharp institutional divide. On
 The dataset described here narrows this public--commercial frontier by fusing $4.45\text{ million}$ public, humanitarian, historical, and ethnographic price observations with spatial transport modeling and nine-indispensable-amino-acid (9-AA) linear programming. It delivers subnational hexagonal H3 Resolution-4 coverage ($70{,}440$ inhabited cells), high-resolution metropolitan corridors ($90$ metropolitan areas ($959$ geolocated sales outlets)), and a $326$-year historical panel ($1700\text{--}2026$) as an openly reproducible public resource.
 
 \subsection{Summary of Released Artifacts}
-The release (\texttt{v1.0-2026}) comprises six self-contained, schema-validated JSON artifacts accompanied by an executable SHA-256 verification and biophysical invariant audit script (\texttt{REPLICATION\_MANIFEST.py}):
+The release (\texttt{v1.3 (commit 0b2a217)}) comprises fifteen self-contained, schema-validated JSON artifacts accompanied by an executable SHA-256 verification and biophysical invariant audit script (\texttt{REPLICATION\_MANIFEST.py}):
 \begin{itemize}
     \item \texttt{h3\_weather\_grid.json}: Global 2026 cross-section across $70{,}440$ H3 Resolution-4 cells ($8.20\text{ billion}$ population), reporting DIAAS-adjusted retail unit costs, unconstrained and plant-only 9-AA linear program minima ($\text{LP}$ and $\text{LP}_v$), median and $\text{P20}$ daily wage shares, labor-minute burdens, lean-season multipliers, and geodesic distances to observed market hubs.
     \item \texttt{metro\_case\_studies.json}: Subnational urban--rural price and transport-friction gradients across $90$ global metropolitan corridors ($959$ real sales outlets) at H3 Resolution-6.
@@ -110,11 +110,11 @@ To evaluate biophysical trade-offs across food engineering regimes (\texttt{gvk\
 
 \section{Data Records}
 
-All versioned data artifacts (\texttt{v1.0-2026}) are stored in UTF-8 encoded JSON format under \texttt{public/data/}, accompanied by LaTeX and Markdown Supplementary Information (\texttt{docs/SI\_1.tex}, \texttt{docs/SI\_1.md}) and an automated verification script (\texttt{REPLICATION\_MANIFEST.py}). Table~\ref{tab:inventory} summarizes the file inventory, spatial/temporal dimensions, and primary contents.
+All versioned data artifacts (\texttt{v1.3 (commit 0b2a217)}) are stored in UTF-8 encoded JSON format under \texttt{public/data/}, accompanied by LaTeX and Markdown Supplementary Information (\texttt{docs/SI\_1.tex}, \texttt{docs/SI\_1.md}) and an automated verification script (\texttt{REPLICATION\_MANIFEST.py}). Table~\ref{tab:inventory} summarizes the file inventory, spatial/temporal dimensions, and primary contents.
 
 \begin{table}[htbp]
 \centering
-\caption{\textbf{Inventory of released JSON datasets (\texttt{v1.0-2026}).}}
+\caption{\textbf{Inventory of released JSON datasets (\texttt{v1.3 (commit 0b2a217)}).}}
 \label{tab:inventory}
 \small
 \begin{tabular}{lcll}
@@ -210,7 +210,7 @@ Researchers reusing these data artifacts should observe three methodological con
 \end{itemize}
 
 \subsection{Reproducibility and Verification Script}
-All code and processed JSON artifacts are archived under version tag \texttt{v1.0-2026}. Prior to downstream analysis, users can verify bit-for-bit file integrity and biophysical invariants by running:
+All code and processed JSON artifacts are archived under version tag \texttt{v1.3 (commit 0b2a217)}. Prior to downstream analysis, users can verify bit-for-bit file integrity and biophysical invariants by running:
 \begin{verbatim}
 python REPLICATION_MANIFEST.py
 \end{verbatim}
