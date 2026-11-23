@@ -158,6 +158,9 @@ pa_grp["u_usd"] = pa_grp["u_min"]
 pa_grp["u_median_usd"] = pa_grp["u_med"]
 pa_grp["lp_v_ratio"] = 1.18
 pa_grp["labor_min_p20"] = pa_grp["labor_min_med"] * 1.78
+for _d in (df_ws, df_sm, pa_grp):
+    if "country_iso3" not in _d.columns:
+        _d["country_iso3"] = _d["iso3"] if "iso3" in _d.columns else ""
 df_retail = pa_grp[df_ws.columns]
 
 all_locs = pd.concat([df_ws, df_sm, df_retail], ignore_index=True)
@@ -167,9 +170,11 @@ from p76_build_110_real_metros import METROS, haversine_km
 lats_all, lons_all = all_locs["lat"].to_numpy(), all_locs["lon"].to_numpy()
 metro_records, flat_outlets = [], []
 
+iso3_all = all_locs["country_iso3"].astype(str).str.upper().str.strip().to_numpy()
 for m_lat, m_lon, city, iso3, region in METROS:
     dists = haversine_km(m_lat, m_lon, lats_all, lons_all)
-    mask = dists <= 100.0
+    c_target = str(iso3).upper().strip()
+    mask = (dists <= 100.0) & ((iso3_all == c_target) | (iso3_all == "") | (iso3_all == "NAN"))
     sub = all_locs[mask].copy()
     sub["dist_core_km"] = dists[mask]
     if len(sub) == 0:

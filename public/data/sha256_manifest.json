@@ -12,8 +12,12 @@
     "bytes": 11294
   },
   "public/data/metro_case_studies.json": {
-    "sha256": "d9be7a52991caba0bac07f37b3262e1ddff8e63a755076f6a7c9cbc79aaf9c49",
-    "bytes": 499334
+    "sha256": "9f4b8755a39ea8fadaa6218c420c1db872c911cfbe3e97588d349f21251efa31",
+    "bytes": 444135
+  },
+  "public/data/sha256_manifest.json": {
+    "sha256": "9f730512234edfa581dadb66be5bbe921b0d73473306bff2f8eb0256969bb5eb",
+    "bytes": 1797
   },
   "public/data/spatiotemporal_markets.json": {
     "sha256": "76ab5b5b71a3fb71bdf59a638b83171d8dd1ecd807b054b4a17bbd4c5e448190",
@@ -24,24 +28,24 @@
     "bytes": 14740
   },
   "public/papers/SI_1.pdf": {
-    "sha256": "e70c766e0ad9ac3056006ac2a18bdb71278a421f2723d8931b90326a2c849c8d",
-    "bytes": 58956
+    "sha256": "8ab1e2faabe353d4b3ae07c28c0f32865685f7145433fef7b880d2f03b04b673",
+    "bytes": 58954
   },
   "public/papers/SI_1.tex": {
     "sha256": "94d1c8c372fc515cd19385b1cebba3294063a1e77b4f8964d65779438f2ace82",
     "bytes": 6046
   },
   "public/papers/paper1_scientific_data.pdf": {
-    "sha256": "8b08774a4417f81833fbee92f1a754e3dbe3aa136c2db093562175190093da6d",
-    "bytes": 676283
+    "sha256": "808731e07304c4b15e849658184a1639ab7c0472a8bb86e125754de6beb42902",
+    "bytes": 614349
   },
   "public/papers/paper1_scientific_data.tex": {
     "sha256": "3750ea49b39ad245afc3fa4682f91c9cca10adf53a42eba9767482b71342b14b",
     "bytes": 26910
   },
   "public/papers/paper2_nature_food.pdf": {
-    "sha256": "8e24c6a2a1444895ed961e02f2951f574829ba8f83629c2c01f6ad3a59ab18bb",
-    "bytes": 2516620
+    "sha256": "07c0ef84a9e5906615b71e91a306c4f335a4341b94a621b6ed680940bde1b771",
+    "bytes": 2454692
   },
   "public/papers/paper2_nature_food.tex": {
     "sha256": "6c125b1b827ea50a3a9ff713c18f45855ee3e33ae1cd1a65d5f4d2484199f056",
