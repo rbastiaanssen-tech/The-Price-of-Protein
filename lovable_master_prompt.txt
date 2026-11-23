@@ -1,0 +1,40 @@
+Build an interactive scientific data visualization atlas titled "The True Price of Protein (1750–2026): From Pasture to Bioreactor", inspired by editorial cartographic publications like Empty Sea Atlas, The Pudding, and Financial Times data journalism.
+
+AESTHETIC & DESIGN SYSTEM:
+- Editorial-scientific theme on a warm archival paper background (#F7F5F0), deep charcoal text (#1A1917), subtle hairline borders (#DFDAD0), and zero generic SaaS shadows or dark-mode neon gradients.
+- Typography: Use 'Newsreader' (serif) for titles and narrative callouts, 'Inter' for UI controls, and 'JetBrains Mono' with tabular-nums for all prices, coordinates, DIAAS scores, and labor minutes.
+- Color encoding by protein regime:
+  * Plant Whole & Isolates: Botanical Sage (#2D6A4F)
+  * Animal Meat & Trophic Tax: Terracotta (#B54A32)
+  * Dairy, Eggs & Marine: Warm Ochre (#9C6615)
+  * 2026 Lab Protein (Biomass, Precision Fermentation, Cultivated Meat): Cobalt Blue (#1D4E89) with distinct dashed outlines to separate "Ex-Ante Engineering TEA" from "Observed Market Prices".
+
+GLOBAL HEADER & CONTROL BAR:
+- Compact editorial masthead with subtitle: "275 Years of Technological Frontiers, Trophic Taxes, and Spatial Convergence Across 250,000+ Global Market Observations".
+- Sticky control bar containing:
+  1. Metric Toggle: "Labor Minutes / 50g RDA" vs "2026 PPP USD / 50g RDA"
+  2. Era Scrubber Slider (1750 to 2026 in decade steps, with Play/Pause animation button)
+  3. Toggle Switch: "Overlay 2026 Lab Protein TEA Benchmarks" (ON by default)
+  4. Navigation tabs switching smoothly between 3 analytical views:
+     - View 1: "GvK Frontier Atlas"
+     - View 2: "Spatiotemporal Map & Heat Matrix"
+     - View 3: "Trophic Tax & Stigler Shadow Price"
+
+VIEW 1 — GvK FRONTIER ATLAS (Gabrielli–von Kármán Log-Log Explorer):
+- Left 70%: High-density interactive log-log plot built with HTML5 Canvas (for 100k+ background market points rendered as density hex/heat clouds) + crisp SVG axes, gridlines, and frontier curves.
+  * Y-Axis (log): Specific Cost (Labor Minutes or 2026 USD per 50g DIAAS-adjusted protein).
+  * X-Axis (log) with selector pills: "Shelf Life (Days)", "FAO DIAAS Score", or "Dry-Mass Protein Density (g/kg)".
+  * Render the Free Disposal Hull (FDH) lower technological frontier line for the currently selected decade, plus a ghosted reference line of the 1780 frontier so users see 250 years of downward shift.
+  * Plot 2026 Lab Protein benchmarks (Soy/Pea Isolate, Fermented Mycoprotein, Precision-Fermented Casein/Whey, Cultivated Chicken) as labeled callout diamonds with sensitivity error bars.
+- Right 30%: Live inspector panel showing selected food/regime details (edible yield, DIAAS score, shelf life, cost breakdown, and distance to the animal frontier).
+
+VIEW 2 — SPATIOTEMPORAL MAP & ARABLE-LAND HEAT MATRIX:
+- Top Panel: Interactive world dot-density map rendered on HTML5 Canvas showing geocoded markets (Europe, Americas, Asia, Africa) colored by local protein cost in the selected decade, demonstrating how winter/famine spikes vanish after refrigeration and global soy/grain trade.
+- Bottom Panel: Interactive Location × Decade Heat Map (1750–2026) with 14 global cities/hubs ordered vertically by arable land per capita (from land-rich Chicago & Buenos Aires at top to land-scarce London, Tokyo & Singapore at bottom), highlighting how 2026 bioreactor economics invert geography in energy-rich, land-constrained hubs.
+
+VIEW 3 — LONG-RUN PRICE & TROPHIC TAX DECOMPOSITION (1750–2026):
+- Multi-series log time-series chart tracking: (1) Plant Protein Frontier, (2) Animal Protein Frontier, (3) Stigler Linear-Programming Shadow Price (lambda*), and (4) Cross-Market 10th–90th Percentile Variance Band.
+- Shaded area between Animal and Plant frontiers labeled "The Trophic Tax", annotated with key historical regime shifts (1870s Refrigerated Shipping, 1913 Haber-Bosch Nitrogen, 1950s Industrial Broiler Breeding, 2020s Precision Fermentation).
+
+DATA ARCHITECTURE:
+- Create a clean `src/data/proteinAtlasData.ts` data loader that attempts to fetch `/data/gvk_density_and_frontiers.json`, `/data/spatiotemporal_markets.json`, `/data/heatmap_matrix.json`, and `/data/trophic_and_stigler_series.json`, and gracefully falls back to a rich, scientifically calibrated mock dataset (generating 25,000 realistic synthetic points across eras and regimes) so the entire application works out-of-the-box immediately.

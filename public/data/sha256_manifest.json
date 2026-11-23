@@ -1,0 +1,50 @@
+{
+  "public/data/gvk_density_and_frontiers.json": {
+    "sha256": "281aba73812417555d10577dbfa6db5b4ee4c8d9be960cfc741f484849167a92",
+    "bytes": 940971
+  },
+  "public/data/h3_weather_grid.json": {
+    "sha256": "6420d0fbe7ade97fc1fb883f98f5a1281fca03a1bdbe3f9d27286ec7c22b44c3",
+    "bytes": 23526564
+  },
+  "public/data/heatmap_matrix.json": {
+    "sha256": "65f060d7418087f837605544b72c7bf5be59d5bd4063c7bee7fb5a98907e8c69",
+    "bytes": 11294
+  },
+  "public/data/metro_case_studies.json": {
+    "sha256": "d9be7a52991caba0bac07f37b3262e1ddff8e63a755076f6a7c9cbc79aaf9c49",
+    "bytes": 499334
+  },
+  "public/data/spatiotemporal_markets.json": {
+    "sha256": "76ab5b5b71a3fb71bdf59a638b83171d8dd1ecd807b054b4a17bbd4c5e448190",
+    "bytes": 1243677
+  },
+  "public/data/trophic_and_stigler_series.json": {
+    "sha256": "97de5e4c6005c58afc2e6537b58ce2a0f145b3104f9f58555b29795f74829acb",
+    "bytes": 14740
+  },
+  "public/papers/SI_1.pdf": {
+    "sha256": "e70c766e0ad9ac3056006ac2a18bdb71278a421f2723d8931b90326a2c849c8d",
+    "bytes": 58956
+  },
+  "public/papers/SI_1.tex": {
+    "sha256": "94d1c8c372fc515cd19385b1cebba3294063a1e77b4f8964d65779438f2ace82",
+    "bytes": 6046
+  },
+  "public/papers/paper1_scientific_data.pdf": {
+    "sha256": "8b08774a4417f81833fbee92f1a754e3dbe3aa136c2db093562175190093da6d",
+    "bytes": 676283
+  },
+  "public/papers/paper1_scientific_data.tex": {
+    "sha256": "3750ea49b39ad245afc3fa4682f91c9cca10adf53a42eba9767482b71342b14b",
+    "bytes": 26910
+  },
+  "public/papers/paper2_nature_food.pdf": {
+    "sha256": "8e24c6a2a1444895ed961e02f2951f574829ba8f83629c2c01f6ad3a59ab18bb",
+    "bytes": 2516620
+  },
+  "public/papers/paper2_nature_food.tex": {
+    "sha256": "6c125b1b827ea50a3a9ff713c18f45855ee3e33ae1cd1a65d5f4d2484199f056",
+    "bytes": 16895
+  }
+}

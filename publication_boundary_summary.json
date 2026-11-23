@@ -1,0 +1,19 @@
+{
+  "total_observations": 4446220,
+  "total_markets": 21906,
+  "total_economies": 141,
+  "markets_solved_9aa_lp": 19131,
+  "binding_amino_acid_distribution": {
+    "HIS": 30,
+    "ILE": 0,
+    "LEU": 3153,
+    "LYS": 7116,
+    "SAA": 5487,
+    "AAA": 0,
+    "THR": 0,
+    "TRP": 0,
+    "VAL": 1839
+  },
+  "median_seasonal_spike_pct": 25.0,
+  "h3_grid_size_kb": 9047.5
+}

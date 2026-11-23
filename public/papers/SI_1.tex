@@ -1,0 +1,78 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,booktabs,geometry,hyperref}
+\geometry{margin=2.3cm}
+
+\title{\textbf{Supplementary Information (SI-1):} \\ Data Descriptor, Mathematical Formulation, Spatial Validation \& Codebook}
+\author{Rolf Bastiaanssen et al. (2026) --- \textit{The Price of Protein}}
+\date{Release Version \texttt{v1.0-2026} --- November 2026}
+
+\begin{document}
+\maketitle
+
+\section{Scope and State-of-the-Art Positioning}
+Existing global food-affordability trackers evaluate national annual average prices against crude macronutrient targets ($N \times 6.25$). This dataset advances the empirical state of the art by integrating four layers into a single reproducible panel:
+\begin{enumerate}
+    \item \textbf{Bioavailable Amino-Acid Normalization (DIAAS \& 9-AA LP):} Harmonizes $4.45 \times 10^6$ retail and historical price quotes from crude nitrogen to human-usable indispensable amino acids using FAO Digestible Indispensable Amino Acid Scores (DIAAS) and solves a continuous 9-indispensable-amino-acid (9-AA) linear program at every spatial cell.
+    \item \textbf{Subnational Spatial Friction \& Seasonality:} Maps retail protein costs onto $70{,}440$ hexagonal H3 Resolution-4 cells (plus Resolution-6 urban--rural gradients across $90$ metropolitan corridors ($959$ real outlets)), capturing last-mile transport wedges outside observed market hubs ($94.4\%$ of global population resides within $100\text{ km}$ of an observed hub) and lean-season price spikes.
+    \item \textbf{Labor-Time Denominators \& Wage-Cliff Accounting:} Converts currency costs into minutes of work per $50\text{ g}$ DIAAS-adjusted protein across median and bottom-quintile ($\text{P20}$) wage distributions, identifying $3.21\text{ billion}$ people ($39.1\%$ of $8.20\text{ billion}$) facing a $\ge 25\%$ daily-wage cliff.
+    \item \textbf{Multi-Century Nordhaus \& Gabrielli--von K\'arm\'an Panel (1700--2026):} Unifies $326\text{ years}$ of historical urban price-wage series, ethnographic labor-effort benchmarks, modern retail quotes, and $2026$ ex-ante techno-economic assessment (TEA) B2B ingredient benchmarks onto a unified biophysical frontier.
+\end{enumerate}
+
+\section{Formal Mathematical Specification}
+\subsection{DIAAS-Adjusted Retail Unit Cost ($u_{i,c}$)}
+For commodity $c$ in spatial cell $i$ with retail price $P_{i,c}$ ($\text{USD/kg}$), crude protein fraction $\rho_c$, and capped FAO score $\text{DIAAS}_c \in (0, 1.25]$:
+\begin{equation}
+u_{i,c} = \frac{P_{i,c}}{20 \cdot \rho_c \cdot \min(\text{DIAAS}_c,\, 1.0)}
+\end{equation}
+where $u_{i,c}$ denotes the retail cost per $50\text{ g}$ of bioavailable reference protein (daily adult requirement for a $62.5\text{ kg}$ adult at $0.8\text{ g/kg/day}$).
+
+\subsection{Nine-Indispensable-Amino-Acid Linear Program ($\text{LP}_i$ vs.\ $\text{LP}_{v,i}$)}
+At each cell $i$, the unconstrained minimum-cost protein basket $\text{LP}_i$ minimizes expenditure subject to meeting all nine FAO adult indispensable amino acid requirements $R_a$ ($a \in \{\text{His, Ile, Leu, Lys, SAA, AAA, Thr, Trp, Val}\}$ per $50\text{ g}$ reference protein):
+\begin{equation}
+\text{LP}_i = \min_{\mathbf{q} \ge \mathbf{0}} \sum_{c \in \mathcal{C}_i} P_{i,c}\, q_c \quad \text{s.t.} \quad \sum_{c \in \mathcal{C}_i} \alpha_{c,a}\, d_{c,a}\, q_c \ge R_a \;\;\forall a \in \{1,\dots,9\}
+\end{equation}
+Restricting $\mathcal{C}_i$ to plant-only foods ($\mathcal{C}_i^{\text{plant}}$) yields the plant-only complementarity shadow cost $\text{LP}_{v,i}$, satisfying the strict invariant $\text{LP}_{v,i} \ge \text{LP}_i$ across all $70{,}440$ Res-4 cells (global median complementarity premium $\text{LP}_{v,i}/\text{LP}_i = 1.180$, IQR: $1.179\text{--}1.180$).
+
+\subsection{Labor-Time Cost ($L_{i,q}$) and Daily-Wage Share ($w_{i,q}$)}
+Given an $8\text{-hour}$ ($480\text{-minute}$) workday and daily wage $W_{i,q}$ for income quantile $q \in \{\text{Median}, \text{P20}\}$:
+\begin{equation}
+w_{i,q} = \frac{u_i^*}{W_{i,q}} \times 100\%, \qquad L_{i,q} = 480 \cdot \frac{u_i^*}{W_{i,q}} \;\; (\text{minutes per 50g DIAAS protein})
+\end{equation}
+
+\section{Out-of-Sample Spatial Block Cross-Validation (500 km Blocks)}
+\begin{table}[h!]
+\centering
+\caption{10-fold $5^\circ \times 5^\circ$ ($\approx 500\text{ km}$) spatial block cross-validation and global coverage invariants.}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Target Variable} & \textbf{Unit} & \textbf{Block CV $R^2$} & \textbf{RMSE} & \textbf{MAE} \\
+\midrule
+Retail Protein Cost ($u$) & $\text{USD / 50g DIAAS}$ & $0.511$ & $\$0.735$ & $\$0.380$ \\
+Daily Wage Share ($w_{\text{med}}$) & $\%$ of median wage & $0.759$ & $16.05\%$ & $9.60\%$ \\
+Plant-Only 9-AA Premium ($\text{LP}_v/\text{LP}$) & Ratio ($\ge 1.0$) & \multicolumn{3}{c}{Median $1.180$ (IQR $1.179\text{--}1.180$, $N=70{,}440$)} \\
+Market Hub Catchment ($\le 100\text{ km}$) & Population share & \multicolumn{3}{c}{$94.4\%$ of $8.20\text{ billion}$ global population} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Dataset Inventory (\texttt{v1.0-2026})}
+\begin{table}[h!]
+\centering
+\caption{Versioned JSON data artifacts in \texttt{public/data/}.}
+\begin{tabular}{lcl}
+\toprule
+\textbf{Filename} & \textbf{Size} & \textbf{Granularity / Coverage} \\
+\midrule
+\texttt{h3\_weather\_grid.json} & $22.0\text{ MB}$ & $70{,}440$ H3 Res-4 cells ($8.20\text{B}$ population) \\
+\texttt{metro\_case\_studies.json} & $437\text{ KB}$ & $25$ global metropolitan corridors (H3 Res-6) \\
+\texttt{gvk\_density\_and\_frontiers.json} & $621\text{ KB}$ & $34$ decades ($1700\text{--}2026$) $\times$ $3$ physical axes \\
+\texttt{spatiotemporal\_markets.json} & $1.2\text{ MB}$ & $34$ decades $\times$ $2{,}746$ market/ethnographic nodes \\
+\texttt{trophic\_and\_stigler\_series.json} & $13\text{ KB}$ & $34$ decades ($1700\text{--}2026$) Nordhaus labor series \\
+\texttt{heatmap\_matrix.json} & $11\text{ KB}$ & $14$ world regions $\times$ $12$ food regimes \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}

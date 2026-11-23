@@ -1,0 +1,23 @@
+# Virtual environments & OS junk
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Raw & intermediate multi-GB datasets (exceed GitHub 100MB limit)
+data_raw/
+raw_data/
+*.parquet
+exports/*.csv
+
+# LaTeX build artifacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+
+# Local DuckDB staging databases & base64 scratch files
+*.duckdb
+*.duckdb.wal
+*.b64*
+gpih_headers_audit.txt
