@@ -72,5 +72,8 @@
   "nature_food_extensions.json": "dc330f83235ee6e1c97b208ed62bf374d3afd8db273f4ae688ef7126ea0e6343",
   "seasonality_volatility_contrast.json": "3bef970a2c977096bc0e3b022b8c1852805fb0faade69ce699bd5980d1fc5164",
   "spatiotemporal_markets.json": "76ab5b5b71a3fb71bdf59a638b83171d8dd1ecd807b054b4a17bbd4c5e448190",
-  "trophic_and_stigler_series.json": "97de5e4c6005c58afc2e6537b58ce2a0f145b3104f9f58555b29795f74829acb"
+  "trophic_and_stigler_series.json": "97de5e4c6005c58afc2e6537b58ce2a0f145b3104f9f58555b29795f74829acb",
+  "SI_1.pdf": "8ab1e2faabe353d4b3ae07c28c0f32865685f7145433fef7b880d2f03b04b673",
+  "paper1_scientific_data.pdf": "808731e07304c4b15e849658184a1639ab7c0472a8bb86e125754de6beb42902",
+  "paper2_nature_food.pdf": "07c0ef84a9e5906615b71e91a306c4f335a4341b94a621b6ed680940bde1b771"
 }
