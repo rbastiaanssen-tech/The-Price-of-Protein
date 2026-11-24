@@ -1,0 +1,37 @@
+{
+  "n_res4_cells": 72255,
+  "total_population_billions": 8.2,
+  "life_stage_complementarity_premium": {
+    "adult_gt3yr": {
+      "median": 1.18,
+      "iqr_q25": 1.1797,
+      "iqr_q75": 1.1803
+    },
+    "young_child_6_36mo": {
+      "median": 1.315,
+      "iqr_q25": 1.2952,
+      "iqr_q75": 1.3436
+    }
+  },
+  "deployment_counterfactuals_25pct_threshold": {
+    "b2b_median_factory_gate_usd_50g": 0.766,
+    "baseline_2026": {
+      "p20_billions": 3.226,
+      "p20_pct": 39.3,
+      "med_billions": 1.794,
+      "med_pct": 21.9
+    },
+    "pathway1_b2c_standalone_retail_analog": {
+      "p20_billions": 3.182,
+      "p20_pct": 38.8,
+      "med_billions": 1.748,
+      "med_pct": 21.3
+    },
+    "pathway2_b2b_industrial_staple_fortification": {
+      "p20_billions": 2.981,
+      "p20_pct": 36.4,
+      "med_billions": 1.53,
+      "med_pct": 18.7
+    }
+  }
+}
